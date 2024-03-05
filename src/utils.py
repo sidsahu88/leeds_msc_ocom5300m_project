@@ -232,16 +232,19 @@ def format_time(seconds):
     return f
     
 
-def plot_line_chart(arrs, legends, xlabel, ylabel, title, marker='o', line='-', color_map = plt.cm.tab10, grid=True):
-    fig, ax = plt.subplots(figsize=(10, 6))
-    epochs = np.arange(1, len(arrs[0])+1)
+def plot_line_chart(arrs, legends, xlabel, ylabel, title, xticks=[], marker='o', line='-', color_map = plt.cm.tab10, grid=True):
+    fig, ax = plt.subplots(figsize=(8, 6))
+    
+    if len(xticks) == 0:
+        xticks = np.arange(1, len(arrs[0])+1)
 
     colors = color_map(np.linspace(0, 1, len(legends)))
 
     for i in range(len(arrs)):
-        ax.plot(epochs, arrs[i], marker+line, label = legends[i], color=colors[i])
+        ax.plot(xticks, arrs[i], marker+line, label = legends[i], color=colors[i])
 
-    ax.set_xticks(epochs)
+    ax.set_xticks(xticks)
+    ax.tick_params(axis='both', which='major', labelsize=12)
     ax.set_xlabel(xlabel, fontsize = 16)
     ax.set_ylabel(ylabel, fontsize = 16)
     ax.set_title(title, fontsize = 16)
