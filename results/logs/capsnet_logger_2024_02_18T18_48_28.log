@@ -1,0 +1,74 @@
+02/18 06:49:44 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(0/782), Loss=0.0597, Top 1 Acc=93.75, Top 5 Acc=100.00
+02/18 06:49:49 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(64/782), Loss=0.0400, Top 1 Acc=95.67, Top 5 Acc=99.98
+02/18 06:49:54 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(128/782), Loss=0.0397, Top 1 Acc=95.47, Top 5 Acc=99.98
+02/18 06:50:00 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(192/782), Loss=0.0414, Top 1 Acc=95.30, Top 5 Acc=99.97
+02/18 06:50:04 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(256/782), Loss=0.0426, Top 1 Acc=95.15, Top 5 Acc=99.97
+02/18 06:50:10 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(320/782), Loss=0.0439, Top 1 Acc=94.94, Top 5 Acc=99.97
+02/18 06:50:15 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(384/782), Loss=0.0456, Top 1 Acc=94.68, Top 5 Acc=99.95
+02/18 06:50:19 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(448/782), Loss=0.0469, Top 1 Acc=94.43, Top 5 Acc=99.95
+02/18 06:50:25 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(512/782), Loss=0.0484, Top 1 Acc=94.21, Top 5 Acc=99.94
+02/18 06:50:30 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(576/782), Loss=0.0491, Top 1 Acc=94.11, Top 5 Acc=99.95
+02/18 06:50:35 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(640/782), Loss=0.0497, Top 1 Acc=94.06, Top 5 Acc=99.95
+02/18 06:50:40 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(704/782), Loss=0.0503, Top 1 Acc=93.96, Top 5 Acc=99.94
+02/18 06:50:45 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(768/782), Loss=0.0510, Top 1 Acc=93.86, Top 5 Acc=99.94
+02/18 06:50:51 PM | base_capsnet_cifar10_ccm_model Validation - Epoch=1, Loss=0.2080, Top 1 Acc=73.390, Top 5 Acc=95.580
+02/18 06:50:51 PM | Epoch 1 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_base_capsnet_cifar10_ccm_model_Epoch1_of_30.pt
+02/18 06:50:51 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(0/782), Loss=0.0487, Top 1 Acc=96.88, Top 5 Acc=100.00
+02/18 06:50:55 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(64/782), Loss=0.0287, Top 1 Acc=96.95, Top 5 Acc=100.00
+02/18 06:51:00 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(128/782), Loss=0.0281, Top 1 Acc=96.94, Top 5 Acc=99.99
+02/18 06:51:06 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(192/782), Loss=0.0295, Top 1 Acc=96.78, Top 5 Acc=99.98
+02/18 06:51:10 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(256/782), Loss=0.0304, Top 1 Acc=96.64, Top 5 Acc=99.99
+02/18 06:51:16 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(320/782), Loss=0.0315, Top 1 Acc=96.52, Top 5 Acc=99.98
+02/18 06:51:21 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(384/782), Loss=0.0326, Top 1 Acc=96.34, Top 5 Acc=99.98
+02/18 06:51:25 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(448/782), Loss=0.0335, Top 1 Acc=96.23, Top 5 Acc=99.99
+02/18 06:51:31 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(512/782), Loss=0.0345, Top 1 Acc=96.15, Top 5 Acc=99.98
+02/18 06:51:36 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(576/782), Loss=0.0360, Top 1 Acc=95.97, Top 5 Acc=99.98
+02/18 06:51:42 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(640/782), Loss=0.0365, Top 1 Acc=95.91, Top 5 Acc=99.98
+02/18 06:51:46 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(704/782), Loss=0.0374, Top 1 Acc=95.74, Top 5 Acc=99.97
+02/18 06:51:51 PM | base_capsnet_cifar10_ccm_model Training - Epoch=2, Iteration=(768/782), Loss=0.0381, Top 1 Acc=95.66, Top 5 Acc=99.98
+02/18 06:51:57 PM | base_capsnet_cifar10_ccm_model Validation - Epoch=2, Loss=0.2094, Top 1 Acc=73.440, Top 5 Acc=95.320
+02/18 06:51:57 PM | Epoch 2 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_base_capsnet_cifar10_ccm_model_Epoch2_of_30.pt
+02/18 06:51:57 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(0/782), Loss=0.0566, Top 1 Acc=92.19, Top 5 Acc=100.00
+02/18 06:52:01 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(64/782), Loss=0.0244, Top 1 Acc=97.21, Top 5 Acc=99.98
+02/18 06:52:07 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(128/782), Loss=0.0228, Top 1 Acc=97.52, Top 5 Acc=99.99
+02/18 06:52:12 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(192/782), Loss=0.0229, Top 1 Acc=97.50, Top 5 Acc=99.98
+02/18 06:52:16 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(256/782), Loss=0.0231, Top 1 Acc=97.48, Top 5 Acc=99.98
+02/18 06:52:22 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(320/782), Loss=0.0238, Top 1 Acc=97.38, Top 5 Acc=99.99
+02/18 06:52:27 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(384/782), Loss=0.0246, Top 1 Acc=97.28, Top 5 Acc=99.98
+02/18 06:52:32 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(448/782), Loss=0.0256, Top 1 Acc=97.12, Top 5 Acc=99.98
+02/18 06:52:37 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(512/782), Loss=0.0267, Top 1 Acc=97.01, Top 5 Acc=99.98
+02/18 06:52:42 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(576/782), Loss=0.0274, Top 1 Acc=96.95, Top 5 Acc=99.98
+02/18 06:52:48 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(640/782), Loss=0.0289, Top 1 Acc=96.72, Top 5 Acc=99.98
+02/18 06:52:52 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(704/782), Loss=0.0299, Top 1 Acc=96.59, Top 5 Acc=99.98
+02/18 06:52:58 PM | base_capsnet_cifar10_ccm_model Training - Epoch=3, Iteration=(768/782), Loss=0.0308, Top 1 Acc=96.43, Top 5 Acc=99.98
+02/18 06:53:03 PM | base_capsnet_cifar10_ccm_model Validation - Epoch=3, Loss=0.2076, Top 1 Acc=73.310, Top 5 Acc=95.330
+02/18 06:53:03 PM | Epoch 3 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_base_capsnet_cifar10_ccm_model_Epoch3_of_30.pt
+02/18 06:53:03 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(0/782), Loss=0.0099, Top 1 Acc=100.00, Top 5 Acc=100.00
+02/18 06:53:07 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(64/782), Loss=0.0203, Top 1 Acc=97.62, Top 5 Acc=100.00
+02/18 06:53:13 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(128/782), Loss=0.0186, Top 1 Acc=97.97, Top 5 Acc=100.00
+02/18 06:53:18 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(192/782), Loss=0.0191, Top 1 Acc=97.90, Top 5 Acc=99.99
+02/18 06:53:23 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(256/782), Loss=0.0189, Top 1 Acc=97.93, Top 5 Acc=99.99
+02/18 06:53:28 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(320/782), Loss=0.0193, Top 1 Acc=97.88, Top 5 Acc=100.00
+02/18 06:53:33 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(384/782), Loss=0.0202, Top 1 Acc=97.76, Top 5 Acc=100.00
+02/18 06:53:38 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(448/782), Loss=0.0214, Top 1 Acc=97.62, Top 5 Acc=100.00
+02/18 06:53:43 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(512/782), Loss=0.0221, Top 1 Acc=97.58, Top 5 Acc=99.99
+02/18 06:53:48 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(576/782), Loss=0.0233, Top 1 Acc=97.44, Top 5 Acc=99.99
+02/18 06:53:53 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(640/782), Loss=0.0244, Top 1 Acc=97.29, Top 5 Acc=99.99
+02/18 06:53:58 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(704/782), Loss=0.0254, Top 1 Acc=97.18, Top 5 Acc=99.99
+02/18 06:54:04 PM | base_capsnet_cifar10_ccm_model Training - Epoch=4, Iteration=(768/782), Loss=0.0264, Top 1 Acc=97.08, Top 5 Acc=99.99
+02/18 06:54:09 PM | base_capsnet_cifar10_ccm_model Validation - Epoch=4, Loss=0.2153, Top 1 Acc=72.770, Top 5 Acc=94.800
+02/18 06:54:09 PM | Epoch 4 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_base_capsnet_cifar10_ccm_model_Epoch4_of_30.pt
+02/18 06:54:09 PM | base_capsnet_cifar10_ccm_model Training - Epoch=5, Iteration=(0/782), Loss=0.0131, Top 1 Acc=98.44, Top 5 Acc=100.00
+02/18 06:54:14 PM | base_capsnet_cifar10_ccm_model Training - Epoch=5, Iteration=(64/782), Loss=0.0185, Top 1 Acc=97.67, Top 5 Acc=100.00
+02/18 06:54:19 PM | base_capsnet_cifar10_ccm_model Training - Epoch=5, Iteration=(128/782), Loss=0.0169, Top 1 Acc=97.94, Top 5 Acc=100.00
+02/18 06:54:24 PM | base_capsnet_cifar10_ccm_model Training - Epoch=5, Iteration=(192/782), Loss=0.0163, Top 1 Acc=98.07, Top 5 Acc=100.00
+02/18 06:54:30 PM | base_capsnet_cifar10_ccm_model Training - Epoch=5, Iteration=(256/782), Loss=0.0165, Top 1 Acc=98.12, Top 5 Acc=100.00
+02/18 06:55:10 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(0/1563), Loss=0.0327, Top 1 Acc=96.88, Top 5 Acc=100.00
+02/18 06:55:12 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(32/1563), Loss=0.0548, Top 1 Acc=94.22, Top 5 Acc=99.91
+02/18 06:55:14 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(64/1563), Loss=0.0562, Top 1 Acc=93.89, Top 5 Acc=99.86
+02/18 06:55:16 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(96/1563), Loss=0.0549, Top 1 Acc=93.59, Top 5 Acc=99.90
+02/18 06:55:18 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(128/1563), Loss=0.0540, Top 1 Acc=93.68, Top 5 Acc=99.93
+02/18 06:55:20 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(160/1563), Loss=0.0551, Top 1 Acc=93.73, Top 5 Acc=99.94
+02/18 06:55:22 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(192/1563), Loss=0.0555, Top 1 Acc=93.67, Top 5 Acc=99.95
+02/18 06:55:24 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(224/1563), Loss=0.0560, Top 1 Acc=93.60, Top 5 Acc=99.93
+02/18 06:55:26 PM | base_capsnet_cifar10_ccm_model Training - Epoch=1, Iteration=(256/1563), Loss=0.0568, Top 1 Acc=93.45, Top 5 Acc=99.94

@@ -1,0 +1,406 @@
+12/23 04:18:57 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(0/782), Loss=-0.0363, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:19:05 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(64/782), Loss=-0.0292, Top 1 Acc=99.71, Top 5 Acc=99.95
+12/23 04:19:13 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(128/782), Loss=-0.0315, Top 1 Acc=99.81, Top 5 Acc=99.96
+12/23 04:19:21 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(192/782), Loss=-0.0319, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:19:29 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(256/782), Loss=-0.0322, Top 1 Acc=99.84, Top 5 Acc=99.98
+12/23 04:19:37 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(320/782), Loss=-0.0327, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:19:45 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(384/782), Loss=-0.0328, Top 1 Acc=99.86, Top 5 Acc=99.98
+12/23 04:19:52 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(448/782), Loss=-0.0331, Top 1 Acc=99.86, Top 5 Acc=99.99
+12/23 04:20:00 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(512/782), Loss=-0.0332, Top 1 Acc=99.86, Top 5 Acc=99.98
+12/23 04:20:09 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(576/782), Loss=-0.0332, Top 1 Acc=99.85, Top 5 Acc=99.99
+12/23 04:20:17 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(640/782), Loss=-0.0330, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:20:25 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(704/782), Loss=-0.0329, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:20:33 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(768/782), Loss=-0.0330, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:20:44 PM | BaseCapsuleNetwork Validation - Loss=0.2752, Top 1 Acc=68.500, Top 5 Acc=95.400
+12/23 04:20:44 PM | Epoch 24 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch24_of_50.pt
+12/23 04:20:44 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(0/782), Loss=-0.0369, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:20:52 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(64/782), Loss=-0.0341, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:21:00 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(128/782), Loss=-0.0346, Top 1 Acc=99.82, Top 5 Acc=100.00
+12/23 04:21:08 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(192/782), Loss=-0.0346, Top 1 Acc=99.83, Top 5 Acc=99.98
+12/23 04:21:16 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(256/782), Loss=-0.0347, Top 1 Acc=99.84, Top 5 Acc=99.97
+12/23 04:21:24 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(320/782), Loss=-0.0347, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:21:32 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(384/782), Loss=-0.0345, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:21:40 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(448/782), Loss=-0.0340, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:21:48 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(512/782), Loss=-0.0338, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:21:56 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(576/782), Loss=-0.0336, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/23 04:22:04 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(640/782), Loss=-0.0334, Top 1 Acc=99.81, Top 5 Acc=99.98
+12/23 04:22:12 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(704/782), Loss=-0.0330, Top 1 Acc=99.80, Top 5 Acc=99.98
+12/23 04:22:20 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(768/782), Loss=-0.0329, Top 1 Acc=99.80, Top 5 Acc=99.98
+12/23 04:22:31 PM | BaseCapsuleNetwork Validation - Loss=0.2811, Top 1 Acc=68.260, Top 5 Acc=95.250
+12/23 04:22:32 PM | Epoch 25 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch25_of_50.pt
+12/23 04:22:32 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(0/782), Loss=-0.0368, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:22:40 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(64/782), Loss=-0.0360, Top 1 Acc=99.88, Top 5 Acc=99.98
+12/23 04:22:48 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(128/782), Loss=-0.0356, Top 1 Acc=99.85, Top 5 Acc=99.96
+12/23 04:22:56 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(192/782), Loss=-0.0356, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:23:04 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(256/782), Loss=-0.0354, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:23:12 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(320/782), Loss=-0.0352, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:23:20 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(384/782), Loss=-0.0350, Top 1 Acc=99.84, Top 5 Acc=99.98
+12/23 04:23:28 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(448/782), Loss=-0.0346, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:23:36 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(512/782), Loss=-0.0344, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:23:44 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(576/782), Loss=-0.0341, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:23:52 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(640/782), Loss=-0.0340, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:24:00 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(704/782), Loss=-0.0339, Top 1 Acc=99.85, Top 5 Acc=99.98
+12/23 04:24:08 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(768/782), Loss=-0.0337, Top 1 Acc=99.84, Top 5 Acc=99.98
+12/23 04:24:19 PM | BaseCapsuleNetwork Validation - Loss=0.2848, Top 1 Acc=67.600, Top 5 Acc=95.200
+12/23 04:24:19 PM | Epoch 26 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch26_of_50.pt
+12/23 04:24:19 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(0/782), Loss=-0.0316, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:24:27 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(64/782), Loss=-0.0324, Top 1 Acc=99.83, Top 5 Acc=100.00
+12/23 04:24:35 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(128/782), Loss=-0.0339, Top 1 Acc=99.88, Top 5 Acc=100.00
+12/23 04:24:43 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(192/782), Loss=-0.0345, Top 1 Acc=99.89, Top 5 Acc=100.00
+12/23 04:24:51 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(256/782), Loss=-0.0349, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:24:59 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(320/782), Loss=-0.0351, Top 1 Acc=99.87, Top 5 Acc=99.99
+12/23 04:25:07 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(384/782), Loss=-0.0353, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:25:15 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(448/782), Loss=-0.0352, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:25:23 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(512/782), Loss=-0.0352, Top 1 Acc=99.88, Top 5 Acc=99.99
+12/23 04:25:31 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(576/782), Loss=-0.0351, Top 1 Acc=99.87, Top 5 Acc=99.99
+12/23 04:25:39 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(640/782), Loss=-0.0348, Top 1 Acc=99.86, Top 5 Acc=99.98
+12/23 04:25:47 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(704/782), Loss=-0.0347, Top 1 Acc=99.87, Top 5 Acc=99.98
+12/23 04:25:55 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(768/782), Loss=-0.0346, Top 1 Acc=99.87, Top 5 Acc=99.98
+12/23 04:26:07 PM | BaseCapsuleNetwork Validation - Loss=0.2852, Top 1 Acc=68.200, Top 5 Acc=94.870
+12/23 04:26:07 PM | Epoch 27 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch27_of_50.pt
+12/23 04:26:07 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(0/782), Loss=-0.0381, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:26:15 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(64/782), Loss=-0.0343, Top 1 Acc=99.78, Top 5 Acc=99.98
+12/23 04:26:23 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(128/782), Loss=-0.0352, Top 1 Acc=99.85, Top 5 Acc=99.99
+12/23 04:26:31 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(192/782), Loss=-0.0352, Top 1 Acc=99.87, Top 5 Acc=99.99
+12/23 04:26:39 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(256/782), Loss=-0.0353, Top 1 Acc=99.87, Top 5 Acc=99.99
+12/23 04:26:47 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(320/782), Loss=-0.0350, Top 1 Acc=99.86, Top 5 Acc=99.99
+12/23 04:26:55 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(384/782), Loss=-0.0347, Top 1 Acc=99.85, Top 5 Acc=99.99
+12/23 04:27:03 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(448/782), Loss=-0.0344, Top 1 Acc=99.85, Top 5 Acc=99.99
+12/23 04:27:11 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(512/782), Loss=-0.0342, Top 1 Acc=99.84, Top 5 Acc=99.99
+12/23 04:27:19 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(576/782), Loss=-0.0339, Top 1 Acc=99.83, Top 5 Acc=99.99
+12/23 04:27:27 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(640/782), Loss=-0.0335, Top 1 Acc=99.82, Top 5 Acc=99.99
+12/23 04:27:35 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(704/782), Loss=-0.0336, Top 1 Acc=99.82, Top 5 Acc=99.99
+12/23 04:27:43 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(768/782), Loss=-0.0336, Top 1 Acc=99.82, Top 5 Acc=99.99
+12/23 04:27:54 PM | BaseCapsuleNetwork Validation - Loss=0.2838, Top 1 Acc=67.900, Top 5 Acc=94.970
+12/23 04:27:54 PM | Epoch 28 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch28_of_50.pt
+12/23 04:27:54 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(0/782), Loss=-0.0349, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:28:02 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(64/782), Loss=-0.0349, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:28:11 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(128/782), Loss=-0.0355, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:28:19 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(192/782), Loss=-0.0359, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:28:27 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(256/782), Loss=-0.0356, Top 1 Acc=99.89, Top 5 Acc=100.00
+12/23 04:28:34 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(320/782), Loss=-0.0353, Top 1 Acc=99.89, Top 5 Acc=100.00
+12/23 04:28:42 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(384/782), Loss=-0.0352, Top 1 Acc=99.89, Top 5 Acc=100.00
+12/23 04:28:51 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(448/782), Loss=-0.0352, Top 1 Acc=99.89, Top 5 Acc=100.00
+12/23 04:28:59 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(512/782), Loss=-0.0350, Top 1 Acc=99.89, Top 5 Acc=100.00
+12/23 04:29:07 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(576/782), Loss=-0.0348, Top 1 Acc=99.88, Top 5 Acc=99.99
+12/23 04:29:15 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(640/782), Loss=-0.0347, Top 1 Acc=99.86, Top 5 Acc=99.99
+12/23 04:29:23 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(704/782), Loss=-0.0346, Top 1 Acc=99.86, Top 5 Acc=99.99
+12/23 04:29:31 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(768/782), Loss=-0.0345, Top 1 Acc=99.86, Top 5 Acc=99.99
+12/23 04:29:42 PM | BaseCapsuleNetwork Validation - Loss=0.2865, Top 1 Acc=67.420, Top 5 Acc=94.820
+12/23 04:29:42 PM | Epoch 29 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch29_of_50.pt
+12/23 04:29:42 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(0/782), Loss=-0.0342, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:29:50 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(64/782), Loss=-0.0349, Top 1 Acc=99.88, Top 5 Acc=99.95
+12/23 04:29:58 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(128/782), Loss=-0.0355, Top 1 Acc=99.92, Top 5 Acc=99.98
+12/23 04:30:06 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(192/782), Loss=-0.0359, Top 1 Acc=99.89, Top 5 Acc=99.98
+12/23 04:30:14 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(256/782), Loss=-0.0358, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:30:22 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(320/782), Loss=-0.0358, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:30:30 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(384/782), Loss=-0.0358, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:30:38 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(448/782), Loss=-0.0358, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:30:46 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(512/782), Loss=-0.0357, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:30:54 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(576/782), Loss=-0.0357, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:31:02 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(640/782), Loss=-0.0355, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:31:10 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(704/782), Loss=-0.0352, Top 1 Acc=99.87, Top 5 Acc=99.99
+12/23 04:31:18 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(768/782), Loss=-0.0350, Top 1 Acc=99.87, Top 5 Acc=99.99
+12/23 04:31:29 PM | BaseCapsuleNetwork Validation - Loss=0.2834, Top 1 Acc=68.510, Top 5 Acc=94.700
+12/23 04:31:30 PM | Epoch 30 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch30_of_50.pt
+12/23 04:31:30 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(0/782), Loss=-0.0379, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:31:38 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(64/782), Loss=-0.0360, Top 1 Acc=99.98, Top 5 Acc=100.00
+12/23 04:31:46 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(128/782), Loss=-0.0361, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:31:54 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(192/782), Loss=-0.0359, Top 1 Acc=99.91, Top 5 Acc=99.98
+12/23 04:32:02 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(256/782), Loss=-0.0358, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:32:10 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(320/782), Loss=-0.0357, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:32:18 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(384/782), Loss=-0.0357, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:32:26 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(448/782), Loss=-0.0358, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:32:34 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(512/782), Loss=-0.0357, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:32:42 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(576/782), Loss=-0.0357, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:32:50 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(640/782), Loss=-0.0355, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:32:58 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(704/782), Loss=-0.0352, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:33:06 PM | BaseCapsuleNetwork Training - Epoch=31, Iteration=(768/782), Loss=-0.0349, Top 1 Acc=99.88, Top 5 Acc=99.99
+12/23 04:33:17 PM | BaseCapsuleNetwork Validation - Loss=0.2847, Top 1 Acc=68.280, Top 5 Acc=94.910
+12/23 04:33:17 PM | Epoch 31 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch31_of_50.pt
+12/23 04:33:18 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(0/782), Loss=-0.0347, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:33:26 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(64/782), Loss=-0.0348, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:33:34 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(128/782), Loss=-0.0348, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:33:42 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(192/782), Loss=-0.0353, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:33:50 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(256/782), Loss=-0.0353, Top 1 Acc=99.92, Top 5 Acc=99.99
+12/23 04:33:57 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(320/782), Loss=-0.0356, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:34:06 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(384/782), Loss=-0.0353, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:34:14 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(448/782), Loss=-0.0348, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:34:22 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(512/782), Loss=-0.0346, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:34:30 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(576/782), Loss=-0.0345, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:34:38 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(640/782), Loss=-0.0344, Top 1 Acc=99.88, Top 5 Acc=99.99
+12/23 04:34:45 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(704/782), Loss=-0.0344, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:34:53 PM | BaseCapsuleNetwork Training - Epoch=32, Iteration=(768/782), Loss=-0.0345, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:35:05 PM | BaseCapsuleNetwork Validation - Loss=0.2883, Top 1 Acc=68.020, Top 5 Acc=94.940
+12/23 04:35:05 PM | Epoch 32 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch32_of_50.pt
+12/23 04:35:05 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(0/782), Loss=-0.0427, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:35:13 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(64/782), Loss=-0.0348, Top 1 Acc=99.88, Top 5 Acc=99.98
+12/23 04:35:21 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(128/782), Loss=-0.0354, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:35:29 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(192/782), Loss=-0.0353, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:35:37 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(256/782), Loss=-0.0356, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:35:45 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(320/782), Loss=-0.0358, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:35:53 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(384/782), Loss=-0.0358, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:36:01 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(448/782), Loss=-0.0358, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:36:10 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(512/782), Loss=-0.0358, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:36:17 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(576/782), Loss=-0.0357, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:36:25 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(640/782), Loss=-0.0357, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:36:33 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(704/782), Loss=-0.0356, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:36:41 PM | BaseCapsuleNetwork Training - Epoch=33, Iteration=(768/782), Loss=-0.0355, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:36:52 PM | BaseCapsuleNetwork Validation - Loss=0.2909, Top 1 Acc=67.870, Top 5 Acc=94.380
+12/23 04:36:53 PM | Epoch 33 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch33_of_50.pt
+12/23 04:36:53 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(0/782), Loss=-0.0383, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:37:01 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(64/782), Loss=-0.0358, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:37:09 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(128/782), Loss=-0.0359, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:37:17 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(192/782), Loss=-0.0357, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:37:25 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(256/782), Loss=-0.0360, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:37:33 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(320/782), Loss=-0.0358, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:37:41 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(384/782), Loss=-0.0357, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:37:49 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(448/782), Loss=-0.0355, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:37:57 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(512/782), Loss=-0.0355, Top 1 Acc=99.90, Top 5 Acc=99.99
+12/23 04:38:05 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(576/782), Loss=-0.0355, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:38:13 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(640/782), Loss=-0.0354, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:38:21 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(704/782), Loss=-0.0353, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:38:29 PM | BaseCapsuleNetwork Training - Epoch=34, Iteration=(768/782), Loss=-0.0352, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:38:40 PM | BaseCapsuleNetwork Validation - Loss=0.2895, Top 1 Acc=68.210, Top 5 Acc=94.670
+12/23 04:38:40 PM | Epoch 34 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch34_of_50.pt
+12/23 04:38:40 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(0/782), Loss=-0.0307, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:38:48 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(64/782), Loss=-0.0357, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:38:56 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(128/782), Loss=-0.0358, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:39:04 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(192/782), Loss=-0.0362, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:39:12 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(256/782), Loss=-0.0363, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:39:20 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(320/782), Loss=-0.0364, Top 1 Acc=99.94, Top 5 Acc=99.99
+12/23 04:39:28 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(384/782), Loss=-0.0365, Top 1 Acc=99.94, Top 5 Acc=99.99
+12/23 04:39:36 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(448/782), Loss=-0.0363, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:39:43 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(512/782), Loss=-0.0361, Top 1 Acc=99.92, Top 5 Acc=99.99
+12/23 04:39:51 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(576/782), Loss=-0.0359, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:39:59 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(640/782), Loss=-0.0358, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:40:07 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(704/782), Loss=-0.0357, Top 1 Acc=99.92, Top 5 Acc=99.99
+12/23 04:40:15 PM | BaseCapsuleNetwork Training - Epoch=35, Iteration=(768/782), Loss=-0.0356, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:40:26 PM | BaseCapsuleNetwork Validation - Loss=0.2901, Top 1 Acc=67.680, Top 5 Acc=94.320
+12/23 04:40:27 PM | Epoch 35 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch35_of_50.pt
+12/23 04:40:27 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(0/782), Loss=-0.0335, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:40:35 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(64/782), Loss=-0.0345, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:40:43 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(128/782), Loss=-0.0352, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:40:51 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(192/782), Loss=-0.0357, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:40:58 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(256/782), Loss=-0.0360, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:41:07 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(320/782), Loss=-0.0359, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:41:15 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(384/782), Loss=-0.0360, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:41:22 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(448/782), Loss=-0.0360, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:41:30 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(512/782), Loss=-0.0361, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:41:38 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(576/782), Loss=-0.0361, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:41:46 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(640/782), Loss=-0.0360, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:41:54 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(704/782), Loss=-0.0359, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:42:02 PM | BaseCapsuleNetwork Training - Epoch=36, Iteration=(768/782), Loss=-0.0357, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:42:13 PM | BaseCapsuleNetwork Validation - Loss=0.2932, Top 1 Acc=67.540, Top 5 Acc=94.660
+12/23 04:42:13 PM | Epoch 36 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch36_of_50.pt
+12/23 04:42:14 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(0/782), Loss=-0.0421, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:42:22 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(64/782), Loss=-0.0357, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:42:29 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(128/782), Loss=-0.0357, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:42:37 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(192/782), Loss=-0.0356, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:42:45 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(256/782), Loss=-0.0356, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:42:53 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(320/782), Loss=-0.0354, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:43:01 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(384/782), Loss=-0.0355, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:43:09 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(448/782), Loss=-0.0355, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:43:17 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(512/782), Loss=-0.0355, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:43:25 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(576/782), Loss=-0.0355, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:43:33 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(640/782), Loss=-0.0355, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:43:41 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(704/782), Loss=-0.0353, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:43:49 PM | BaseCapsuleNetwork Training - Epoch=37, Iteration=(768/782), Loss=-0.0352, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:44:00 PM | BaseCapsuleNetwork Validation - Loss=0.2872, Top 1 Acc=68.270, Top 5 Acc=94.920
+12/23 04:44:00 PM | Epoch 37 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch37_of_50.pt
+12/23 04:44:00 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(0/782), Loss=-0.0402, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:44:08 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(64/782), Loss=-0.0361, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:44:16 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(128/782), Loss=-0.0358, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:44:24 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(192/782), Loss=-0.0359, Top 1 Acc=99.98, Top 5 Acc=100.00
+12/23 04:44:32 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(256/782), Loss=-0.0362, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:44:40 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(320/782), Loss=-0.0363, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:44:48 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(384/782), Loss=-0.0363, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:44:56 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(448/782), Loss=-0.0361, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:45:04 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(512/782), Loss=-0.0362, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:45:12 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(576/782), Loss=-0.0362, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:45:20 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(640/782), Loss=-0.0361, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:45:28 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(704/782), Loss=-0.0360, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:45:36 PM | BaseCapsuleNetwork Training - Epoch=38, Iteration=(768/782), Loss=-0.0358, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:45:47 PM | BaseCapsuleNetwork Validation - Loss=0.2891, Top 1 Acc=68.400, Top 5 Acc=94.600
+12/23 04:45:47 PM | Epoch 38 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch38_of_50.pt
+12/23 04:45:47 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(0/782), Loss=-0.0310, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:45:55 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(64/782), Loss=-0.0368, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:46:03 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(128/782), Loss=-0.0368, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:46:11 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(192/782), Loss=-0.0368, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:46:19 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(256/782), Loss=-0.0366, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:46:27 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(320/782), Loss=-0.0365, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:46:35 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(384/782), Loss=-0.0367, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:46:43 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(448/782), Loss=-0.0367, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:46:51 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(512/782), Loss=-0.0367, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:46:59 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(576/782), Loss=-0.0367, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:47:07 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(640/782), Loss=-0.0365, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:47:15 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(704/782), Loss=-0.0365, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:47:22 PM | BaseCapsuleNetwork Training - Epoch=39, Iteration=(768/782), Loss=-0.0364, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:47:34 PM | BaseCapsuleNetwork Validation - Loss=0.2879, Top 1 Acc=68.070, Top 5 Acc=94.850
+12/23 04:47:34 PM | Epoch 39 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch39_of_50.pt
+12/23 04:47:34 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(0/782), Loss=-0.0358, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:47:42 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(64/782), Loss=-0.0365, Top 1 Acc=99.88, Top 5 Acc=100.00
+12/23 04:47:50 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(128/782), Loss=-0.0360, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:47:58 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(192/782), Loss=-0.0359, Top 1 Acc=99.89, Top 5 Acc=99.99
+12/23 04:48:06 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(256/782), Loss=-0.0363, Top 1 Acc=99.91, Top 5 Acc=99.99
+12/23 04:48:14 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(320/782), Loss=-0.0366, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:48:22 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(384/782), Loss=-0.0366, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:48:30 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(448/782), Loss=-0.0366, Top 1 Acc=99.92, Top 5 Acc=99.99
+12/23 04:48:38 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(512/782), Loss=-0.0366, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:48:46 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(576/782), Loss=-0.0366, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:48:54 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(640/782), Loss=-0.0367, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:49:02 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(704/782), Loss=-0.0364, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:49:10 PM | BaseCapsuleNetwork Training - Epoch=40, Iteration=(768/782), Loss=-0.0361, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:49:21 PM | BaseCapsuleNetwork Validation - Loss=0.2985, Top 1 Acc=66.860, Top 5 Acc=93.960
+12/23 04:49:21 PM | Epoch 40 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch40_of_50.pt
+12/23 04:49:21 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(0/782), Loss=-0.0354, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:49:29 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(64/782), Loss=-0.0349, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:49:37 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(128/782), Loss=-0.0358, Top 1 Acc=99.94, Top 5 Acc=99.99
+12/23 04:49:45 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(192/782), Loss=-0.0356, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:49:53 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(256/782), Loss=-0.0358, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:50:01 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(320/782), Loss=-0.0359, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:50:09 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(384/782), Loss=-0.0361, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:50:17 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(448/782), Loss=-0.0361, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:50:25 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(512/782), Loss=-0.0361, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:50:33 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(576/782), Loss=-0.0362, Top 1 Acc=99.93, Top 5 Acc=99.99
+12/23 04:50:41 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(640/782), Loss=-0.0363, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:50:49 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(704/782), Loss=-0.0363, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:50:56 PM | BaseCapsuleNetwork Training - Epoch=41, Iteration=(768/782), Loss=-0.0363, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:51:08 PM | BaseCapsuleNetwork Validation - Loss=0.2917, Top 1 Acc=68.200, Top 5 Acc=94.900
+12/23 04:51:08 PM | Epoch 41 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch41_of_50.pt
+12/23 04:51:08 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(0/782), Loss=-0.0370, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:51:16 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(64/782), Loss=-0.0363, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:51:24 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(128/782), Loss=-0.0366, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:51:32 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(192/782), Loss=-0.0368, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:51:40 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(256/782), Loss=-0.0365, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:51:48 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(320/782), Loss=-0.0363, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:51:56 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(384/782), Loss=-0.0361, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:52:04 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(448/782), Loss=-0.0360, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:52:12 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(512/782), Loss=-0.0360, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:52:20 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(576/782), Loss=-0.0359, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:52:28 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(640/782), Loss=-0.0358, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:52:36 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(704/782), Loss=-0.0357, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 04:52:43 PM | BaseCapsuleNetwork Training - Epoch=42, Iteration=(768/782), Loss=-0.0357, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:52:55 PM | BaseCapsuleNetwork Validation - Loss=0.2909, Top 1 Acc=67.900, Top 5 Acc=94.610
+12/23 04:52:55 PM | Epoch 42 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch42_of_50.pt
+12/23 04:52:55 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(0/782), Loss=-0.0409, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:53:03 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(64/782), Loss=-0.0359, Top 1 Acc=99.88, Top 5 Acc=100.00
+12/23 04:53:11 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(128/782), Loss=-0.0353, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:53:19 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(192/782), Loss=-0.0361, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 04:53:27 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(256/782), Loss=-0.0365, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 04:53:35 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(320/782), Loss=-0.0366, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:53:43 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(384/782), Loss=-0.0366, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:53:51 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(448/782), Loss=-0.0367, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:53:59 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(512/782), Loss=-0.0366, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:54:07 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(576/782), Loss=-0.0366, Top 1 Acc=99.94, Top 5 Acc=99.99
+12/23 04:54:15 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(640/782), Loss=-0.0365, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:54:23 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(704/782), Loss=-0.0365, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:54:30 PM | BaseCapsuleNetwork Training - Epoch=43, Iteration=(768/782), Loss=-0.0365, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:54:42 PM | BaseCapsuleNetwork Validation - Loss=0.2871, Top 1 Acc=68.380, Top 5 Acc=94.610
+12/23 04:54:42 PM | Epoch 43 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch43_of_50.pt
+12/23 04:54:42 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(0/782), Loss=-0.0387, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:54:50 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(64/782), Loss=-0.0384, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:54:58 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(128/782), Loss=-0.0379, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:55:06 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(192/782), Loss=-0.0380, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:55:14 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(256/782), Loss=-0.0379, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:55:22 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(320/782), Loss=-0.0378, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:55:30 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(384/782), Loss=-0.0377, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:55:38 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(448/782), Loss=-0.0376, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:55:46 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(512/782), Loss=-0.0376, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:55:53 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(576/782), Loss=-0.0377, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:56:01 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(640/782), Loss=-0.0376, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:56:09 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(704/782), Loss=-0.0374, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:56:17 PM | BaseCapsuleNetwork Training - Epoch=44, Iteration=(768/782), Loss=-0.0371, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:56:28 PM | BaseCapsuleNetwork Validation - Loss=0.2993, Top 1 Acc=67.230, Top 5 Acc=94.260
+12/23 04:56:29 PM | Epoch 44 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch44_of_50.pt
+12/23 04:56:29 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(0/782), Loss=-0.0372, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:56:37 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(64/782), Loss=-0.0329, Top 1 Acc=99.88, Top 5 Acc=100.00
+12/23 04:56:45 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(128/782), Loss=-0.0345, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:56:52 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(192/782), Loss=-0.0354, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:57:00 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(256/782), Loss=-0.0358, Top 1 Acc=99.96, Top 5 Acc=99.99
+12/23 04:57:09 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(320/782), Loss=-0.0360, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:57:16 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(384/782), Loss=-0.0360, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:57:24 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(448/782), Loss=-0.0360, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:57:32 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(512/782), Loss=-0.0360, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:57:40 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(576/782), Loss=-0.0361, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:57:48 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(640/782), Loss=-0.0359, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:57:56 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(704/782), Loss=-0.0360, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:58:04 PM | BaseCapsuleNetwork Training - Epoch=45, Iteration=(768/782), Loss=-0.0360, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 04:58:15 PM | BaseCapsuleNetwork Validation - Loss=0.2930, Top 1 Acc=68.060, Top 5 Acc=94.190
+12/23 04:58:16 PM | Epoch 45 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch45_of_50.pt
+12/23 04:58:16 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(0/782), Loss=-0.0395, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 04:58:24 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(64/782), Loss=-0.0368, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:58:32 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(128/782), Loss=-0.0370, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:58:40 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(192/782), Loss=-0.0373, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 04:58:47 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(256/782), Loss=-0.0374, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:58:55 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(320/782), Loss=-0.0376, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:59:03 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(384/782), Loss=-0.0376, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 04:59:11 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(448/782), Loss=-0.0375, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:59:19 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(512/782), Loss=-0.0374, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:59:27 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(576/782), Loss=-0.0372, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:59:35 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(640/782), Loss=-0.0372, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:59:43 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(704/782), Loss=-0.0372, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 04:59:51 PM | BaseCapsuleNetwork Training - Epoch=46, Iteration=(768/782), Loss=-0.0371, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:00:02 PM | BaseCapsuleNetwork Validation - Loss=0.2912, Top 1 Acc=68.440, Top 5 Acc=94.430
+12/23 05:00:02 PM | Epoch 46 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch46_of_50.pt
+12/23 05:00:03 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(0/782), Loss=-0.0345, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 05:00:11 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(64/782), Loss=-0.0374, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:00:19 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(128/782), Loss=-0.0377, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:00:26 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(192/782), Loss=-0.0379, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:00:34 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(256/782), Loss=-0.0379, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:00:42 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(320/782), Loss=-0.0377, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:00:50 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(384/782), Loss=-0.0373, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:00:58 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(448/782), Loss=-0.0372, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:01:06 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(512/782), Loss=-0.0372, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:01:14 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(576/782), Loss=-0.0369, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:01:22 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(640/782), Loss=-0.0368, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:01:30 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(704/782), Loss=-0.0368, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:01:38 PM | BaseCapsuleNetwork Training - Epoch=47, Iteration=(768/782), Loss=-0.0366, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:01:49 PM | BaseCapsuleNetwork Validation - Loss=0.2906, Top 1 Acc=68.410, Top 5 Acc=94.460
+12/23 05:01:49 PM | Epoch 47 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch47_of_50.pt
+12/23 05:01:49 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(0/782), Loss=-0.0389, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 05:01:58 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(64/782), Loss=-0.0375, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:02:06 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(128/782), Loss=-0.0373, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:02:14 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(192/782), Loss=-0.0372, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:02:22 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(256/782), Loss=-0.0373, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:02:29 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(320/782), Loss=-0.0373, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:02:37 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(384/782), Loss=-0.0373, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:02:45 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(448/782), Loss=-0.0371, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:02:53 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(512/782), Loss=-0.0371, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:03:01 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(576/782), Loss=-0.0369, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:03:09 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(640/782), Loss=-0.0369, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:03:17 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(704/782), Loss=-0.0366, Top 1 Acc=99.94, Top 5 Acc=100.00
+12/23 05:03:25 PM | BaseCapsuleNetwork Training - Epoch=48, Iteration=(768/782), Loss=-0.0363, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:03:36 PM | BaseCapsuleNetwork Validation - Loss=0.2985, Top 1 Acc=67.280, Top 5 Acc=94.580
+12/23 05:03:36 PM | Epoch 48 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch48_of_50.pt
+12/23 05:03:37 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(0/782), Loss=-0.0320, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 05:03:44 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(64/782), Loss=-0.0350, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:03:53 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(128/782), Loss=-0.0348, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 05:04:00 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(192/782), Loss=-0.0353, Top 1 Acc=99.90, Top 5 Acc=100.00
+12/23 05:04:09 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(256/782), Loss=-0.0357, Top 1 Acc=99.91, Top 5 Acc=100.00
+12/23 05:04:17 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(320/782), Loss=-0.0361, Top 1 Acc=99.92, Top 5 Acc=100.00
+12/23 05:04:24 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(384/782), Loss=-0.0363, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:04:32 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(448/782), Loss=-0.0365, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:04:40 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(512/782), Loss=-0.0366, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:04:48 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(576/782), Loss=-0.0365, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:04:56 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(640/782), Loss=-0.0365, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:05:04 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(704/782), Loss=-0.0365, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:05:12 PM | BaseCapsuleNetwork Training - Epoch=49, Iteration=(768/782), Loss=-0.0366, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:05:23 PM | BaseCapsuleNetwork Validation - Loss=0.2906, Top 1 Acc=68.420, Top 5 Acc=94.730
+12/23 05:05:23 PM | Epoch 49 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch49_of_50.pt
+12/23 05:05:24 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(0/782), Loss=-0.0400, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/23 05:05:32 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(64/782), Loss=-0.0381, Top 1 Acc=99.93, Top 5 Acc=100.00
+12/23 05:05:40 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(128/782), Loss=-0.0379, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:05:48 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(192/782), Loss=-0.0381, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:05:56 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(256/782), Loss=-0.0382, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 05:06:03 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(320/782), Loss=-0.0384, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 05:06:12 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(384/782), Loss=-0.0383, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 05:06:20 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(448/782), Loss=-0.0382, Top 1 Acc=99.96, Top 5 Acc=100.00
+12/23 05:06:27 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(512/782), Loss=-0.0377, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:06:35 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(576/782), Loss=-0.0374, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:06:43 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(640/782), Loss=-0.0373, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:06:51 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(704/782), Loss=-0.0371, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:06:59 PM | BaseCapsuleNetwork Training - Epoch=50, Iteration=(768/782), Loss=-0.0370, Top 1 Acc=99.95, Top 5 Acc=100.00
+12/23 05:07:10 PM | BaseCapsuleNetwork Validation - Loss=0.2926, Top 1 Acc=68.100, Top 5 Acc=94.550
+12/23 05:07:11 PM | Epoch 50 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch50_of_50.pt
+12/23 05:07:11 PM | BaseCapsuleNetwork best accuracy=70.530 saved at: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch1_of_50.pt

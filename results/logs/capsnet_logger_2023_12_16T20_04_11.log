@@ -1,0 +1,254 @@
+12/16 08:26:45 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(0/1563), Loss=0.0965, Top 1 Acc=87.50, Top 5 Acc=96.88
+12/16 08:26:49 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(32/1563), Loss=0.0862, Top 1 Acc=89.96, Top 5 Acc=99.34
+12/16 08:26:52 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(64/1563), Loss=0.1038, Top 1 Acc=88.08, Top 5 Acc=99.28
+12/16 08:26:55 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(96/1563), Loss=0.1137, Top 1 Acc=86.53, Top 5 Acc=99.16
+12/16 08:26:58 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(128/1563), Loss=0.1204, Top 1 Acc=85.63, Top 5 Acc=99.10
+12/16 08:27:01 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(160/1563), Loss=0.1272, Top 1 Acc=84.38, Top 5 Acc=98.95
+12/16 08:27:04 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(192/1563), Loss=0.1315, Top 1 Acc=83.99, Top 5 Acc=98.95
+12/16 08:27:07 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(224/1563), Loss=0.1330, Top 1 Acc=83.58, Top 5 Acc=98.86
+12/16 08:27:11 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(256/1563), Loss=0.1332, Top 1 Acc=83.57, Top 5 Acc=98.89
+12/16 08:27:14 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(288/1563), Loss=0.1329, Top 1 Acc=83.47, Top 5 Acc=98.89
+12/16 08:27:17 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(320/1563), Loss=0.1337, Top 1 Acc=83.23, Top 5 Acc=98.90
+12/16 08:27:20 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(352/1563), Loss=0.1334, Top 1 Acc=83.37, Top 5 Acc=98.88
+12/16 08:27:23 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(384/1563), Loss=0.1325, Top 1 Acc=83.60, Top 5 Acc=98.89
+12/16 08:27:26 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(416/1563), Loss=0.1320, Top 1 Acc=83.71, Top 5 Acc=98.93
+12/16 08:27:30 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(448/1563), Loss=0.1314, Top 1 Acc=83.75, Top 5 Acc=98.92
+12/16 08:27:33 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(480/1563), Loss=0.1306, Top 1 Acc=83.95, Top 5 Acc=98.95
+12/16 08:27:36 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(512/1563), Loss=0.1301, Top 1 Acc=83.94, Top 5 Acc=98.91
+12/16 08:27:39 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(544/1563), Loss=0.1302, Top 1 Acc=83.87, Top 5 Acc=98.90
+12/16 08:27:42 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(576/1563), Loss=0.1294, Top 1 Acc=84.04, Top 5 Acc=98.94
+12/16 08:27:45 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(608/1563), Loss=0.1290, Top 1 Acc=84.14, Top 5 Acc=98.94
+12/16 08:27:48 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(640/1563), Loss=0.1282, Top 1 Acc=84.23, Top 5 Acc=98.95
+12/16 08:27:51 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(672/1563), Loss=0.1277, Top 1 Acc=84.29, Top 5 Acc=98.95
+12/16 08:27:55 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(704/1563), Loss=0.1268, Top 1 Acc=84.41, Top 5 Acc=98.95
+12/16 08:27:58 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(736/1563), Loss=0.1268, Top 1 Acc=84.38, Top 5 Acc=98.94
+12/16 08:28:01 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(768/1563), Loss=0.1268, Top 1 Acc=84.41, Top 5 Acc=98.94
+12/16 08:28:04 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(800/1563), Loss=0.1264, Top 1 Acc=84.46, Top 5 Acc=98.93
+12/16 08:28:07 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(832/1563), Loss=0.1258, Top 1 Acc=84.55, Top 5 Acc=98.94
+12/16 08:28:10 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(864/1563), Loss=0.1253, Top 1 Acc=84.60, Top 5 Acc=98.94
+12/16 08:28:13 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(896/1563), Loss=0.1250, Top 1 Acc=84.64, Top 5 Acc=98.95
+12/16 08:28:16 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(928/1563), Loss=0.1246, Top 1 Acc=84.71, Top 5 Acc=98.97
+12/16 08:28:19 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(960/1563), Loss=0.1240, Top 1 Acc=84.81, Top 5 Acc=98.98
+12/16 08:28:22 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(992/1563), Loss=0.1240, Top 1 Acc=84.83, Top 5 Acc=98.98
+12/16 08:28:25 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1024/1563), Loss=0.1239, Top 1 Acc=84.82, Top 5 Acc=98.97
+12/16 08:28:29 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1056/1563), Loss=0.1236, Top 1 Acc=84.86, Top 5 Acc=98.98
+12/16 08:28:32 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1088/1563), Loss=0.1235, Top 1 Acc=84.89, Top 5 Acc=98.98
+12/16 08:28:35 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1120/1563), Loss=0.1233, Top 1 Acc=84.91, Top 5 Acc=98.99
+12/16 08:28:38 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1152/1563), Loss=0.1231, Top 1 Acc=84.96, Top 5 Acc=98.98
+12/16 08:28:41 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1184/1563), Loss=0.1228, Top 1 Acc=85.01, Top 5 Acc=98.98
+12/16 08:28:44 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1216/1563), Loss=0.1227, Top 1 Acc=85.02, Top 5 Acc=99.00
+12/16 08:28:48 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1248/1563), Loss=0.1226, Top 1 Acc=85.06, Top 5 Acc=98.99
+12/16 08:28:51 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1280/1563), Loss=0.1221, Top 1 Acc=85.12, Top 5 Acc=99.01
+12/16 08:28:54 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1312/1563), Loss=0.1221, Top 1 Acc=85.10, Top 5 Acc=99.00
+12/16 08:28:57 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(1344/1563), Loss=0.1221, Top 1 Acc=85.10, Top 5 Acc=99.00
+12/16 08:29:46 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(0/500), Loss=0.0746, Top 1 Acc=91.00, Top 5 Acc=100.00
+12/16 08:30:02 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(100/500), Loss=0.0591, Top 1 Acc=93.27, Top 5 Acc=99.37
+12/16 08:30:18 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(200/500), Loss=0.0584, Top 1 Acc=93.36, Top 5 Acc=99.44
+12/16 08:30:34 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(300/500), Loss=0.0590, Top 1 Acc=93.25, Top 5 Acc=99.44
+12/16 08:30:50 PM | BaseCapsuleNetwork Training - Epoch=1, Iteration=(400/500), Loss=0.0597, Top 1 Acc=93.15, Top 5 Acc=99.41
+12/16 08:31:13 PM | BaseCapsuleNetwork Validation - Loss=0.2361, Top 1 Acc=69.460, Top 5 Acc=97.000
+12/16 08:31:13 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch1_of_30.pt
+12/16 08:31:14 PM | BaseCapsuleNetwork Training - Epoch=2, Iteration=(0/500), Loss=0.0409, Top 1 Acc=95.00, Top 5 Acc=99.00
+12/16 08:31:29 PM | BaseCapsuleNetwork Training - Epoch=2, Iteration=(100/500), Loss=0.0388, Top 1 Acc=95.09, Top 5 Acc=99.54
+12/16 08:31:45 PM | BaseCapsuleNetwork Training - Epoch=2, Iteration=(200/500), Loss=0.0423, Top 1 Acc=94.70, Top 5 Acc=99.53
+12/16 08:32:01 PM | BaseCapsuleNetwork Training - Epoch=2, Iteration=(300/500), Loss=0.0427, Top 1 Acc=94.61, Top 5 Acc=99.55
+12/16 08:32:16 PM | BaseCapsuleNetwork Training - Epoch=2, Iteration=(400/500), Loss=0.0443, Top 1 Acc=94.44, Top 5 Acc=99.54
+12/16 08:32:40 PM | BaseCapsuleNetwork Validation - Loss=0.2383, Top 1 Acc=69.150, Top 5 Acc=97.070
+12/16 08:32:40 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch2_of_30.pt
+12/16 08:32:40 PM | BaseCapsuleNetwork Training - Epoch=3, Iteration=(0/500), Loss=0.0133, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:32:56 PM | BaseCapsuleNetwork Training - Epoch=3, Iteration=(100/500), Loss=0.0287, Top 1 Acc=95.78, Top 5 Acc=99.53
+12/16 08:33:12 PM | BaseCapsuleNetwork Training - Epoch=3, Iteration=(200/500), Loss=0.0306, Top 1 Acc=95.67, Top 5 Acc=99.55
+12/16 08:33:28 PM | BaseCapsuleNetwork Training - Epoch=3, Iteration=(300/500), Loss=0.0304, Top 1 Acc=95.60, Top 5 Acc=99.58
+12/16 08:33:44 PM | BaseCapsuleNetwork Training - Epoch=3, Iteration=(400/500), Loss=0.0313, Top 1 Acc=95.50, Top 5 Acc=99.58
+12/16 08:34:07 PM | BaseCapsuleNetwork Validation - Loss=0.2457, Top 1 Acc=68.840, Top 5 Acc=96.670
+12/16 08:34:07 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch3_of_30.pt
+12/16 08:34:07 PM | BaseCapsuleNetwork Training - Epoch=4, Iteration=(0/500), Loss=0.0299, Top 1 Acc=97.00, Top 5 Acc=100.00
+12/16 08:34:23 PM | BaseCapsuleNetwork Training - Epoch=4, Iteration=(100/500), Loss=0.0206, Top 1 Acc=96.61, Top 5 Acc=99.65
+12/16 08:34:39 PM | BaseCapsuleNetwork Training - Epoch=4, Iteration=(200/500), Loss=0.0199, Top 1 Acc=96.54, Top 5 Acc=99.68
+12/16 08:34:55 PM | BaseCapsuleNetwork Training - Epoch=4, Iteration=(300/500), Loss=0.0200, Top 1 Acc=96.36, Top 5 Acc=99.69
+12/16 08:35:10 PM | BaseCapsuleNetwork Training - Epoch=4, Iteration=(400/500), Loss=0.0209, Top 1 Acc=96.31, Top 5 Acc=99.67
+12/16 08:35:34 PM | BaseCapsuleNetwork Validation - Loss=0.2467, Top 1 Acc=68.880, Top 5 Acc=96.350
+12/16 08:35:34 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch4_of_30.pt
+12/16 08:35:35 PM | BaseCapsuleNetwork Training - Epoch=5, Iteration=(0/500), Loss=0.0208, Top 1 Acc=95.00, Top 5 Acc=99.00
+12/16 08:35:50 PM | BaseCapsuleNetwork Training - Epoch=5, Iteration=(100/500), Loss=0.0076, Top 1 Acc=97.38, Top 5 Acc=99.78
+12/16 08:36:06 PM | BaseCapsuleNetwork Training - Epoch=5, Iteration=(200/500), Loss=0.0095, Top 1 Acc=97.31, Top 5 Acc=99.72
+12/16 08:36:22 PM | BaseCapsuleNetwork Training - Epoch=5, Iteration=(300/500), Loss=0.0097, Top 1 Acc=97.22, Top 5 Acc=99.71
+12/16 08:36:38 PM | BaseCapsuleNetwork Training - Epoch=5, Iteration=(400/500), Loss=0.0107, Top 1 Acc=97.07, Top 5 Acc=99.71
+12/16 08:37:02 PM | BaseCapsuleNetwork Validation - Loss=0.2529, Top 1 Acc=67.950, Top 5 Acc=96.410
+12/16 08:37:02 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch5_of_30.pt
+12/16 08:37:02 PM | BaseCapsuleNetwork Training - Epoch=6, Iteration=(0/500), Loss=0.0052, Top 1 Acc=96.00, Top 5 Acc=100.00
+12/16 08:37:18 PM | BaseCapsuleNetwork Training - Epoch=6, Iteration=(100/500), Loss=-0.0009, Top 1 Acc=97.87, Top 5 Acc=99.69
+12/16 08:37:34 PM | BaseCapsuleNetwork Training - Epoch=6, Iteration=(200/500), Loss=-0.0003, Top 1 Acc=97.84, Top 5 Acc=99.76
+12/16 08:37:50 PM | BaseCapsuleNetwork Training - Epoch=6, Iteration=(300/500), Loss=0.0007, Top 1 Acc=97.73, Top 5 Acc=99.73
+12/16 08:38:06 PM | BaseCapsuleNetwork Training - Epoch=6, Iteration=(400/500), Loss=0.0021, Top 1 Acc=97.61, Top 5 Acc=99.73
+12/16 08:38:29 PM | BaseCapsuleNetwork Validation - Loss=0.2555, Top 1 Acc=68.260, Top 5 Acc=96.190
+12/16 08:38:29 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch6_of_30.pt
+12/16 08:38:30 PM | BaseCapsuleNetwork Training - Epoch=7, Iteration=(0/500), Loss=-0.0038, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:38:45 PM | BaseCapsuleNetwork Training - Epoch=7, Iteration=(100/500), Loss=-0.0088, Top 1 Acc=98.23, Top 5 Acc=99.78
+12/16 08:39:01 PM | BaseCapsuleNetwork Training - Epoch=7, Iteration=(200/500), Loss=-0.0087, Top 1 Acc=98.12, Top 5 Acc=99.75
+12/16 08:39:17 PM | BaseCapsuleNetwork Training - Epoch=7, Iteration=(300/500), Loss=-0.0071, Top 1 Acc=98.02, Top 5 Acc=99.74
+12/16 08:39:33 PM | BaseCapsuleNetwork Training - Epoch=7, Iteration=(400/500), Loss=-0.0059, Top 1 Acc=97.96, Top 5 Acc=99.76
+12/16 08:39:56 PM | BaseCapsuleNetwork Validation - Loss=0.2587, Top 1 Acc=68.460, Top 5 Acc=96.300
+12/16 08:39:57 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch7_of_30.pt
+12/16 08:39:57 PM | BaseCapsuleNetwork Training - Epoch=8, Iteration=(0/500), Loss=-0.0210, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:40:13 PM | BaseCapsuleNetwork Training - Epoch=8, Iteration=(100/500), Loss=-0.0124, Top 1 Acc=98.45, Top 5 Acc=99.80
+12/16 08:40:29 PM | BaseCapsuleNetwork Training - Epoch=8, Iteration=(200/500), Loss=-0.0136, Top 1 Acc=98.47, Top 5 Acc=99.83
+12/16 08:40:45 PM | BaseCapsuleNetwork Training - Epoch=8, Iteration=(300/500), Loss=-0.0139, Top 1 Acc=98.41, Top 5 Acc=99.80
+12/16 08:41:01 PM | BaseCapsuleNetwork Training - Epoch=8, Iteration=(400/500), Loss=-0.0129, Top 1 Acc=98.34, Top 5 Acc=99.80
+12/16 08:41:24 PM | BaseCapsuleNetwork Validation - Loss=0.2603, Top 1 Acc=67.680, Top 5 Acc=96.110
+12/16 08:41:25 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch8_of_30.pt
+12/16 08:41:25 PM | BaseCapsuleNetwork Training - Epoch=9, Iteration=(0/500), Loss=-0.0077, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:41:41 PM | BaseCapsuleNetwork Training - Epoch=9, Iteration=(100/500), Loss=-0.0193, Top 1 Acc=98.70, Top 5 Acc=99.86
+12/16 08:41:57 PM | BaseCapsuleNetwork Training - Epoch=9, Iteration=(200/500), Loss=-0.0183, Top 1 Acc=98.57, Top 5 Acc=99.87
+12/16 08:42:13 PM | BaseCapsuleNetwork Training - Epoch=9, Iteration=(300/500), Loss=-0.0178, Top 1 Acc=98.51, Top 5 Acc=99.84
+12/16 08:42:29 PM | BaseCapsuleNetwork Training - Epoch=9, Iteration=(400/500), Loss=-0.0164, Top 1 Acc=98.40, Top 5 Acc=99.83
+12/16 08:42:53 PM | BaseCapsuleNetwork Validation - Loss=0.2622, Top 1 Acc=67.880, Top 5 Acc=96.070
+12/16 08:42:53 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch9_of_30.pt
+12/16 08:42:53 PM | BaseCapsuleNetwork Training - Epoch=10, Iteration=(0/500), Loss=-0.0190, Top 1 Acc=98.00, Top 5 Acc=99.00
+12/16 08:43:09 PM | BaseCapsuleNetwork Training - Epoch=10, Iteration=(100/500), Loss=-0.0251, Top 1 Acc=98.86, Top 5 Acc=99.91
+12/16 08:43:25 PM | BaseCapsuleNetwork Training - Epoch=10, Iteration=(200/500), Loss=-0.0240, Top 1 Acc=98.88, Top 5 Acc=99.90
+12/16 08:43:41 PM | BaseCapsuleNetwork Training - Epoch=10, Iteration=(300/500), Loss=-0.0227, Top 1 Acc=98.78, Top 5 Acc=99.87
+12/16 08:43:57 PM | BaseCapsuleNetwork Training - Epoch=10, Iteration=(400/500), Loss=-0.0219, Top 1 Acc=98.70, Top 5 Acc=99.85
+12/16 08:44:20 PM | BaseCapsuleNetwork Validation - Loss=0.2638, Top 1 Acc=67.560, Top 5 Acc=95.900
+12/16 08:44:20 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch10_of_30.pt
+12/16 08:44:20 PM | BaseCapsuleNetwork Training - Epoch=11, Iteration=(0/500), Loss=-0.0202, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 08:44:36 PM | BaseCapsuleNetwork Training - Epoch=11, Iteration=(100/500), Loss=-0.0277, Top 1 Acc=99.14, Top 5 Acc=99.84
+12/16 08:44:52 PM | BaseCapsuleNetwork Training - Epoch=11, Iteration=(200/500), Loss=-0.0272, Top 1 Acc=99.04, Top 5 Acc=99.83
+12/16 08:45:08 PM | BaseCapsuleNetwork Training - Epoch=11, Iteration=(300/500), Loss=-0.0264, Top 1 Acc=99.00, Top 5 Acc=99.85
+12/16 08:45:24 PM | BaseCapsuleNetwork Training - Epoch=11, Iteration=(400/500), Loss=-0.0252, Top 1 Acc=98.90, Top 5 Acc=99.85
+12/16 08:45:47 PM | BaseCapsuleNetwork Validation - Loss=0.2695, Top 1 Acc=67.230, Top 5 Acc=95.770
+12/16 08:45:47 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch11_of_30.pt
+12/16 08:45:47 PM | BaseCapsuleNetwork Training - Epoch=12, Iteration=(0/500), Loss=-0.0394, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:46:03 PM | BaseCapsuleNetwork Training - Epoch=12, Iteration=(100/500), Loss=-0.0317, Top 1 Acc=99.19, Top 5 Acc=99.90
+12/16 08:46:19 PM | BaseCapsuleNetwork Training - Epoch=12, Iteration=(200/500), Loss=-0.0314, Top 1 Acc=99.19, Top 5 Acc=99.89
+12/16 08:46:35 PM | BaseCapsuleNetwork Training - Epoch=12, Iteration=(300/500), Loss=-0.0307, Top 1 Acc=99.19, Top 5 Acc=99.90
+12/16 08:46:51 PM | BaseCapsuleNetwork Training - Epoch=12, Iteration=(400/500), Loss=-0.0293, Top 1 Acc=99.07, Top 5 Acc=99.88
+12/16 08:47:15 PM | BaseCapsuleNetwork Validation - Loss=0.2668, Top 1 Acc=67.840, Top 5 Acc=95.910
+12/16 08:47:15 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch12_of_30.pt
+12/16 08:47:15 PM | BaseCapsuleNetwork Training - Epoch=13, Iteration=(0/500), Loss=-0.0170, Top 1 Acc=98.00, Top 5 Acc=100.00
+12/16 08:47:31 PM | BaseCapsuleNetwork Training - Epoch=13, Iteration=(100/500), Loss=-0.0309, Top 1 Acc=99.11, Top 5 Acc=99.85
+12/16 08:47:47 PM | BaseCapsuleNetwork Training - Epoch=13, Iteration=(200/500), Loss=-0.0309, Top 1 Acc=99.12, Top 5 Acc=99.87
+12/16 08:48:02 PM | BaseCapsuleNetwork Training - Epoch=13, Iteration=(300/500), Loss=-0.0313, Top 1 Acc=99.15, Top 5 Acc=99.89
+12/16 08:48:18 PM | BaseCapsuleNetwork Training - Epoch=13, Iteration=(400/500), Loss=-0.0313, Top 1 Acc=99.15, Top 5 Acc=99.88
+12/16 08:48:41 PM | BaseCapsuleNetwork Validation - Loss=0.2724, Top 1 Acc=66.690, Top 5 Acc=95.820
+12/16 08:48:42 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch13_of_30.pt
+12/16 08:48:42 PM | BaseCapsuleNetwork Training - Epoch=14, Iteration=(0/500), Loss=-0.0306, Top 1 Acc=98.00, Top 5 Acc=100.00
+12/16 08:48:58 PM | BaseCapsuleNetwork Training - Epoch=14, Iteration=(100/500), Loss=-0.0349, Top 1 Acc=99.30, Top 5 Acc=99.94
+12/16 08:49:13 PM | BaseCapsuleNetwork Training - Epoch=14, Iteration=(200/500), Loss=-0.0353, Top 1 Acc=99.34, Top 5 Acc=99.92
+12/16 08:49:29 PM | BaseCapsuleNetwork Training - Epoch=14, Iteration=(300/500), Loss=-0.0347, Top 1 Acc=99.30, Top 5 Acc=99.91
+12/16 08:49:45 PM | BaseCapsuleNetwork Training - Epoch=14, Iteration=(400/500), Loss=-0.0342, Top 1 Acc=99.25, Top 5 Acc=99.90
+12/16 08:50:08 PM | BaseCapsuleNetwork Validation - Loss=0.2722, Top 1 Acc=66.820, Top 5 Acc=95.830
+12/16 08:50:08 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch14_of_30.pt
+12/16 08:50:08 PM | BaseCapsuleNetwork Training - Epoch=15, Iteration=(0/500), Loss=-0.0439, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 08:50:24 PM | BaseCapsuleNetwork Training - Epoch=15, Iteration=(100/500), Loss=-0.0373, Top 1 Acc=99.43, Top 5 Acc=99.97
+12/16 08:50:40 PM | BaseCapsuleNetwork Training - Epoch=15, Iteration=(200/500), Loss=-0.0381, Top 1 Acc=99.45, Top 5 Acc=99.94
+12/16 08:50:56 PM | BaseCapsuleNetwork Training - Epoch=15, Iteration=(300/500), Loss=-0.0377, Top 1 Acc=99.40, Top 5 Acc=99.93
+12/16 08:51:11 PM | BaseCapsuleNetwork Training - Epoch=15, Iteration=(400/500), Loss=-0.0374, Top 1 Acc=99.37, Top 5 Acc=99.92
+12/16 08:51:34 PM | BaseCapsuleNetwork Validation - Loss=0.2799, Top 1 Acc=66.460, Top 5 Acc=95.370
+12/16 08:51:35 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch15_of_30.pt
+12/16 08:51:35 PM | BaseCapsuleNetwork Training - Epoch=16, Iteration=(0/500), Loss=-0.0292, Top 1 Acc=98.00, Top 5 Acc=100.00
+12/16 08:51:51 PM | BaseCapsuleNetwork Training - Epoch=16, Iteration=(100/500), Loss=-0.0394, Top 1 Acc=99.44, Top 5 Acc=99.94
+12/16 08:52:06 PM | BaseCapsuleNetwork Training - Epoch=16, Iteration=(200/500), Loss=-0.0386, Top 1 Acc=99.38, Top 5 Acc=99.94
+12/16 08:52:22 PM | BaseCapsuleNetwork Training - Epoch=16, Iteration=(300/500), Loss=-0.0387, Top 1 Acc=99.39, Top 5 Acc=99.92
+12/16 08:52:38 PM | BaseCapsuleNetwork Training - Epoch=16, Iteration=(400/500), Loss=-0.0383, Top 1 Acc=99.35, Top 5 Acc=99.91
+12/16 08:53:00 PM | BaseCapsuleNetwork Validation - Loss=0.2767, Top 1 Acc=66.760, Top 5 Acc=95.510
+12/16 08:53:01 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch16_of_30.pt
+12/16 08:53:01 PM | BaseCapsuleNetwork Training - Epoch=17, Iteration=(0/500), Loss=-0.0186, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 08:53:17 PM | BaseCapsuleNetwork Training - Epoch=17, Iteration=(100/500), Loss=-0.0418, Top 1 Acc=99.52, Top 5 Acc=99.90
+12/16 08:53:33 PM | BaseCapsuleNetwork Training - Epoch=17, Iteration=(200/500), Loss=-0.0413, Top 1 Acc=99.52, Top 5 Acc=99.92
+12/16 08:53:48 PM | BaseCapsuleNetwork Training - Epoch=17, Iteration=(300/500), Loss=-0.0411, Top 1 Acc=99.48, Top 5 Acc=99.92
+12/16 08:54:04 PM | BaseCapsuleNetwork Training - Epoch=17, Iteration=(400/500), Loss=-0.0405, Top 1 Acc=99.48, Top 5 Acc=99.92
+12/16 08:54:27 PM | BaseCapsuleNetwork Validation - Loss=0.2829, Top 1 Acc=66.370, Top 5 Acc=95.320
+12/16 08:54:27 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch17_of_30.pt
+12/16 08:54:28 PM | BaseCapsuleNetwork Training - Epoch=18, Iteration=(0/500), Loss=-0.0444, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:54:43 PM | BaseCapsuleNetwork Training - Epoch=18, Iteration=(100/500), Loss=-0.0429, Top 1 Acc=99.49, Top 5 Acc=99.94
+12/16 08:54:59 PM | BaseCapsuleNetwork Training - Epoch=18, Iteration=(200/500), Loss=-0.0438, Top 1 Acc=99.53, Top 5 Acc=99.95
+12/16 08:55:14 PM | BaseCapsuleNetwork Training - Epoch=18, Iteration=(300/500), Loss=-0.0434, Top 1 Acc=99.54, Top 5 Acc=99.94
+12/16 08:55:30 PM | BaseCapsuleNetwork Training - Epoch=18, Iteration=(400/500), Loss=-0.0428, Top 1 Acc=99.52, Top 5 Acc=99.94
+12/16 08:55:54 PM | BaseCapsuleNetwork Validation - Loss=0.2806, Top 1 Acc=66.880, Top 5 Acc=95.230
+12/16 08:55:54 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch18_of_30.pt
+12/16 08:55:54 PM | BaseCapsuleNetwork Training - Epoch=19, Iteration=(0/500), Loss=-0.0400, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 08:56:10 PM | BaseCapsuleNetwork Training - Epoch=19, Iteration=(100/500), Loss=-0.0445, Top 1 Acc=99.63, Top 5 Acc=99.93
+12/16 08:56:25 PM | BaseCapsuleNetwork Training - Epoch=19, Iteration=(200/500), Loss=-0.0444, Top 1 Acc=99.65, Top 5 Acc=99.95
+12/16 08:56:41 PM | BaseCapsuleNetwork Training - Epoch=19, Iteration=(300/500), Loss=-0.0436, Top 1 Acc=99.58, Top 5 Acc=99.95
+12/16 08:56:56 PM | BaseCapsuleNetwork Training - Epoch=19, Iteration=(400/500), Loss=-0.0436, Top 1 Acc=99.58, Top 5 Acc=99.94
+12/16 08:57:20 PM | BaseCapsuleNetwork Validation - Loss=0.2915, Top 1 Acc=66.020, Top 5 Acc=95.110
+12/16 08:57:21 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch19_of_30.pt
+12/16 08:57:21 PM | BaseCapsuleNetwork Training - Epoch=20, Iteration=(0/500), Loss=-0.0343, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 08:57:37 PM | BaseCapsuleNetwork Training - Epoch=20, Iteration=(100/500), Loss=-0.0446, Top 1 Acc=99.62, Top 5 Acc=99.96
+12/16 08:57:52 PM | BaseCapsuleNetwork Training - Epoch=20, Iteration=(200/500), Loss=-0.0456, Top 1 Acc=99.68, Top 5 Acc=99.96
+12/16 08:58:08 PM | BaseCapsuleNetwork Training - Epoch=20, Iteration=(300/500), Loss=-0.0442, Top 1 Acc=99.60, Top 5 Acc=99.95
+12/16 08:58:23 PM | BaseCapsuleNetwork Training - Epoch=20, Iteration=(400/500), Loss=-0.0442, Top 1 Acc=99.59, Top 5 Acc=99.96
+12/16 08:58:47 PM | BaseCapsuleNetwork Validation - Loss=0.2884, Top 1 Acc=66.450, Top 5 Acc=95.050
+12/16 08:58:47 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch20_of_30.pt
+12/16 08:58:47 PM | BaseCapsuleNetwork Training - Epoch=21, Iteration=(0/500), Loss=-0.0321, Top 1 Acc=98.00, Top 5 Acc=100.00
+12/16 08:59:03 PM | BaseCapsuleNetwork Training - Epoch=21, Iteration=(100/500), Loss=-0.0459, Top 1 Acc=99.61, Top 5 Acc=99.97
+12/16 08:59:18 PM | BaseCapsuleNetwork Training - Epoch=21, Iteration=(200/500), Loss=-0.0470, Top 1 Acc=99.62, Top 5 Acc=99.97
+12/16 08:59:34 PM | BaseCapsuleNetwork Training - Epoch=21, Iteration=(300/500), Loss=-0.0460, Top 1 Acc=99.59, Top 5 Acc=99.97
+12/16 08:59:50 PM | BaseCapsuleNetwork Training - Epoch=21, Iteration=(400/500), Loss=-0.0458, Top 1 Acc=99.57, Top 5 Acc=99.95
+12/16 09:00:13 PM | BaseCapsuleNetwork Validation - Loss=0.2910, Top 1 Acc=65.610, Top 5 Acc=95.310
+12/16 09:00:13 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch21_of_30.pt
+12/16 09:00:13 PM | BaseCapsuleNetwork Training - Epoch=22, Iteration=(0/500), Loss=-0.0473, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 09:00:29 PM | BaseCapsuleNetwork Training - Epoch=22, Iteration=(100/500), Loss=-0.0469, Top 1 Acc=99.57, Top 5 Acc=99.97
+12/16 09:00:45 PM | BaseCapsuleNetwork Training - Epoch=22, Iteration=(200/500), Loss=-0.0475, Top 1 Acc=99.62, Top 5 Acc=99.97
+12/16 09:01:01 PM | BaseCapsuleNetwork Training - Epoch=22, Iteration=(300/500), Loss=-0.0478, Top 1 Acc=99.66, Top 5 Acc=99.96
+12/16 09:01:16 PM | BaseCapsuleNetwork Training - Epoch=22, Iteration=(400/500), Loss=-0.0474, Top 1 Acc=99.65, Top 5 Acc=99.96
+12/16 09:01:40 PM | BaseCapsuleNetwork Validation - Loss=0.2915, Top 1 Acc=65.710, Top 5 Acc=95.080
+12/16 09:01:40 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch22_of_30.pt
+12/16 09:01:40 PM | BaseCapsuleNetwork Training - Epoch=23, Iteration=(0/500), Loss=-0.0411, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 09:01:56 PM | BaseCapsuleNetwork Training - Epoch=23, Iteration=(100/500), Loss=-0.0468, Top 1 Acc=99.70, Top 5 Acc=99.95
+12/16 09:02:11 PM | BaseCapsuleNetwork Training - Epoch=23, Iteration=(200/500), Loss=-0.0483, Top 1 Acc=99.69, Top 5 Acc=99.97
+12/16 09:02:27 PM | BaseCapsuleNetwork Training - Epoch=23, Iteration=(300/500), Loss=-0.0482, Top 1 Acc=99.66, Top 5 Acc=99.96
+12/16 09:02:43 PM | BaseCapsuleNetwork Training - Epoch=23, Iteration=(400/500), Loss=-0.0485, Top 1 Acc=99.65, Top 5 Acc=99.96
+12/16 09:03:06 PM | BaseCapsuleNetwork Validation - Loss=0.2937, Top 1 Acc=65.390, Top 5 Acc=95.070
+12/16 09:03:06 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch23_of_30.pt
+12/16 09:03:07 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(0/500), Loss=-0.0533, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 09:03:22 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(100/500), Loss=-0.0498, Top 1 Acc=99.71, Top 5 Acc=99.94
+12/16 09:03:38 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(200/500), Loss=-0.0509, Top 1 Acc=99.75, Top 5 Acc=99.97
+12/16 09:03:54 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(300/500), Loss=-0.0503, Top 1 Acc=99.70, Top 5 Acc=99.97
+12/16 09:04:09 PM | BaseCapsuleNetwork Training - Epoch=24, Iteration=(400/500), Loss=-0.0496, Top 1 Acc=99.69, Top 5 Acc=99.97
+12/16 09:04:33 PM | BaseCapsuleNetwork Validation - Loss=0.2901, Top 1 Acc=66.720, Top 5 Acc=95.140
+12/16 09:04:33 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch24_of_30.pt
+12/16 09:04:33 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(0/500), Loss=-0.0356, Top 1 Acc=98.00, Top 5 Acc=99.00
+12/16 09:04:49 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(100/500), Loss=-0.0516, Top 1 Acc=99.76, Top 5 Acc=99.98
+12/16 09:05:04 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(200/500), Loss=-0.0506, Top 1 Acc=99.72, Top 5 Acc=99.96
+12/16 09:05:20 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(300/500), Loss=-0.0508, Top 1 Acc=99.73, Top 5 Acc=99.96
+12/16 09:05:36 PM | BaseCapsuleNetwork Training - Epoch=25, Iteration=(400/500), Loss=-0.0505, Top 1 Acc=99.71, Top 5 Acc=99.97
+12/16 09:05:59 PM | BaseCapsuleNetwork Validation - Loss=0.2965, Top 1 Acc=65.230, Top 5 Acc=95.050
+12/16 09:05:59 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch25_of_30.pt
+12/16 09:05:59 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(0/500), Loss=-0.0381, Top 1 Acc=98.00, Top 5 Acc=100.00
+12/16 09:06:15 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(100/500), Loss=-0.0507, Top 1 Acc=99.73, Top 5 Acc=99.96
+12/16 09:06:31 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(200/500), Loss=-0.0508, Top 1 Acc=99.72, Top 5 Acc=99.97
+12/16 09:06:46 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(300/500), Loss=-0.0505, Top 1 Acc=99.71, Top 5 Acc=99.97
+12/16 09:07:02 PM | BaseCapsuleNetwork Training - Epoch=26, Iteration=(400/500), Loss=-0.0497, Top 1 Acc=99.71, Top 5 Acc=99.97
+12/16 09:07:25 PM | BaseCapsuleNetwork Validation - Loss=0.2941, Top 1 Acc=65.880, Top 5 Acc=95.200
+12/16 09:07:26 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch26_of_30.pt
+12/16 09:07:26 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(0/500), Loss=-0.0507, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 09:07:42 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(100/500), Loss=-0.0522, Top 1 Acc=99.73, Top 5 Acc=99.99
+12/16 09:07:58 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(200/500), Loss=-0.0522, Top 1 Acc=99.74, Top 5 Acc=99.99
+12/16 09:08:13 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(300/500), Loss=-0.0523, Top 1 Acc=99.73, Top 5 Acc=99.98
+12/16 09:08:29 PM | BaseCapsuleNetwork Training - Epoch=27, Iteration=(400/500), Loss=-0.0520, Top 1 Acc=99.73, Top 5 Acc=99.98
+12/16 09:08:52 PM | BaseCapsuleNetwork Validation - Loss=0.2921, Top 1 Acc=66.020, Top 5 Acc=95.140
+12/16 09:08:52 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch27_of_30.pt
+12/16 09:08:52 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(0/500), Loss=-0.0581, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 09:09:08 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(100/500), Loss=-0.0551, Top 1 Acc=99.75, Top 5 Acc=99.96
+12/16 09:09:24 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(200/500), Loss=-0.0549, Top 1 Acc=99.81, Top 5 Acc=99.97
+12/16 09:09:40 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(300/500), Loss=-0.0543, Top 1 Acc=99.80, Top 5 Acc=99.96
+12/16 09:09:56 PM | BaseCapsuleNetwork Training - Epoch=28, Iteration=(400/500), Loss=-0.0537, Top 1 Acc=99.78, Top 5 Acc=99.97
+12/16 09:10:19 PM | BaseCapsuleNetwork Validation - Loss=0.2988, Top 1 Acc=65.360, Top 5 Acc=95.130
+12/16 09:10:19 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch28_of_30.pt
+12/16 09:10:19 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(0/500), Loss=-0.0570, Top 1 Acc=99.00, Top 5 Acc=100.00
+12/16 09:10:35 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(100/500), Loss=-0.0537, Top 1 Acc=99.73, Top 5 Acc=99.98
+12/16 09:10:50 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(200/500), Loss=-0.0528, Top 1 Acc=99.76, Top 5 Acc=99.98
+12/16 09:11:06 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(300/500), Loss=-0.0521, Top 1 Acc=99.71, Top 5 Acc=99.98
+12/16 09:11:22 PM | BaseCapsuleNetwork Training - Epoch=29, Iteration=(400/500), Loss=-0.0518, Top 1 Acc=99.72, Top 5 Acc=99.97
+12/16 09:11:45 PM | BaseCapsuleNetwork Validation - Loss=0.2935, Top 1 Acc=65.920, Top 5 Acc=95.100
+12/16 09:11:45 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch29_of_30.pt
+12/16 09:11:45 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(0/500), Loss=-0.0544, Top 1 Acc=100.00, Top 5 Acc=100.00
+12/16 09:12:01 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(100/500), Loss=-0.0547, Top 1 Acc=99.82, Top 5 Acc=99.98
+12/16 09:12:16 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(200/500), Loss=-0.0559, Top 1 Acc=99.86, Top 5 Acc=99.99
+12/16 09:12:32 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(300/500), Loss=-0.0560, Top 1 Acc=99.82, Top 5 Acc=99.97
+12/16 09:12:48 PM | BaseCapsuleNetwork Training - Epoch=30, Iteration=(400/500), Loss=-0.0554, Top 1 Acc=99.80, Top 5 Acc=99.98
+12/16 09:13:11 PM | BaseCapsuleNetwork Validation - Loss=0.2955, Top 1 Acc=66.090, Top 5 Acc=95.290
+12/16 09:13:12 PM | Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch30_of_30.pt
+12/16 09:13:12 PM | BaseCapsuleNetwork best accuracy=69.460 saved at: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_BaseCapsuleNetwork_CCM_Epoch1_of_30.pt

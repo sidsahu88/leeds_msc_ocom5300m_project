@@ -1,0 +1,244 @@
+01/07 05:23:39 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(0/782), Loss=0.8100, Top 1 Acc=6.25, Top 5 Acc=50.00
+01/07 05:23:45 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(64/782), Loss=0.5722, Top 1 Acc=20.36, Top 5 Acc=65.89
+01/07 05:23:51 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(128/782), Loss=0.5006, Top 1 Acc=28.06, Top 5 Acc=76.36
+01/07 05:23:57 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(192/782), Loss=0.4671, Top 1 Acc=31.92, Top 5 Acc=80.48
+01/07 05:24:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(256/782), Loss=0.4437, Top 1 Acc=34.83, Top 5 Acc=83.15
+01/07 05:24:09 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(320/782), Loss=0.4272, Top 1 Acc=37.13, Top 5 Acc=84.87
+01/07 05:24:15 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(384/782), Loss=0.4143, Top 1 Acc=39.03, Top 5 Acc=86.21
+01/07 05:24:22 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(448/782), Loss=0.4024, Top 1 Acc=40.87, Top 5 Acc=87.20
+01/07 05:24:28 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(512/782), Loss=0.3928, Top 1 Acc=42.34, Top 5 Acc=88.05
+01/07 05:24:34 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(576/782), Loss=0.3848, Top 1 Acc=43.52, Top 5 Acc=88.69
+01/07 05:24:40 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(640/782), Loss=0.3776, Top 1 Acc=44.55, Top 5 Acc=89.26
+01/07 05:24:46 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(704/782), Loss=0.3713, Top 1 Acc=45.48, Top 5 Acc=89.69
+01/07 05:24:53 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(768/782), Loss=0.3654, Top 1 Acc=46.36, Top 5 Acc=90.05
+01/07 05:24:59 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2926, Top 1 Acc=57.070, Top 5 Acc=95.390
+01/07 05:25:00 AM | Epoch 1 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch1_of_30.pt
+01/07 05:25:00 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(0/782), Loss=0.2643, Top 1 Acc=60.94, Top 5 Acc=95.31
+01/07 05:25:06 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(64/782), Loss=0.2863, Top 1 Acc=58.39, Top 5 Acc=94.74
+01/07 05:25:12 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(128/782), Loss=0.2825, Top 1 Acc=59.11, Top 5 Acc=95.36
+01/07 05:25:19 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(192/782), Loss=0.2776, Top 1 Acc=59.97, Top 5 Acc=95.48
+01/07 05:25:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(256/782), Loss=0.2778, Top 1 Acc=59.95, Top 5 Acc=95.50
+01/07 05:25:32 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(320/782), Loss=0.2751, Top 1 Acc=60.54, Top 5 Acc=95.51
+01/07 05:25:38 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(384/782), Loss=0.2743, Top 1 Acc=60.52, Top 5 Acc=95.56
+01/07 05:25:44 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(448/782), Loss=0.2720, Top 1 Acc=60.97, Top 5 Acc=95.60
+01/07 05:25:51 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(512/782), Loss=0.2700, Top 1 Acc=61.31, Top 5 Acc=95.64
+01/07 05:25:57 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(576/782), Loss=0.2685, Top 1 Acc=61.59, Top 5 Acc=95.66
+01/07 05:26:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(640/782), Loss=0.2673, Top 1 Acc=61.75, Top 5 Acc=95.69
+01/07 05:26:10 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(704/782), Loss=0.2653, Top 1 Acc=62.09, Top 5 Acc=95.79
+01/07 05:26:16 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(768/782), Loss=0.2634, Top 1 Acc=62.39, Top 5 Acc=95.87
+01/07 05:26:23 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2601, Top 1 Acc=63.020, Top 5 Acc=96.030
+01/07 05:26:23 AM | Epoch 2 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch2_of_30.pt
+01/07 05:26:23 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(0/782), Loss=0.2229, Top 1 Acc=68.75, Top 5 Acc=98.44
+01/07 05:26:30 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(64/782), Loss=0.2293, Top 1 Acc=68.05, Top 5 Acc=96.78
+01/07 05:26:36 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(128/782), Loss=0.2231, Top 1 Acc=69.13, Top 5 Acc=97.15
+01/07 05:27:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(0/500), Loss=0.8100, Top 1 Acc=11.00, Top 5 Acc=41.00
+01/07 05:27:40 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(100/500), Loss=0.5176, Top 1 Acc=25.23, Top 5 Acc=75.10
+01/07 05:27:56 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(200/500), Loss=0.4484, Top 1 Acc=34.02, Top 5 Acc=82.63
+01/07 05:28:11 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(300/500), Loss=0.4155, Top 1 Acc=38.76, Top 5 Acc=86.03
+01/07 05:28:27 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=1, Iteration=(400/500), Loss=0.3928, Top 1 Acc=42.13, Top 5 Acc=87.97
+01/07 05:28:47 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2936, Top 1 Acc=57.680, Top 5 Acc=95.380
+01/07 05:28:47 AM | Epoch 1 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch1_of_30.pt
+01/07 05:28:48 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(0/500), Loss=0.2489, Top 1 Acc=63.00, Top 5 Acc=96.00
+01/07 05:29:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(100/500), Loss=0.2873, Top 1 Acc=59.24, Top 5 Acc=94.79
+01/07 05:29:18 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(200/500), Loss=0.2799, Top 1 Acc=60.17, Top 5 Acc=95.19
+01/07 05:29:34 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(300/500), Loss=0.2743, Top 1 Acc=60.92, Top 5 Acc=95.49
+01/07 05:29:49 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=2, Iteration=(400/500), Loss=0.2698, Top 1 Acc=61.59, Top 5 Acc=95.64
+01/07 05:30:10 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2571, Top 1 Acc=63.620, Top 5 Acc=95.560
+01/07 05:30:10 AM | Epoch 2 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch2_of_30.pt
+01/07 05:30:10 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(0/500), Loss=0.1996, Top 1 Acc=74.00, Top 5 Acc=98.00
+01/07 05:30:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(100/500), Loss=0.2269, Top 1 Acc=68.51, Top 5 Acc=97.21
+01/07 05:30:41 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(200/500), Loss=0.2259, Top 1 Acc=68.68, Top 5 Acc=97.09
+01/07 05:30:56 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(300/500), Loss=0.2232, Top 1 Acc=69.10, Top 5 Acc=97.10
+01/07 05:31:11 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=3, Iteration=(400/500), Loss=0.2234, Top 1 Acc=68.93, Top 5 Acc=97.03
+01/07 05:31:32 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2207, Top 1 Acc=69.450, Top 5 Acc=96.950
+01/07 05:31:32 AM | Epoch 3 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch3_of_30.pt
+01/07 05:31:32 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=4, Iteration=(0/500), Loss=0.1875, Top 1 Acc=77.00, Top 5 Acc=95.00
+01/07 05:31:48 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=4, Iteration=(100/500), Loss=0.1942, Top 1 Acc=73.78, Top 5 Acc=97.74
+01/07 05:32:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=4, Iteration=(200/500), Loss=0.1930, Top 1 Acc=74.01, Top 5 Acc=97.83
+01/07 05:32:18 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=4, Iteration=(300/500), Loss=0.1934, Top 1 Acc=73.79, Top 5 Acc=97.84
+01/07 05:32:34 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=4, Iteration=(400/500), Loss=0.1939, Top 1 Acc=73.76, Top 5 Acc=97.80
+01/07 05:32:54 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2113, Top 1 Acc=70.190, Top 5 Acc=97.410
+01/07 05:32:54 AM | Epoch 4 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch4_of_30.pt
+01/07 05:32:55 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=5, Iteration=(0/500), Loss=0.1510, Top 1 Acc=86.00, Top 5 Acc=99.00
+01/07 05:33:10 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=5, Iteration=(100/500), Loss=0.1693, Top 1 Acc=77.49, Top 5 Acc=98.07
+01/07 05:33:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=5, Iteration=(200/500), Loss=0.1696, Top 1 Acc=77.38, Top 5 Acc=98.15
+01/07 05:33:41 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=5, Iteration=(300/500), Loss=0.1693, Top 1 Acc=77.47, Top 5 Acc=98.19
+01/07 05:33:56 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=5, Iteration=(400/500), Loss=0.1700, Top 1 Acc=77.32, Top 5 Acc=98.17
+01/07 05:34:17 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2000, Top 1 Acc=72.340, Top 5 Acc=97.390
+01/07 05:34:17 AM | Epoch 5 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch5_of_30.pt
+01/07 05:34:17 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=6, Iteration=(0/500), Loss=0.1715, Top 1 Acc=78.00, Top 5 Acc=99.00
+01/07 05:34:32 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=6, Iteration=(100/500), Loss=0.1521, Top 1 Acc=79.94, Top 5 Acc=98.40
+01/07 05:34:47 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=6, Iteration=(200/500), Loss=0.1507, Top 1 Acc=80.20, Top 5 Acc=98.34
+01/07 05:35:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=6, Iteration=(300/500), Loss=0.1516, Top 1 Acc=80.12, Top 5 Acc=98.41
+01/07 05:35:18 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=6, Iteration=(400/500), Loss=0.1508, Top 1 Acc=80.22, Top 5 Acc=98.48
+01/07 05:35:39 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1855, Top 1 Acc=75.060, Top 5 Acc=97.720
+01/07 05:35:39 AM | Epoch 6 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch6_of_30.pt
+01/07 05:35:39 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=7, Iteration=(0/500), Loss=0.1111, Top 1 Acc=86.00, Top 5 Acc=99.00
+01/07 05:35:54 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=7, Iteration=(100/500), Loss=0.1277, Top 1 Acc=83.97, Top 5 Acc=98.79
+01/07 05:36:09 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=7, Iteration=(200/500), Loss=0.1303, Top 1 Acc=83.67, Top 5 Acc=98.69
+01/07 05:36:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=7, Iteration=(300/500), Loss=0.1297, Top 1 Acc=83.71, Top 5 Acc=98.71
+01/07 05:36:40 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=7, Iteration=(400/500), Loss=0.1301, Top 1 Acc=83.62, Top 5 Acc=98.74
+01/07 05:37:01 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1802, Top 1 Acc=75.810, Top 5 Acc=97.880
+01/07 05:37:01 AM | Epoch 7 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch7_of_30.pt
+01/07 05:37:01 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=8, Iteration=(0/500), Loss=0.1410, Top 1 Acc=81.00, Top 5 Acc=97.00
+01/07 05:37:16 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=8, Iteration=(100/500), Loss=0.1103, Top 1 Acc=86.94, Top 5 Acc=98.99
+01/07 05:37:31 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=8, Iteration=(200/500), Loss=0.1098, Top 1 Acc=86.93, Top 5 Acc=99.00
+01/07 05:37:47 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=8, Iteration=(300/500), Loss=0.1120, Top 1 Acc=86.50, Top 5 Acc=98.96
+01/07 05:38:02 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=8, Iteration=(400/500), Loss=0.1129, Top 1 Acc=86.34, Top 5 Acc=98.96
+01/07 05:38:22 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1716, Top 1 Acc=77.330, Top 5 Acc=97.920
+01/07 05:38:23 AM | Epoch 8 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch8_of_30.pt
+01/07 05:38:23 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=9, Iteration=(0/500), Loss=0.0977, Top 1 Acc=88.00, Top 5 Acc=100.00
+01/07 05:38:38 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=9, Iteration=(100/500), Loss=0.0943, Top 1 Acc=89.60, Top 5 Acc=99.21
+01/07 05:38:53 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=9, Iteration=(200/500), Loss=0.0940, Top 1 Acc=89.42, Top 5 Acc=99.19
+01/07 05:39:09 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=9, Iteration=(300/500), Loss=0.0948, Top 1 Acc=89.27, Top 5 Acc=99.14
+01/07 05:39:24 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=9, Iteration=(400/500), Loss=0.0949, Top 1 Acc=89.23, Top 5 Acc=99.14
+01/07 05:39:44 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1740, Top 1 Acc=77.410, Top 5 Acc=97.770
+01/07 05:39:44 AM | Epoch 9 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch9_of_30.pt
+01/07 05:39:45 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=10, Iteration=(0/500), Loss=0.0576, Top 1 Acc=95.00, Top 5 Acc=100.00
+01/07 05:40:00 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=10, Iteration=(100/500), Loss=0.0767, Top 1 Acc=91.93, Top 5 Acc=99.25
+01/07 05:40:15 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=10, Iteration=(200/500), Loss=0.0778, Top 1 Acc=91.68, Top 5 Acc=99.26
+01/07 05:40:30 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=10, Iteration=(300/500), Loss=0.0795, Top 1 Acc=91.41, Top 5 Acc=99.26
+01/07 05:40:46 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=10, Iteration=(400/500), Loss=0.0805, Top 1 Acc=91.24, Top 5 Acc=99.22
+01/07 05:41:06 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1765, Top 1 Acc=77.080, Top 5 Acc=97.390
+01/07 05:41:06 AM | Epoch 10 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch10_of_30.pt
+01/07 05:41:07 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=11, Iteration=(0/500), Loss=0.0723, Top 1 Acc=94.00, Top 5 Acc=99.00
+01/07 05:41:22 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=11, Iteration=(100/500), Loss=0.0612, Top 1 Acc=93.88, Top 5 Acc=99.43
+01/07 05:41:37 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=11, Iteration=(200/500), Loss=0.0612, Top 1 Acc=93.92, Top 5 Acc=99.48
+01/07 05:41:52 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=11, Iteration=(300/500), Loss=0.0623, Top 1 Acc=93.81, Top 5 Acc=99.39
+01/07 05:42:08 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=11, Iteration=(400/500), Loss=0.0638, Top 1 Acc=93.58, Top 5 Acc=99.38
+01/07 05:42:28 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1779, Top 1 Acc=77.520, Top 5 Acc=97.450
+01/07 05:42:28 AM | Epoch 11 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch11_of_30.pt
+01/07 05:42:29 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=12, Iteration=(0/500), Loss=0.0740, Top 1 Acc=93.00, Top 5 Acc=98.00
+01/07 05:42:44 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=12, Iteration=(100/500), Loss=0.0484, Top 1 Acc=95.34, Top 5 Acc=99.54
+01/07 05:42:59 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=12, Iteration=(200/500), Loss=0.0469, Top 1 Acc=95.61, Top 5 Acc=99.52
+01/07 05:43:14 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=12, Iteration=(300/500), Loss=0.0496, Top 1 Acc=95.29, Top 5 Acc=99.51
+01/07 05:43:29 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=12, Iteration=(400/500), Loss=0.0505, Top 1 Acc=95.22, Top 5 Acc=99.51
+01/07 05:43:50 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1812, Top 1 Acc=77.110, Top 5 Acc=96.830
+01/07 05:43:50 AM | Epoch 12 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch12_of_30.pt
+01/07 05:43:50 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=13, Iteration=(0/500), Loss=0.0647, Top 1 Acc=93.00, Top 5 Acc=99.00
+01/07 05:44:05 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=13, Iteration=(100/500), Loss=0.0368, Top 1 Acc=96.80, Top 5 Acc=99.54
+01/07 05:44:21 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=13, Iteration=(200/500), Loss=0.0386, Top 1 Acc=96.68, Top 5 Acc=99.50
+01/07 05:44:36 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=13, Iteration=(300/500), Loss=0.0391, Top 1 Acc=96.61, Top 5 Acc=99.52
+01/07 05:44:51 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=13, Iteration=(400/500), Loss=0.0408, Top 1 Acc=96.45, Top 5 Acc=99.54
+01/07 05:45:11 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1833, Top 1 Acc=77.470, Top 5 Acc=96.400
+01/07 05:45:12 AM | Epoch 13 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch13_of_30.pt
+01/07 05:45:12 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=14, Iteration=(0/500), Loss=0.0335, Top 1 Acc=96.00, Top 5 Acc=100.00
+01/07 05:45:27 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=14, Iteration=(100/500), Loss=0.0301, Top 1 Acc=97.55, Top 5 Acc=99.66
+01/07 05:45:42 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=14, Iteration=(200/500), Loss=0.0286, Top 1 Acc=97.74, Top 5 Acc=99.62
+01/07 05:45:57 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=14, Iteration=(300/500), Loss=0.0295, Top 1 Acc=97.66, Top 5 Acc=99.58
+01/07 05:46:13 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=14, Iteration=(400/500), Loss=0.0305, Top 1 Acc=97.60, Top 5 Acc=99.62
+01/07 05:46:33 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1881, Top 1 Acc=77.130, Top 5 Acc=96.220
+01/07 05:46:33 AM | Epoch 14 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch14_of_30.pt
+01/07 05:46:33 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=15, Iteration=(0/500), Loss=0.0128, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 05:46:49 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=15, Iteration=(100/500), Loss=0.0244, Top 1 Acc=98.18, Top 5 Acc=99.68
+01/07 05:47:04 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=15, Iteration=(200/500), Loss=0.0249, Top 1 Acc=98.08, Top 5 Acc=99.68
+01/07 05:47:19 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=15, Iteration=(300/500), Loss=0.0260, Top 1 Acc=98.00, Top 5 Acc=99.65
+01/07 05:47:34 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=15, Iteration=(400/500), Loss=0.0279, Top 1 Acc=97.79, Top 5 Acc=99.66
+01/07 05:47:55 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1929, Top 1 Acc=77.020, Top 5 Acc=95.890
+01/07 05:47:55 AM | Epoch 15 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch15_of_30.pt
+01/07 05:47:55 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=16, Iteration=(0/500), Loss=0.0115, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 05:48:10 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=16, Iteration=(100/500), Loss=0.0199, Top 1 Acc=98.62, Top 5 Acc=99.63
+01/07 05:48:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=16, Iteration=(200/500), Loss=0.0204, Top 1 Acc=98.48, Top 5 Acc=99.68
+01/07 05:48:40 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=16, Iteration=(300/500), Loss=0.0214, Top 1 Acc=98.42, Top 5 Acc=99.68
+01/07 05:48:56 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=16, Iteration=(400/500), Loss=0.0217, Top 1 Acc=98.38, Top 5 Acc=99.69
+01/07 05:49:16 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1996, Top 1 Acc=76.790, Top 5 Acc=95.090
+01/07 05:49:16 AM | Epoch 16 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch16_of_30.pt
+01/07 05:49:16 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=17, Iteration=(0/500), Loss=0.0169, Top 1 Acc=99.00, Top 5 Acc=100.00
+01/07 05:49:31 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=17, Iteration=(100/500), Loss=0.0185, Top 1 Acc=98.64, Top 5 Acc=99.75
+01/07 05:49:47 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=17, Iteration=(200/500), Loss=0.0187, Top 1 Acc=98.65, Top 5 Acc=99.70
+01/07 05:50:02 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=17, Iteration=(300/500), Loss=0.0191, Top 1 Acc=98.63, Top 5 Acc=99.72
+01/07 05:50:17 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=17, Iteration=(400/500), Loss=0.0198, Top 1 Acc=98.56, Top 5 Acc=99.72
+01/07 05:50:37 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2014, Top 1 Acc=76.440, Top 5 Acc=94.940
+01/07 05:50:38 AM | Epoch 17 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch17_of_30.pt
+01/07 05:50:38 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=18, Iteration=(0/500), Loss=0.0246, Top 1 Acc=98.00, Top 5 Acc=100.00
+01/07 05:50:53 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=18, Iteration=(100/500), Loss=0.0183, Top 1 Acc=98.65, Top 5 Acc=99.78
+01/07 05:51:08 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=18, Iteration=(200/500), Loss=0.0172, Top 1 Acc=98.72, Top 5 Acc=99.75
+01/07 05:51:23 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=18, Iteration=(300/500), Loss=0.0180, Top 1 Acc=98.63, Top 5 Acc=99.77
+01/07 05:51:38 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=18, Iteration=(400/500), Loss=0.0187, Top 1 Acc=98.61, Top 5 Acc=99.76
+01/07 05:51:59 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2007, Top 1 Acc=76.940, Top 5 Acc=94.800
+01/07 05:51:59 AM | Epoch 18 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch18_of_30.pt
+01/07 05:51:59 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=19, Iteration=(0/500), Loss=0.0112, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 05:52:14 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=19, Iteration=(100/500), Loss=0.0143, Top 1 Acc=99.02, Top 5 Acc=99.84
+01/07 05:52:30 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=19, Iteration=(200/500), Loss=0.0160, Top 1 Acc=98.85, Top 5 Acc=99.80
+01/07 05:52:45 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=19, Iteration=(300/500), Loss=0.0163, Top 1 Acc=98.83, Top 5 Acc=99.80
+01/07 05:53:00 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=19, Iteration=(400/500), Loss=0.0167, Top 1 Acc=98.83, Top 5 Acc=99.80
+01/07 05:53:21 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.1972, Top 1 Acc=77.010, Top 5 Acc=94.880
+01/07 05:53:21 AM | Epoch 19 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch19_of_30.pt
+01/07 05:53:21 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=20, Iteration=(0/500), Loss=0.0297, Top 1 Acc=97.00, Top 5 Acc=100.00
+01/07 05:53:36 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=20, Iteration=(100/500), Loss=0.0133, Top 1 Acc=99.05, Top 5 Acc=99.81
+01/07 05:53:51 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=20, Iteration=(200/500), Loss=0.0132, Top 1 Acc=99.12, Top 5 Acc=99.84
+01/07 05:54:06 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=20, Iteration=(300/500), Loss=0.0133, Top 1 Acc=99.12, Top 5 Acc=99.84
+01/07 05:54:21 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=20, Iteration=(400/500), Loss=0.0142, Top 1 Acc=99.02, Top 5 Acc=99.82
+01/07 05:54:42 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2087, Top 1 Acc=76.130, Top 5 Acc=94.820
+01/07 05:54:42 AM | Epoch 20 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch20_of_30.pt
+01/07 05:54:42 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=21, Iteration=(0/500), Loss=0.0087, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 05:54:57 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=21, Iteration=(100/500), Loss=0.0155, Top 1 Acc=98.89, Top 5 Acc=99.77
+01/07 05:55:12 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=21, Iteration=(200/500), Loss=0.0147, Top 1 Acc=98.96, Top 5 Acc=99.81
+01/07 05:55:28 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=21, Iteration=(300/500), Loss=0.0153, Top 1 Acc=98.90, Top 5 Acc=99.80
+01/07 05:55:43 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=21, Iteration=(400/500), Loss=0.0164, Top 1 Acc=98.80, Top 5 Acc=99.81
+01/07 05:56:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2049, Top 1 Acc=76.810, Top 5 Acc=94.300
+01/07 05:56:03 AM | Epoch 21 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch21_of_30.pt
+01/07 05:56:04 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=22, Iteration=(0/500), Loss=0.0070, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 05:56:19 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=22, Iteration=(100/500), Loss=0.0117, Top 1 Acc=99.25, Top 5 Acc=99.87
+01/07 05:56:34 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=22, Iteration=(200/500), Loss=0.0118, Top 1 Acc=99.19, Top 5 Acc=99.86
+01/07 05:56:49 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=22, Iteration=(300/500), Loss=0.0118, Top 1 Acc=99.22, Top 5 Acc=99.86
+01/07 05:57:04 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=22, Iteration=(400/500), Loss=0.0125, Top 1 Acc=99.18, Top 5 Acc=99.85
+01/07 05:57:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2099, Top 1 Acc=76.360, Top 5 Acc=93.960
+01/07 05:57:25 AM | Epoch 22 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch22_of_30.pt
+01/07 05:57:25 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=23, Iteration=(0/500), Loss=0.0042, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 05:57:40 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=23, Iteration=(100/500), Loss=0.0127, Top 1 Acc=99.10, Top 5 Acc=99.80
+01/07 05:57:55 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=23, Iteration=(200/500), Loss=0.0115, Top 1 Acc=99.15, Top 5 Acc=99.83
+01/07 05:58:10 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=23, Iteration=(300/500), Loss=0.0112, Top 1 Acc=99.21, Top 5 Acc=99.85
+01/07 05:58:26 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=23, Iteration=(400/500), Loss=0.0113, Top 1 Acc=99.23, Top 5 Acc=99.86
+01/07 05:58:46 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2085, Top 1 Acc=76.650, Top 5 Acc=93.930
+01/07 05:58:46 AM | Epoch 23 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch23_of_30.pt
+01/07 05:58:46 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=24, Iteration=(0/500), Loss=0.0190, Top 1 Acc=98.00, Top 5 Acc=100.00
+01/07 05:59:02 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=24, Iteration=(100/500), Loss=0.0095, Top 1 Acc=99.43, Top 5 Acc=99.90
+01/07 05:59:17 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=24, Iteration=(200/500), Loss=0.0097, Top 1 Acc=99.41, Top 5 Acc=99.86
+01/07 05:59:32 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=24, Iteration=(300/500), Loss=0.0105, Top 1 Acc=99.38, Top 5 Acc=99.87
+01/07 05:59:47 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=24, Iteration=(400/500), Loss=0.0114, Top 1 Acc=99.27, Top 5 Acc=99.87
+01/07 06:00:07 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2107, Top 1 Acc=76.410, Top 5 Acc=94.090
+01/07 06:00:08 AM | Epoch 24 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch24_of_30.pt
+01/07 06:00:08 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=25, Iteration=(0/500), Loss=0.0074, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 06:00:23 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=25, Iteration=(100/500), Loss=0.0095, Top 1 Acc=99.48, Top 5 Acc=99.91
+01/07 06:00:38 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=25, Iteration=(200/500), Loss=0.0108, Top 1 Acc=99.37, Top 5 Acc=99.88
+01/07 06:00:53 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=25, Iteration=(300/500), Loss=0.0113, Top 1 Acc=99.30, Top 5 Acc=99.87
+01/07 06:01:08 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=25, Iteration=(400/500), Loss=0.0119, Top 1 Acc=99.24, Top 5 Acc=99.87
+01/07 06:01:29 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2091, Top 1 Acc=76.380, Top 5 Acc=93.950
+01/07 06:01:29 AM | Epoch 25 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch25_of_30.pt
+01/07 06:01:29 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=26, Iteration=(0/500), Loss=0.0220, Top 1 Acc=98.00, Top 5 Acc=100.00
+01/07 06:01:44 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=26, Iteration=(100/500), Loss=0.0108, Top 1 Acc=99.33, Top 5 Acc=99.90
+01/07 06:01:59 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=26, Iteration=(200/500), Loss=0.0109, Top 1 Acc=99.29, Top 5 Acc=99.89
+01/07 06:02:15 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=26, Iteration=(300/500), Loss=0.0109, Top 1 Acc=99.29, Top 5 Acc=99.89
+01/07 06:02:30 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=26, Iteration=(400/500), Loss=0.0113, Top 1 Acc=99.26, Top 5 Acc=99.89
+01/07 06:02:50 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2089, Top 1 Acc=76.780, Top 5 Acc=93.570
+01/07 06:02:50 AM | Epoch 26 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch26_of_30.pt
+01/07 06:02:50 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=27, Iteration=(0/500), Loss=0.0053, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 06:03:06 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=27, Iteration=(100/500), Loss=0.0092, Top 1 Acc=99.33, Top 5 Acc=99.86
+01/07 06:03:21 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=27, Iteration=(200/500), Loss=0.0091, Top 1 Acc=99.36, Top 5 Acc=99.88
+01/07 06:03:36 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=27, Iteration=(300/500), Loss=0.0091, Top 1 Acc=99.37, Top 5 Acc=99.88
+01/07 06:03:51 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=27, Iteration=(400/500), Loss=0.0095, Top 1 Acc=99.35, Top 5 Acc=99.88
+01/07 06:04:11 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2096, Top 1 Acc=77.050, Top 5 Acc=93.400
+01/07 06:04:11 AM | Epoch 27 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch27_of_30.pt
+01/07 06:04:12 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=28, Iteration=(0/500), Loss=0.0089, Top 1 Acc=99.00, Top 5 Acc=100.00
+01/07 06:04:27 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=28, Iteration=(100/500), Loss=0.0082, Top 1 Acc=99.35, Top 5 Acc=99.86
+01/07 06:04:42 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=28, Iteration=(200/500), Loss=0.0084, Top 1 Acc=99.36, Top 5 Acc=99.89
+01/07 06:04:57 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=28, Iteration=(300/500), Loss=0.0087, Top 1 Acc=99.38, Top 5 Acc=99.89
+01/07 06:05:12 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=28, Iteration=(400/500), Loss=0.0091, Top 1 Acc=99.38, Top 5 Acc=99.88
+01/07 06:05:32 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2104, Top 1 Acc=77.070, Top 5 Acc=93.060
+01/07 06:05:33 AM | Epoch 28 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch28_of_30.pt
+01/07 06:05:33 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=29, Iteration=(0/500), Loss=0.0160, Top 1 Acc=99.00, Top 5 Acc=99.00
+01/07 06:05:48 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=29, Iteration=(100/500), Loss=0.0096, Top 1 Acc=99.39, Top 5 Acc=99.97
+01/07 06:06:03 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=29, Iteration=(200/500), Loss=0.0096, Top 1 Acc=99.38, Top 5 Acc=99.90
+01/07 06:06:18 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=29, Iteration=(300/500), Loss=0.0091, Top 1 Acc=99.44, Top 5 Acc=99.88
+01/07 06:06:33 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=29, Iteration=(400/500), Loss=0.0094, Top 1 Acc=99.44, Top 5 Acc=99.90
+01/07 06:06:54 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2109, Top 1 Acc=77.220, Top 5 Acc=92.950
+01/07 06:06:54 AM | Epoch 29 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch29_of_30.pt
+01/07 06:06:54 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=30, Iteration=(0/500), Loss=0.0036, Top 1 Acc=100.00, Top 5 Acc=100.00
+01/07 06:07:09 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=30, Iteration=(100/500), Loss=0.0095, Top 1 Acc=99.41, Top 5 Acc=99.90
+01/07 06:07:24 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=30, Iteration=(200/500), Loss=0.0090, Top 1 Acc=99.39, Top 5 Acc=99.92
+01/07 06:07:39 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=30, Iteration=(300/500), Loss=0.0094, Top 1 Acc=99.38, Top 5 Acc=99.91
+01/07 06:07:54 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Training - Epoch=30, Iteration=(400/500), Loss=0.0095, Top 1 Acc=99.39, Top 5 Acc=99.91
+01/07 06:08:15 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model Validation - Loss=0.2166, Top 1 Acc=75.890, Top 5 Acc=93.550
+01/07 06:08:15 AM | Epoch 30 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch30_of_30.pt
+01/07 06:08:15 AM | pruned_25pc_multilayer_inter1_capsnet_ccm_model best accuracy=77.520 saved at: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/Trained_pruned_25pc_multilayer_inter1_capsnet_ccm_model_Epoch11_of_30.pt

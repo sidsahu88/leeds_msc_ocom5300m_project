@@ -1,0 +1,451 @@
+02/10 11:47:56 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(0/782), Loss=0.5701, Top 1 Acc=14.06, Top 5 Acc=57.81
+02/10 11:48:01 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(64/782), Loss=0.4063, Top 1 Acc=41.56, Top 5 Acc=85.70
+02/10 11:48:04 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(128/782), Loss=0.3684, Top 1 Acc=48.69, Top 5 Acc=89.26
+02/10 11:48:11 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(192/782), Loss=0.3469, Top 1 Acc=52.35, Top 5 Acc=90.77
+02/10 11:48:16 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(256/782), Loss=0.3307, Top 1 Acc=55.23, Top 5 Acc=91.81
+02/10 11:48:21 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(320/782), Loss=0.3190, Top 1 Acc=57.17, Top 5 Acc=92.42
+02/10 11:48:27 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(384/782), Loss=0.3100, Top 1 Acc=58.66, Top 5 Acc=93.00
+02/10 11:48:30 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(448/782), Loss=0.3029, Top 1 Acc=59.74, Top 5 Acc=93.37
+02/10 11:48:34 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(512/782), Loss=0.2966, Top 1 Acc=60.84, Top 5 Acc=93.70
+02/10 11:48:39 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(576/782), Loss=0.2914, Top 1 Acc=61.64, Top 5 Acc=94.05
+02/10 11:48:43 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(640/782), Loss=0.2873, Top 1 Acc=62.18, Top 5 Acc=94.26
+02/10 11:48:47 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(704/782), Loss=0.2833, Top 1 Acc=62.77, Top 5 Acc=94.44
+02/10 11:48:51 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=1, Iteration=(768/782), Loss=0.2794, Top 1 Acc=63.35, Top 5 Acc=94.61
+02/10 11:48:55 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=1, Loss=0.2462, Top 1 Acc=68.480, Top 5 Acc=95.970
+02/10 11:48:55 PM | Epoch 1 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch1_of_30.pt
+02/10 11:48:56 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(0/782), Loss=0.2140, Top 1 Acc=71.88, Top 5 Acc=92.19
+02/10 11:49:00 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(64/782), Loss=0.2223, Top 1 Acc=72.12, Top 5 Acc=97.64
+02/10 11:49:05 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(128/782), Loss=0.2188, Top 1 Acc=72.93, Top 5 Acc=97.58
+02/10 11:49:08 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(192/782), Loss=0.2178, Top 1 Acc=72.92, Top 5 Acc=97.59
+02/10 11:49:12 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(256/782), Loss=0.2175, Top 1 Acc=73.04, Top 5 Acc=97.66
+02/10 11:49:17 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(320/782), Loss=0.2175, Top 1 Acc=72.90, Top 5 Acc=97.62
+02/10 11:49:21 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(384/782), Loss=0.2166, Top 1 Acc=73.08, Top 5 Acc=97.59
+02/10 11:49:24 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(448/782), Loss=0.2151, Top 1 Acc=73.32, Top 5 Acc=97.63
+02/10 11:49:29 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(512/782), Loss=0.2151, Top 1 Acc=73.27, Top 5 Acc=97.57
+02/10 11:49:33 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(576/782), Loss=0.2144, Top 1 Acc=73.32, Top 5 Acc=97.55
+02/10 11:49:36 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(640/782), Loss=0.2139, Top 1 Acc=73.37, Top 5 Acc=97.57
+02/10 11:49:41 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(704/782), Loss=0.2139, Top 1 Acc=73.31, Top 5 Acc=97.56
+02/10 11:49:45 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=2, Iteration=(768/782), Loss=0.2135, Top 1 Acc=73.35, Top 5 Acc=97.57
+02/10 11:49:49 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=2, Loss=0.2241, Top 1 Acc=70.750, Top 5 Acc=96.860
+02/10 11:49:49 PM | Epoch 2 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch2_of_30.pt
+02/10 11:49:49 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(0/782), Loss=0.1388, Top 1 Acc=85.94, Top 5 Acc=100.00
+02/10 11:49:53 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(64/782), Loss=0.1866, Top 1 Acc=77.81, Top 5 Acc=98.61
+02/10 11:49:57 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(128/782), Loss=0.1913, Top 1 Acc=76.74, Top 5 Acc=98.55
+02/10 11:50:01 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(192/782), Loss=0.1933, Top 1 Acc=76.50, Top 5 Acc=98.56
+02/10 11:50:05 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(256/782), Loss=0.1937, Top 1 Acc=76.46, Top 5 Acc=98.49
+02/10 11:50:10 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(320/782), Loss=0.1929, Top 1 Acc=76.54, Top 5 Acc=98.53
+02/10 11:50:13 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(384/782), Loss=0.1930, Top 1 Acc=76.44, Top 5 Acc=98.46
+02/10 11:50:17 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(448/782), Loss=0.1928, Top 1 Acc=76.39, Top 5 Acc=98.43
+02/10 11:50:22 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(512/782), Loss=0.1922, Top 1 Acc=76.49, Top 5 Acc=98.38
+02/10 11:50:26 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(576/782), Loss=0.1918, Top 1 Acc=76.61, Top 5 Acc=98.38
+02/10 11:50:29 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(640/782), Loss=0.1917, Top 1 Acc=76.62, Top 5 Acc=98.36
+02/10 11:50:34 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(704/782), Loss=0.1915, Top 1 Acc=76.57, Top 5 Acc=98.35
+02/10 11:50:38 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=3, Iteration=(768/782), Loss=0.1913, Top 1 Acc=76.57, Top 5 Acc=98.35
+02/10 11:50:42 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=3, Loss=0.2130, Top 1 Acc=72.550, Top 5 Acc=96.970
+02/10 11:50:42 PM | Epoch 3 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch3_of_30.pt
+02/10 11:50:42 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(0/782), Loss=0.2035, Top 1 Acc=70.31, Top 5 Acc=98.44
+02/10 11:50:47 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(64/782), Loss=0.1723, Top 1 Acc=79.04, Top 5 Acc=98.94
+02/10 11:50:52 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(128/782), Loss=0.1718, Top 1 Acc=79.24, Top 5 Acc=99.08
+02/10 11:50:58 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(192/782), Loss=0.1712, Top 1 Acc=79.33, Top 5 Acc=99.09
+02/10 11:51:03 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(256/782), Loss=0.1715, Top 1 Acc=79.18, Top 5 Acc=99.02
+02/10 11:51:08 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(320/782), Loss=0.1724, Top 1 Acc=79.14, Top 5 Acc=98.95
+02/10 11:51:13 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(384/782), Loss=0.1728, Top 1 Acc=79.10, Top 5 Acc=98.91
+02/10 11:51:18 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(448/782), Loss=0.1734, Top 1 Acc=79.01, Top 5 Acc=98.90
+02/10 11:51:22 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(512/782), Loss=0.1740, Top 1 Acc=78.87, Top 5 Acc=98.86
+02/10 11:51:26 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(576/782), Loss=0.1744, Top 1 Acc=78.77, Top 5 Acc=98.84
+02/10 11:51:30 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(640/782), Loss=0.1745, Top 1 Acc=78.72, Top 5 Acc=98.85
+02/10 11:51:35 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(704/782), Loss=0.1746, Top 1 Acc=78.69, Top 5 Acc=98.84
+02/10 11:51:39 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=4, Iteration=(768/782), Loss=0.1745, Top 1 Acc=78.70, Top 5 Acc=98.84
+02/10 11:51:43 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=4, Loss=0.2019, Top 1 Acc=73.710, Top 5 Acc=97.150
+02/10 11:51:43 PM | Epoch 4 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch4_of_30.pt
+02/10 11:51:43 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(0/782), Loss=0.1327, Top 1 Acc=87.50, Top 5 Acc=100.00
+02/10 11:51:48 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(64/782), Loss=0.1542, Top 1 Acc=82.52, Top 5 Acc=99.40
+02/10 11:51:53 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(128/782), Loss=0.1564, Top 1 Acc=81.93, Top 5 Acc=99.38
+02/10 11:51:57 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(192/782), Loss=0.1561, Top 1 Acc=81.90, Top 5 Acc=99.36
+02/10 11:52:01 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(256/782), Loss=0.1577, Top 1 Acc=81.34, Top 5 Acc=99.31
+02/10 11:52:05 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(320/782), Loss=0.1584, Top 1 Acc=81.21, Top 5 Acc=99.29
+02/10 11:52:09 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(384/782), Loss=0.1599, Top 1 Acc=80.94, Top 5 Acc=99.21
+02/10 11:52:13 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(448/782), Loss=0.1609, Top 1 Acc=80.76, Top 5 Acc=99.17
+02/10 11:52:18 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(512/782), Loss=0.1611, Top 1 Acc=80.68, Top 5 Acc=99.17
+02/10 11:52:22 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(576/782), Loss=0.1607, Top 1 Acc=80.76, Top 5 Acc=99.16
+02/10 11:52:25 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(640/782), Loss=0.1609, Top 1 Acc=80.74, Top 5 Acc=99.16
+02/10 11:52:30 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(704/782), Loss=0.1617, Top 1 Acc=80.59, Top 5 Acc=99.12
+02/10 11:52:34 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=5, Iteration=(768/782), Loss=0.1619, Top 1 Acc=80.58, Top 5 Acc=99.10
+02/10 11:52:37 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=5, Loss=0.2023, Top 1 Acc=73.550, Top 5 Acc=97.070
+02/10 11:52:38 PM | Epoch 5 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch5_of_30.pt
+02/10 11:52:38 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(0/782), Loss=0.1522, Top 1 Acc=84.38, Top 5 Acc=98.44
+02/10 11:52:42 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(64/782), Loss=0.1437, Top 1 Acc=84.23, Top 5 Acc=99.47
+02/10 11:52:46 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(128/782), Loss=0.1436, Top 1 Acc=83.77, Top 5 Acc=99.56
+02/10 11:52:50 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(192/782), Loss=0.1460, Top 1 Acc=83.12, Top 5 Acc=99.51
+02/10 11:52:55 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(256/782), Loss=0.1452, Top 1 Acc=83.18, Top 5 Acc=99.49
+02/10 11:52:58 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(320/782), Loss=0.1465, Top 1 Acc=82.82, Top 5 Acc=99.47
+02/10 11:53:02 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(384/782), Loss=0.1467, Top 1 Acc=82.86, Top 5 Acc=99.44
+02/10 11:53:07 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(448/782), Loss=0.1472, Top 1 Acc=82.83, Top 5 Acc=99.43
+02/10 11:53:11 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(512/782), Loss=0.1489, Top 1 Acc=82.50, Top 5 Acc=99.42
+02/10 11:53:15 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(576/782), Loss=0.1502, Top 1 Acc=82.20, Top 5 Acc=99.43
+02/10 11:53:20 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(640/782), Loss=0.1505, Top 1 Acc=82.12, Top 5 Acc=99.42
+02/10 11:53:24 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(704/782), Loss=0.1507, Top 1 Acc=82.09, Top 5 Acc=99.41
+02/10 11:53:28 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=6, Iteration=(768/782), Loss=0.1513, Top 1 Acc=82.00, Top 5 Acc=99.38
+02/10 11:53:32 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=6, Loss=0.1922, Top 1 Acc=75.390, Top 5 Acc=97.120
+02/10 11:53:32 PM | Epoch 6 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch6_of_30.pt
+02/10 11:53:32 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(0/782), Loss=0.1340, Top 1 Acc=84.38, Top 5 Acc=100.00
+02/10 11:53:36 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(64/782), Loss=0.1329, Top 1 Acc=85.00, Top 5 Acc=99.81
+02/10 11:53:40 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(128/782), Loss=0.1344, Top 1 Acc=84.91, Top 5 Acc=99.76
+02/10 11:53:44 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(192/782), Loss=0.1361, Top 1 Acc=84.50, Top 5 Acc=99.70
+02/10 11:53:48 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(256/782), Loss=0.1371, Top 1 Acc=84.38, Top 5 Acc=99.68
+02/10 11:53:52 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(320/782), Loss=0.1379, Top 1 Acc=84.04, Top 5 Acc=99.67
+02/10 11:53:56 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(384/782), Loss=0.1383, Top 1 Acc=83.96, Top 5 Acc=99.66
+02/10 11:54:01 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(448/782), Loss=0.1394, Top 1 Acc=83.65, Top 5 Acc=99.65
+02/10 11:54:04 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(512/782), Loss=0.1403, Top 1 Acc=83.54, Top 5 Acc=99.63
+02/10 11:54:08 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(576/782), Loss=0.1413, Top 1 Acc=83.39, Top 5 Acc=99.62
+02/10 11:54:13 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(640/782), Loss=0.1417, Top 1 Acc=83.29, Top 5 Acc=99.59
+02/10 11:54:17 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(704/782), Loss=0.1423, Top 1 Acc=83.16, Top 5 Acc=99.58
+02/10 11:54:20 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=7, Iteration=(768/782), Loss=0.1429, Top 1 Acc=83.04, Top 5 Acc=99.56
+02/10 11:54:25 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=7, Loss=0.1981, Top 1 Acc=74.410, Top 5 Acc=96.760
+02/10 11:54:25 PM | Epoch 7 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch7_of_30.pt
+02/10 11:54:25 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(0/782), Loss=0.1178, Top 1 Acc=84.38, Top 5 Acc=100.00
+02/10 11:54:29 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(64/782), Loss=0.1278, Top 1 Acc=85.75, Top 5 Acc=99.74
+02/10 11:54:33 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(128/782), Loss=0.1260, Top 1 Acc=86.29, Top 5 Acc=99.78
+02/10 11:54:37 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(192/782), Loss=0.1281, Top 1 Acc=85.75, Top 5 Acc=99.74
+02/10 11:54:41 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(256/782), Loss=0.1285, Top 1 Acc=85.52, Top 5 Acc=99.73
+02/10 11:54:45 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(320/782), Loss=0.1297, Top 1 Acc=85.32, Top 5 Acc=99.72
+02/10 11:54:49 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(384/782), Loss=0.1308, Top 1 Acc=85.15, Top 5 Acc=99.70
+02/10 11:54:53 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(448/782), Loss=0.1322, Top 1 Acc=84.88, Top 5 Acc=99.69
+02/10 11:54:57 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(512/782), Loss=0.1333, Top 1 Acc=84.67, Top 5 Acc=99.70
+02/10 11:55:02 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(576/782), Loss=0.1339, Top 1 Acc=84.52, Top 5 Acc=99.69
+02/10 11:55:06 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(640/782), Loss=0.1347, Top 1 Acc=84.24, Top 5 Acc=99.69
+02/10 11:55:09 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(704/782), Loss=0.1352, Top 1 Acc=84.18, Top 5 Acc=99.68
+02/10 11:55:13 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=8, Iteration=(768/782), Loss=0.1353, Top 1 Acc=84.13, Top 5 Acc=99.66
+02/10 11:55:18 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=8, Loss=0.1937, Top 1 Acc=75.300, Top 5 Acc=96.950
+02/10 11:55:18 PM | Epoch 8 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch8_of_30.pt
+02/10 11:55:18 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(0/782), Loss=0.1061, Top 1 Acc=92.19, Top 5 Acc=100.00
+02/10 11:55:22 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(64/782), Loss=0.1229, Top 1 Acc=85.96, Top 5 Acc=99.88
+02/10 11:55:26 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(128/782), Loss=0.1224, Top 1 Acc=86.23, Top 5 Acc=99.87
+02/10 11:55:30 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(192/782), Loss=0.1234, Top 1 Acc=86.10, Top 5 Acc=99.85
+02/10 11:55:34 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(256/782), Loss=0.1233, Top 1 Acc=86.11, Top 5 Acc=99.86
+02/10 11:55:38 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(320/782), Loss=0.1241, Top 1 Acc=86.03, Top 5 Acc=99.84
+02/10 11:55:42 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(384/782), Loss=0.1246, Top 1 Acc=85.88, Top 5 Acc=99.85
+02/10 11:55:46 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(448/782), Loss=0.1252, Top 1 Acc=85.73, Top 5 Acc=99.85
+02/10 11:55:50 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(512/782), Loss=0.1255, Top 1 Acc=85.67, Top 5 Acc=99.84
+02/10 11:55:54 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(576/782), Loss=0.1260, Top 1 Acc=85.56, Top 5 Acc=99.82
+02/10 11:55:58 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(640/782), Loss=0.1273, Top 1 Acc=85.32, Top 5 Acc=99.80
+02/10 11:56:02 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(704/782), Loss=0.1277, Top 1 Acc=85.23, Top 5 Acc=99.78
+02/10 11:56:07 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=9, Iteration=(768/782), Loss=0.1283, Top 1 Acc=85.16, Top 5 Acc=99.78
+02/10 11:56:11 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=9, Loss=0.2033, Top 1 Acc=73.110, Top 5 Acc=96.750
+02/10 11:56:11 PM | Epoch 9 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch9_of_30.pt
+02/10 11:56:11 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(0/782), Loss=0.0739, Top 1 Acc=95.31, Top 5 Acc=100.00
+02/10 11:56:14 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(64/782), Loss=0.1132, Top 1 Acc=88.25, Top 5 Acc=99.93
+02/10 11:56:19 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(128/782), Loss=0.1140, Top 1 Acc=88.05, Top 5 Acc=99.87
+02/10 11:56:23 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(192/782), Loss=0.1153, Top 1 Acc=87.73, Top 5 Acc=99.85
+02/10 11:56:27 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(256/782), Loss=0.1160, Top 1 Acc=87.49, Top 5 Acc=99.84
+02/10 11:56:31 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(320/782), Loss=0.1167, Top 1 Acc=87.29, Top 5 Acc=99.84
+02/10 11:56:35 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(384/782), Loss=0.1183, Top 1 Acc=86.98, Top 5 Acc=99.81
+02/10 11:56:39 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(448/782), Loss=0.1192, Top 1 Acc=86.89, Top 5 Acc=99.79
+02/10 11:56:43 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(512/782), Loss=0.1201, Top 1 Acc=86.75, Top 5 Acc=99.79
+02/10 11:56:47 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(576/782), Loss=0.1208, Top 1 Acc=86.52, Top 5 Acc=99.79
+02/10 11:56:51 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(640/782), Loss=0.1216, Top 1 Acc=86.40, Top 5 Acc=99.79
+02/10 11:56:55 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(704/782), Loss=0.1225, Top 1 Acc=86.24, Top 5 Acc=99.78
+02/10 11:56:59 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=10, Iteration=(768/782), Loss=0.1234, Top 1 Acc=86.07, Top 5 Acc=99.75
+02/10 11:57:03 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=10, Loss=0.1949, Top 1 Acc=74.420, Top 5 Acc=96.670
+02/10 11:57:03 PM | Epoch 10 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch10_of_30.pt
+02/10 11:57:03 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(0/782), Loss=0.1012, Top 1 Acc=90.62, Top 5 Acc=100.00
+02/10 11:57:07 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(64/782), Loss=0.1090, Top 1 Acc=88.41, Top 5 Acc=99.93
+02/10 11:57:12 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(128/782), Loss=0.1088, Top 1 Acc=88.30, Top 5 Acc=99.93
+02/10 11:57:16 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(192/782), Loss=0.1081, Top 1 Acc=88.50, Top 5 Acc=99.91
+02/10 11:57:19 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(256/782), Loss=0.1099, Top 1 Acc=88.27, Top 5 Acc=99.90
+02/10 11:57:24 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(320/782), Loss=0.1111, Top 1 Acc=87.99, Top 5 Acc=99.89
+02/10 11:57:28 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(384/782), Loss=0.1113, Top 1 Acc=87.95, Top 5 Acc=99.89
+02/10 11:57:32 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(448/782), Loss=0.1119, Top 1 Acc=87.90, Top 5 Acc=99.88
+02/10 11:57:36 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(512/782), Loss=0.1130, Top 1 Acc=87.72, Top 5 Acc=99.87
+02/10 11:57:40 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(576/782), Loss=0.1140, Top 1 Acc=87.56, Top 5 Acc=99.86
+02/10 11:57:44 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(640/782), Loss=0.1148, Top 1 Acc=87.41, Top 5 Acc=99.86
+02/10 11:57:49 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(704/782), Loss=0.1161, Top 1 Acc=87.14, Top 5 Acc=99.86
+02/10 11:57:52 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=11, Iteration=(768/782), Loss=0.1169, Top 1 Acc=86.98, Top 5 Acc=99.86
+02/10 11:57:56 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=11, Loss=0.2031, Top 1 Acc=73.280, Top 5 Acc=96.350
+02/10 11:57:56 PM | Epoch 11 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch11_of_30.pt
+02/10 11:57:56 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(0/782), Loss=0.1031, Top 1 Acc=84.38, Top 5 Acc=100.00
+02/10 11:58:01 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(64/782), Loss=0.1022, Top 1 Acc=89.30, Top 5 Acc=99.98
+02/10 11:58:05 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(128/782), Loss=0.1048, Top 1 Acc=89.01, Top 5 Acc=99.95
+02/10 11:58:09 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(192/782), Loss=0.1060, Top 1 Acc=88.80, Top 5 Acc=99.93
+02/10 11:58:13 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(256/782), Loss=0.1066, Top 1 Acc=88.79, Top 5 Acc=99.93
+02/10 11:58:17 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(320/782), Loss=0.1074, Top 1 Acc=88.72, Top 5 Acc=99.93
+02/10 11:58:21 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(384/782), Loss=0.1088, Top 1 Acc=88.47, Top 5 Acc=99.93
+02/10 11:58:25 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(448/782), Loss=0.1101, Top 1 Acc=88.28, Top 5 Acc=99.91
+02/10 11:58:29 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(512/782), Loss=0.1102, Top 1 Acc=88.26, Top 5 Acc=99.90
+02/10 11:58:33 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(576/782), Loss=0.1100, Top 1 Acc=88.27, Top 5 Acc=99.90
+02/10 11:58:37 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(640/782), Loss=0.1110, Top 1 Acc=88.11, Top 5 Acc=99.88
+02/10 11:58:42 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(704/782), Loss=0.1116, Top 1 Acc=87.97, Top 5 Acc=99.87
+02/10 11:58:45 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=12, Iteration=(768/782), Loss=0.1126, Top 1 Acc=87.76, Top 5 Acc=99.86
+02/10 11:58:49 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=12, Loss=0.2000, Top 1 Acc=74.270, Top 5 Acc=96.300
+02/10 11:58:49 PM | Epoch 12 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch12_of_30.pt
+02/10 11:58:49 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(0/782), Loss=0.0962, Top 1 Acc=93.75, Top 5 Acc=100.00
+02/10 11:58:54 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(64/782), Loss=0.0971, Top 1 Acc=90.53, Top 5 Acc=99.88
+02/10 11:58:58 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(128/782), Loss=0.0980, Top 1 Acc=90.29, Top 5 Acc=99.90
+02/10 11:59:01 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(192/782), Loss=0.0997, Top 1 Acc=90.04, Top 5 Acc=99.91
+02/10 11:59:06 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(256/782), Loss=0.1002, Top 1 Acc=89.91, Top 5 Acc=99.91
+02/10 11:59:10 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(320/782), Loss=0.1010, Top 1 Acc=89.64, Top 5 Acc=99.92
+02/10 11:59:14 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(384/782), Loss=0.1024, Top 1 Acc=89.44, Top 5 Acc=99.92
+02/10 11:59:18 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(448/782), Loss=0.1035, Top 1 Acc=89.23, Top 5 Acc=99.91
+02/10 11:59:22 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(512/782), Loss=0.1044, Top 1 Acc=89.06, Top 5 Acc=99.91
+02/10 11:59:26 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(576/782), Loss=0.1055, Top 1 Acc=88.90, Top 5 Acc=99.91
+02/10 11:59:30 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(640/782), Loss=0.1067, Top 1 Acc=88.59, Top 5 Acc=99.90
+02/10 11:59:34 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(704/782), Loss=0.1073, Top 1 Acc=88.46, Top 5 Acc=99.90
+02/10 11:59:38 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=13, Iteration=(768/782), Loss=0.1083, Top 1 Acc=88.34, Top 5 Acc=99.89
+02/10 11:59:42 PM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=13, Loss=0.1961, Top 1 Acc=74.440, Top 5 Acc=96.420
+02/10 11:59:42 PM | Epoch 13 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch13_of_30.pt
+02/10 11:59:42 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(0/782), Loss=0.0859, Top 1 Acc=90.62, Top 5 Acc=100.00
+02/10 11:59:47 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(64/782), Loss=0.0961, Top 1 Acc=90.89, Top 5 Acc=99.95
+02/10 11:59:50 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(128/782), Loss=0.0961, Top 1 Acc=90.70, Top 5 Acc=99.94
+02/10 11:59:54 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(192/782), Loss=0.0963, Top 1 Acc=90.62, Top 5 Acc=99.94
+02/10 11:59:59 PM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(256/782), Loss=0.0970, Top 1 Acc=90.41, Top 5 Acc=99.95
+02/11 12:00:03 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(320/782), Loss=0.0977, Top 1 Acc=90.27, Top 5 Acc=99.95
+02/11 12:00:06 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(384/782), Loss=0.0986, Top 1 Acc=90.06, Top 5 Acc=99.94
+02/11 12:00:11 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(448/782), Loss=0.1002, Top 1 Acc=89.71, Top 5 Acc=99.93
+02/11 12:00:15 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(512/782), Loss=0.1011, Top 1 Acc=89.53, Top 5 Acc=99.93
+02/11 12:00:18 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(576/782), Loss=0.1019, Top 1 Acc=89.37, Top 5 Acc=99.93
+02/11 12:00:23 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(640/782), Loss=0.1028, Top 1 Acc=89.21, Top 5 Acc=99.93
+02/11 12:00:27 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(704/782), Loss=0.1034, Top 1 Acc=89.09, Top 5 Acc=99.92
+02/11 12:00:31 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=14, Iteration=(768/782), Loss=0.1039, Top 1 Acc=89.01, Top 5 Acc=99.92
+02/11 12:00:35 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=14, Loss=0.2013, Top 1 Acc=73.770, Top 5 Acc=96.090
+02/11 12:00:35 AM | Epoch 14 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch14_of_30.pt
+02/11 12:00:35 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(0/782), Loss=0.0983, Top 1 Acc=87.50, Top 5 Acc=100.00
+02/11 12:00:39 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(64/782), Loss=0.0904, Top 1 Acc=91.20, Top 5 Acc=99.95
+02/11 12:00:43 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(128/782), Loss=0.0900, Top 1 Acc=91.36, Top 5 Acc=99.95
+02/11 12:00:48 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(192/782), Loss=0.0910, Top 1 Acc=91.14, Top 5 Acc=99.95
+02/11 12:00:51 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(256/782), Loss=0.0920, Top 1 Acc=90.98, Top 5 Acc=99.96
+02/11 12:00:55 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(320/782), Loss=0.0928, Top 1 Acc=90.82, Top 5 Acc=99.96
+02/11 12:01:00 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(384/782), Loss=0.0941, Top 1 Acc=90.61, Top 5 Acc=99.95
+02/11 12:01:04 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(448/782), Loss=0.0955, Top 1 Acc=90.35, Top 5 Acc=99.93
+02/11 12:01:07 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(512/782), Loss=0.0965, Top 1 Acc=90.22, Top 5 Acc=99.93
+02/11 12:01:12 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(576/782), Loss=0.0969, Top 1 Acc=90.16, Top 5 Acc=99.92
+02/11 12:01:16 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(640/782), Loss=0.0981, Top 1 Acc=89.95, Top 5 Acc=99.91
+02/11 12:01:20 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(704/782), Loss=0.0992, Top 1 Acc=89.72, Top 5 Acc=99.91
+02/11 12:01:24 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=15, Iteration=(768/782), Loss=0.0995, Top 1 Acc=89.63, Top 5 Acc=99.91
+02/11 12:01:28 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=15, Loss=0.1993, Top 1 Acc=73.930, Top 5 Acc=96.060
+02/11 12:01:28 AM | Epoch 15 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch15_of_30.pt
+02/11 12:01:28 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(0/782), Loss=0.0590, Top 1 Acc=98.44, Top 5 Acc=100.00
+02/11 12:01:32 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(64/782), Loss=0.0810, Top 1 Acc=92.67, Top 5 Acc=100.00
+02/11 12:01:36 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(128/782), Loss=0.0861, Top 1 Acc=91.59, Top 5 Acc=99.96
+02/11 12:01:41 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(192/782), Loss=0.0881, Top 1 Acc=91.46, Top 5 Acc=99.94
+02/11 12:01:44 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(256/782), Loss=0.0896, Top 1 Acc=91.21, Top 5 Acc=99.95
+02/11 12:01:48 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(320/782), Loss=0.0903, Top 1 Acc=91.17, Top 5 Acc=99.95
+02/11 12:01:53 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(384/782), Loss=0.0910, Top 1 Acc=91.01, Top 5 Acc=99.96
+02/11 12:01:57 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(448/782), Loss=0.0915, Top 1 Acc=90.86, Top 5 Acc=99.95
+02/11 12:02:00 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(512/782), Loss=0.0929, Top 1 Acc=90.62, Top 5 Acc=99.95
+02/11 12:02:05 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(576/782), Loss=0.0936, Top 1 Acc=90.51, Top 5 Acc=99.94
+02/11 12:02:09 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(640/782), Loss=0.0940, Top 1 Acc=90.43, Top 5 Acc=99.93
+02/11 12:02:13 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(704/782), Loss=0.0946, Top 1 Acc=90.35, Top 5 Acc=99.94
+02/11 12:02:18 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=16, Iteration=(768/782), Loss=0.0957, Top 1 Acc=90.15, Top 5 Acc=99.93
+02/11 12:02:21 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=16, Loss=0.1999, Top 1 Acc=73.910, Top 5 Acc=96.130
+02/11 12:02:21 AM | Epoch 16 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch16_of_30.pt
+02/11 12:02:21 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(0/782), Loss=0.0913, Top 1 Acc=89.06, Top 5 Acc=100.00
+02/11 12:02:25 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(64/782), Loss=0.0867, Top 1 Acc=91.54, Top 5 Acc=99.98
+02/11 12:02:30 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(128/782), Loss=0.0862, Top 1 Acc=91.81, Top 5 Acc=99.95
+02/11 12:02:34 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(192/782), Loss=0.0863, Top 1 Acc=91.76, Top 5 Acc=99.94
+02/11 12:02:37 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(256/782), Loss=0.0866, Top 1 Acc=91.72, Top 5 Acc=99.94
+02/11 12:02:42 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(320/782), Loss=0.0869, Top 1 Acc=91.66, Top 5 Acc=99.94
+02/11 12:02:46 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(384/782), Loss=0.0873, Top 1 Acc=91.60, Top 5 Acc=99.93
+02/11 12:02:50 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(448/782), Loss=0.0882, Top 1 Acc=91.43, Top 5 Acc=99.94
+02/11 12:02:54 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(512/782), Loss=0.0890, Top 1 Acc=91.31, Top 5 Acc=99.94
+02/11 12:02:58 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(576/782), Loss=0.0898, Top 1 Acc=91.20, Top 5 Acc=99.94
+02/11 12:03:02 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(640/782), Loss=0.0906, Top 1 Acc=91.03, Top 5 Acc=99.93
+02/11 12:03:06 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(704/782), Loss=0.0915, Top 1 Acc=90.89, Top 5 Acc=99.93
+02/11 12:03:10 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=17, Iteration=(768/782), Loss=0.0926, Top 1 Acc=90.66, Top 5 Acc=99.92
+02/11 12:03:14 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=17, Loss=0.2095, Top 1 Acc=72.570, Top 5 Acc=95.930
+02/11 12:03:14 AM | Epoch 17 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch17_of_30.pt
+02/11 12:03:14 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(0/782), Loss=0.0749, Top 1 Acc=92.19, Top 5 Acc=100.00
+02/11 12:03:18 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(64/782), Loss=0.0777, Top 1 Acc=93.25, Top 5 Acc=99.95
+02/11 12:03:23 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(128/782), Loss=0.0803, Top 1 Acc=92.65, Top 5 Acc=99.96
+02/11 12:03:26 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(192/782), Loss=0.0809, Top 1 Acc=92.50, Top 5 Acc=99.96
+02/11 12:03:30 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(256/782), Loss=0.0817, Top 1 Acc=92.38, Top 5 Acc=99.96
+02/11 12:03:35 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(320/782), Loss=0.0826, Top 1 Acc=92.24, Top 5 Acc=99.95
+02/11 12:03:39 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(384/782), Loss=0.0839, Top 1 Acc=92.06, Top 5 Acc=99.96
+02/11 12:03:42 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(448/782), Loss=0.0852, Top 1 Acc=91.85, Top 5 Acc=99.96
+02/11 12:03:47 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(512/782), Loss=0.0860, Top 1 Acc=91.68, Top 5 Acc=99.96
+02/11 12:03:51 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(576/782), Loss=0.0868, Top 1 Acc=91.48, Top 5 Acc=99.96
+02/11 12:03:55 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(640/782), Loss=0.0882, Top 1 Acc=91.23, Top 5 Acc=99.95
+02/11 12:03:59 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(704/782), Loss=0.0889, Top 1 Acc=91.04, Top 5 Acc=99.95
+02/11 12:04:03 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=18, Iteration=(768/782), Loss=0.0896, Top 1 Acc=90.91, Top 5 Acc=99.96
+02/11 12:04:07 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=18, Loss=0.2020, Top 1 Acc=73.450, Top 5 Acc=95.670
+02/11 12:04:07 AM | Epoch 18 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch18_of_30.pt
+02/11 12:04:07 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(0/782), Loss=0.0699, Top 1 Acc=93.75, Top 5 Acc=100.00
+02/11 12:04:11 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(64/782), Loss=0.0765, Top 1 Acc=93.49, Top 5 Acc=99.90
+02/11 12:04:15 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(128/782), Loss=0.0763, Top 1 Acc=93.22, Top 5 Acc=99.94
+02/11 12:04:19 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(192/782), Loss=0.0786, Top 1 Acc=92.92, Top 5 Acc=99.96
+02/11 12:04:23 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(256/782), Loss=0.0789, Top 1 Acc=92.89, Top 5 Acc=99.96
+02/11 12:04:27 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(320/782), Loss=0.0798, Top 1 Acc=92.78, Top 5 Acc=99.96
+02/11 12:04:31 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(384/782), Loss=0.0813, Top 1 Acc=92.48, Top 5 Acc=99.96
+02/11 12:04:35 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(448/782), Loss=0.0825, Top 1 Acc=92.22, Top 5 Acc=99.96
+02/11 12:04:39 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(512/782), Loss=0.0834, Top 1 Acc=91.97, Top 5 Acc=99.96
+02/11 12:04:43 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(576/782), Loss=0.0840, Top 1 Acc=91.87, Top 5 Acc=99.96
+02/11 12:04:47 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(640/782), Loss=0.0845, Top 1 Acc=91.78, Top 5 Acc=99.97
+02/11 12:04:52 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(704/782), Loss=0.0853, Top 1 Acc=91.65, Top 5 Acc=99.97
+02/11 12:04:55 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=19, Iteration=(768/782), Loss=0.0861, Top 1 Acc=91.51, Top 5 Acc=99.96
+02/11 12:04:59 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=19, Loss=0.2077, Top 1 Acc=72.980, Top 5 Acc=95.740
+02/11 12:04:59 AM | Epoch 19 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch19_of_30.pt
+02/11 12:04:59 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(0/782), Loss=0.0826, Top 1 Acc=90.62, Top 5 Acc=100.00
+02/11 12:05:04 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(64/782), Loss=0.0711, Top 1 Acc=93.97, Top 5 Acc=100.00
+02/11 12:05:08 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(128/782), Loss=0.0730, Top 1 Acc=93.64, Top 5 Acc=99.99
+02/11 12:05:11 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(192/782), Loss=0.0749, Top 1 Acc=93.41, Top 5 Acc=99.98
+02/11 12:05:16 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(256/782), Loss=0.0763, Top 1 Acc=93.17, Top 5 Acc=99.98
+02/11 12:05:20 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(320/782), Loss=0.0782, Top 1 Acc=92.87, Top 5 Acc=99.96
+02/11 12:05:23 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(384/782), Loss=0.0786, Top 1 Acc=92.82, Top 5 Acc=99.96
+02/11 12:05:28 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(448/782), Loss=0.0801, Top 1 Acc=92.56, Top 5 Acc=99.96
+02/11 12:05:32 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(512/782), Loss=0.0811, Top 1 Acc=92.38, Top 5 Acc=99.96
+02/11 12:05:36 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(576/782), Loss=0.0819, Top 1 Acc=92.20, Top 5 Acc=99.96
+02/11 12:05:40 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(640/782), Loss=0.0826, Top 1 Acc=92.04, Top 5 Acc=99.96
+02/11 12:05:44 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(704/782), Loss=0.0833, Top 1 Acc=91.92, Top 5 Acc=99.94
+02/11 12:05:48 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=20, Iteration=(768/782), Loss=0.0838, Top 1 Acc=91.79, Top 5 Acc=99.94
+02/11 12:05:51 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=20, Loss=0.1995, Top 1 Acc=73.980, Top 5 Acc=96.230
+02/11 12:05:51 AM | Epoch 20 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch20_of_30.pt
+02/11 12:05:51 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(0/782), Loss=0.0793, Top 1 Acc=90.62, Top 5 Acc=100.00
+02/11 12:05:56 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(64/782), Loss=0.0725, Top 1 Acc=93.82, Top 5 Acc=99.95
+02/11 12:06:00 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(128/782), Loss=0.0733, Top 1 Acc=93.68, Top 5 Acc=99.98
+02/11 12:06:04 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(192/782), Loss=0.0727, Top 1 Acc=93.84, Top 5 Acc=99.96
+02/11 12:06:08 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(256/782), Loss=0.0737, Top 1 Acc=93.53, Top 5 Acc=99.97
+02/11 12:06:12 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(320/782), Loss=0.0745, Top 1 Acc=93.45, Top 5 Acc=99.97
+02/11 12:06:16 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(384/782), Loss=0.0754, Top 1 Acc=93.26, Top 5 Acc=99.96
+02/11 12:06:20 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(448/782), Loss=0.0765, Top 1 Acc=93.06, Top 5 Acc=99.96
+02/11 12:06:24 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(512/782), Loss=0.0769, Top 1 Acc=92.93, Top 5 Acc=99.96
+02/11 12:06:28 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(576/782), Loss=0.0779, Top 1 Acc=92.79, Top 5 Acc=99.95
+02/11 12:06:33 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(640/782), Loss=0.0784, Top 1 Acc=92.71, Top 5 Acc=99.96
+02/11 12:06:36 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(704/782), Loss=0.0791, Top 1 Acc=92.53, Top 5 Acc=99.96
+02/11 12:06:40 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=21, Iteration=(768/782), Loss=0.0799, Top 1 Acc=92.38, Top 5 Acc=99.96
+02/11 12:06:44 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=21, Loss=0.2045, Top 1 Acc=73.790, Top 5 Acc=95.550
+02/11 12:06:44 AM | Epoch 21 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch21_of_30.pt
+02/11 12:06:45 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(0/782), Loss=0.0534, Top 1 Acc=98.44, Top 5 Acc=100.00
+02/11 12:06:49 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(64/782), Loss=0.0678, Top 1 Acc=94.64, Top 5 Acc=99.98
+02/11 12:06:52 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(128/782), Loss=0.0669, Top 1 Acc=94.63, Top 5 Acc=99.99
+02/11 12:06:56 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(192/782), Loss=0.0679, Top 1 Acc=94.54, Top 5 Acc=99.98
+02/11 12:07:01 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(256/782), Loss=0.0691, Top 1 Acc=94.25, Top 5 Acc=99.97
+02/11 12:07:04 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(320/782), Loss=0.0699, Top 1 Acc=94.21, Top 5 Acc=99.97
+02/11 12:07:08 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(384/782), Loss=0.0718, Top 1 Acc=93.87, Top 5 Acc=99.97
+02/11 12:07:13 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(448/782), Loss=0.0731, Top 1 Acc=93.60, Top 5 Acc=99.97
+02/11 12:07:17 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(512/782), Loss=0.0740, Top 1 Acc=93.41, Top 5 Acc=99.97
+02/11 12:07:20 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(576/782), Loss=0.0750, Top 1 Acc=93.17, Top 5 Acc=99.97
+02/11 12:07:25 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(640/782), Loss=0.0759, Top 1 Acc=93.02, Top 5 Acc=99.97
+02/11 12:07:29 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(704/782), Loss=0.0769, Top 1 Acc=92.82, Top 5 Acc=99.97
+02/11 12:07:33 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=22, Iteration=(768/782), Loss=0.0774, Top 1 Acc=92.75, Top 5 Acc=99.97
+02/11 12:07:37 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=22, Loss=0.2087, Top 1 Acc=72.640, Top 5 Acc=95.570
+02/11 12:07:37 AM | Epoch 22 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch22_of_30.pt
+02/11 12:07:37 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(0/782), Loss=0.1020, Top 1 Acc=87.50, Top 5 Acc=98.44
+02/11 12:07:41 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(64/782), Loss=0.0657, Top 1 Acc=94.64, Top 5 Acc=99.98
+02/11 12:07:45 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(128/782), Loss=0.0662, Top 1 Acc=94.54, Top 5 Acc=99.96
+02/11 12:07:50 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(192/782), Loss=0.0671, Top 1 Acc=94.46, Top 5 Acc=99.98
+02/11 12:07:53 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(256/782), Loss=0.0675, Top 1 Acc=94.42, Top 5 Acc=99.98
+02/11 12:07:57 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(320/782), Loss=0.0688, Top 1 Acc=94.22, Top 5 Acc=99.99
+02/11 12:08:02 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(384/782), Loss=0.0692, Top 1 Acc=94.09, Top 5 Acc=99.98
+02/11 12:08:06 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(448/782), Loss=0.0706, Top 1 Acc=93.90, Top 5 Acc=99.98
+02/11 12:08:09 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(512/782), Loss=0.0716, Top 1 Acc=93.72, Top 5 Acc=99.98
+02/11 12:08:13 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(576/782), Loss=0.0727, Top 1 Acc=93.54, Top 5 Acc=99.98
+02/11 12:08:18 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(640/782), Loss=0.0736, Top 1 Acc=93.37, Top 5 Acc=99.98
+02/11 12:08:21 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(704/782), Loss=0.0742, Top 1 Acc=93.23, Top 5 Acc=99.97
+02/11 12:08:25 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=23, Iteration=(768/782), Loss=0.0751, Top 1 Acc=93.08, Top 5 Acc=99.97
+02/11 12:08:30 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=23, Loss=0.2034, Top 1 Acc=73.290, Top 5 Acc=95.600
+02/11 12:08:30 AM | Epoch 23 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch23_of_30.pt
+02/11 12:08:30 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(0/782), Loss=0.0661, Top 1 Acc=96.88, Top 5 Acc=100.00
+02/11 12:08:34 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(64/782), Loss=0.0621, Top 1 Acc=95.12, Top 5 Acc=100.00
+02/11 12:08:37 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(128/782), Loss=0.0630, Top 1 Acc=95.00, Top 5 Acc=100.00
+02/11 12:08:42 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(192/782), Loss=0.0634, Top 1 Acc=94.83, Top 5 Acc=99.99
+02/11 12:08:46 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(256/782), Loss=0.0641, Top 1 Acc=94.67, Top 5 Acc=99.98
+02/11 12:08:49 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(320/782), Loss=0.0642, Top 1 Acc=94.68, Top 5 Acc=99.98
+02/11 12:08:54 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(384/782), Loss=0.0649, Top 1 Acc=94.65, Top 5 Acc=99.97
+02/11 12:08:58 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(448/782), Loss=0.0663, Top 1 Acc=94.40, Top 5 Acc=99.97
+02/11 12:09:02 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(512/782), Loss=0.0674, Top 1 Acc=94.20, Top 5 Acc=99.97
+02/11 12:09:06 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(576/782), Loss=0.0685, Top 1 Acc=94.00, Top 5 Acc=99.97
+02/11 12:09:10 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(640/782), Loss=0.0697, Top 1 Acc=93.80, Top 5 Acc=99.97
+02/11 12:09:14 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(704/782), Loss=0.0705, Top 1 Acc=93.67, Top 5 Acc=99.97
+02/11 12:09:19 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=24, Iteration=(768/782), Loss=0.0715, Top 1 Acc=93.50, Top 5 Acc=99.97
+02/11 12:09:22 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=24, Loss=0.2065, Top 1 Acc=73.010, Top 5 Acc=95.190
+02/11 12:09:22 AM | Epoch 24 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch24_of_30.pt
+02/11 12:09:22 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(0/782), Loss=0.0709, Top 1 Acc=96.88, Top 5 Acc=100.00
+02/11 12:09:26 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(64/782), Loss=0.0565, Top 1 Acc=95.72, Top 5 Acc=100.00
+02/11 12:09:31 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(128/782), Loss=0.0586, Top 1 Acc=95.52, Top 5 Acc=99.99
+02/11 12:09:35 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(192/782), Loss=0.0595, Top 1 Acc=95.30, Top 5 Acc=99.99
+02/11 12:09:38 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(256/782), Loss=0.0609, Top 1 Acc=95.10, Top 5 Acc=99.98
+02/11 12:09:42 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(320/782), Loss=0.0622, Top 1 Acc=94.90, Top 5 Acc=99.98
+02/11 12:09:47 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(384/782), Loss=0.0638, Top 1 Acc=94.63, Top 5 Acc=99.98
+02/11 12:09:50 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(448/782), Loss=0.0653, Top 1 Acc=94.38, Top 5 Acc=99.97
+02/11 12:09:54 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(512/782), Loss=0.0662, Top 1 Acc=94.26, Top 5 Acc=99.97
+02/11 12:09:59 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(576/782), Loss=0.0677, Top 1 Acc=94.05, Top 5 Acc=99.97
+02/11 12:10:03 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(640/782), Loss=0.0682, Top 1 Acc=93.95, Top 5 Acc=99.97
+02/11 12:10:06 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(704/782), Loss=0.0690, Top 1 Acc=93.79, Top 5 Acc=99.97
+02/11 12:10:11 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=25, Iteration=(768/782), Loss=0.0697, Top 1 Acc=93.66, Top 5 Acc=99.97
+02/11 12:10:15 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=25, Loss=0.2056, Top 1 Acc=73.270, Top 5 Acc=95.370
+02/11 12:10:15 AM | Epoch 25 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch25_of_30.pt
+02/11 12:10:15 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(0/782), Loss=0.0690, Top 1 Acc=89.06, Top 5 Acc=100.00
+02/11 12:10:19 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(64/782), Loss=0.0588, Top 1 Acc=95.50, Top 5 Acc=99.98
+02/11 12:10:23 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(128/782), Loss=0.0578, Top 1 Acc=95.63, Top 5 Acc=99.99
+02/11 12:10:27 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(192/782), Loss=0.0589, Top 1 Acc=95.39, Top 5 Acc=99.98
+02/11 12:10:31 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(256/782), Loss=0.0592, Top 1 Acc=95.25, Top 5 Acc=99.98
+02/11 12:10:36 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(320/782), Loss=0.0605, Top 1 Acc=95.08, Top 5 Acc=99.98
+02/11 12:10:39 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(384/782), Loss=0.0616, Top 1 Acc=94.95, Top 5 Acc=99.98
+02/11 12:10:43 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(448/782), Loss=0.0625, Top 1 Acc=94.81, Top 5 Acc=99.97
+02/11 12:10:48 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(512/782), Loss=0.0636, Top 1 Acc=94.72, Top 5 Acc=99.97
+02/11 12:10:52 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(576/782), Loss=0.0643, Top 1 Acc=94.60, Top 5 Acc=99.97
+02/11 12:10:55 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(640/782), Loss=0.0656, Top 1 Acc=94.37, Top 5 Acc=99.97
+02/11 12:11:00 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(704/782), Loss=0.0668, Top 1 Acc=94.15, Top 5 Acc=99.97
+02/11 12:11:04 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=26, Iteration=(768/782), Loss=0.0680, Top 1 Acc=93.96, Top 5 Acc=99.97
+02/11 12:11:07 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=26, Loss=0.2030, Top 1 Acc=74.160, Top 5 Acc=95.270
+02/11 12:11:07 AM | Epoch 26 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch26_of_30.pt
+02/11 12:11:07 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(0/782), Loss=0.0664, Top 1 Acc=96.88, Top 5 Acc=100.00
+02/11 12:11:12 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(64/782), Loss=0.0586, Top 1 Acc=95.26, Top 5 Acc=99.95
+02/11 12:11:16 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(128/782), Loss=0.0585, Top 1 Acc=95.37, Top 5 Acc=99.98
+02/11 12:11:20 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(192/782), Loss=0.0585, Top 1 Acc=95.26, Top 5 Acc=99.98
+02/11 12:11:24 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(256/782), Loss=0.0580, Top 1 Acc=95.44, Top 5 Acc=99.98
+02/11 12:11:28 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(320/782), Loss=0.0592, Top 1 Acc=95.27, Top 5 Acc=99.98
+02/11 12:11:32 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(384/782), Loss=0.0595, Top 1 Acc=95.26, Top 5 Acc=99.98
+02/11 12:11:36 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(448/782), Loss=0.0608, Top 1 Acc=95.01, Top 5 Acc=99.97
+02/11 12:11:40 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(512/782), Loss=0.0617, Top 1 Acc=94.93, Top 5 Acc=99.97
+02/11 12:11:44 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(576/782), Loss=0.0627, Top 1 Acc=94.75, Top 5 Acc=99.97
+02/11 12:11:48 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(640/782), Loss=0.0636, Top 1 Acc=94.61, Top 5 Acc=99.97
+02/11 12:11:53 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(704/782), Loss=0.0643, Top 1 Acc=94.54, Top 5 Acc=99.97
+02/11 12:11:56 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=27, Iteration=(768/782), Loss=0.0651, Top 1 Acc=94.42, Top 5 Acc=99.97
+02/11 12:12:00 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=27, Loss=0.2056, Top 1 Acc=73.250, Top 5 Acc=95.100
+02/11 12:12:00 AM | Epoch 27 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch27_of_30.pt
+02/11 12:12:00 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(0/782), Loss=0.0464, Top 1 Acc=95.31, Top 5 Acc=100.00
+02/11 12:12:05 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(64/782), Loss=0.0541, Top 1 Acc=95.79, Top 5 Acc=99.98
+02/11 12:12:09 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(128/782), Loss=0.0553, Top 1 Acc=95.65, Top 5 Acc=99.99
+02/11 12:12:12 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(192/782), Loss=0.0559, Top 1 Acc=95.64, Top 5 Acc=99.98
+02/11 12:12:17 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(256/782), Loss=0.0563, Top 1 Acc=95.62, Top 5 Acc=99.98
+02/11 12:12:21 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(320/782), Loss=0.0568, Top 1 Acc=95.54, Top 5 Acc=99.99
+02/11 12:12:25 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(384/782), Loss=0.0579, Top 1 Acc=95.37, Top 5 Acc=99.99
+02/11 12:12:29 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(448/782), Loss=0.0588, Top 1 Acc=95.30, Top 5 Acc=99.98
+02/11 12:12:33 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(512/782), Loss=0.0598, Top 1 Acc=95.17, Top 5 Acc=99.98
+02/11 12:12:37 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(576/782), Loss=0.0609, Top 1 Acc=94.97, Top 5 Acc=99.98
+02/11 12:12:41 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(640/782), Loss=0.0617, Top 1 Acc=94.89, Top 5 Acc=99.99
+02/11 12:12:45 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(704/782), Loss=0.0625, Top 1 Acc=94.77, Top 5 Acc=99.98
+02/11 12:12:49 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=28, Iteration=(768/782), Loss=0.0630, Top 1 Acc=94.69, Top 5 Acc=99.98
+02/11 12:12:53 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=28, Loss=0.2091, Top 1 Acc=72.850, Top 5 Acc=94.860
+02/11 12:12:53 AM | Epoch 28 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch28_of_30.pt
+02/11 12:12:53 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(0/782), Loss=0.0573, Top 1 Acc=95.31, Top 5 Acc=100.00
+02/11 12:12:58 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(64/782), Loss=0.0511, Top 1 Acc=96.42, Top 5 Acc=99.98
+02/11 12:13:01 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(128/782), Loss=0.0516, Top 1 Acc=96.23, Top 5 Acc=99.99
+02/11 12:13:05 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(192/782), Loss=0.0523, Top 1 Acc=96.14, Top 5 Acc=99.98
+02/11 12:13:10 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(256/782), Loss=0.0526, Top 1 Acc=96.15, Top 5 Acc=99.98
+02/11 12:13:14 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(320/782), Loss=0.0537, Top 1 Acc=96.03, Top 5 Acc=99.99
+02/11 12:13:17 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(384/782), Loss=0.0549, Top 1 Acc=95.88, Top 5 Acc=99.98
+02/11 12:13:22 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(448/782), Loss=0.0560, Top 1 Acc=95.72, Top 5 Acc=99.97
+02/11 12:13:26 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(512/782), Loss=0.0573, Top 1 Acc=95.49, Top 5 Acc=99.98
+02/11 12:13:29 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(576/782), Loss=0.0579, Top 1 Acc=95.41, Top 5 Acc=99.98
+02/11 12:13:34 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(640/782), Loss=0.0588, Top 1 Acc=95.23, Top 5 Acc=99.98
+02/11 12:13:38 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(704/782), Loss=0.0598, Top 1 Acc=95.05, Top 5 Acc=99.98
+02/11 12:13:42 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=29, Iteration=(768/782), Loss=0.0605, Top 1 Acc=94.93, Top 5 Acc=99.98
+02/11 12:13:46 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=29, Loss=0.2130, Top 1 Acc=71.940, Top 5 Acc=94.920
+02/11 12:13:46 AM | Epoch 29 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch29_of_30.pt
+02/11 12:13:46 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(0/782), Loss=0.0713, Top 1 Acc=93.75, Top 5 Acc=100.00
+02/11 12:13:50 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(64/782), Loss=0.0536, Top 1 Acc=96.11, Top 5 Acc=99.98
+02/11 12:13:54 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(128/782), Loss=0.0517, Top 1 Acc=96.32, Top 5 Acc=99.98
+02/11 12:13:58 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(192/782), Loss=0.0533, Top 1 Acc=95.98, Top 5 Acc=99.97
+02/11 12:14:02 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(256/782), Loss=0.0544, Top 1 Acc=95.84, Top 5 Acc=99.98
+02/11 12:14:06 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(320/782), Loss=0.0549, Top 1 Acc=95.74, Top 5 Acc=99.98
+02/11 12:14:10 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(384/782), Loss=0.0556, Top 1 Acc=95.61, Top 5 Acc=99.98
+02/11 12:14:14 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(448/782), Loss=0.0563, Top 1 Acc=95.48, Top 5 Acc=99.99
+02/11 12:14:18 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(512/782), Loss=0.0569, Top 1 Acc=95.41, Top 5 Acc=99.99
+02/11 12:14:22 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(576/782), Loss=0.0573, Top 1 Acc=95.32, Top 5 Acc=99.99
+02/11 12:14:26 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(640/782), Loss=0.0580, Top 1 Acc=95.23, Top 5 Acc=99.99
+02/11 12:14:30 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(704/782), Loss=0.0584, Top 1 Acc=95.23, Top 5 Acc=99.99
+02/11 12:14:34 AM | pruned_62pc_base_capsnet_cifar10_model Training - Epoch=30, Iteration=(768/782), Loss=0.0592, Top 1 Acc=95.08, Top 5 Acc=99.99
+02/11 12:14:38 AM | pruned_62pc_base_capsnet_cifar10_model Validation - Epoch=30, Loss=0.2106, Top 1 Acc=72.790, Top 5 Acc=94.790
+02/11 12:14:38 AM | Epoch 30 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch30_of_30.pt
+02/11 12:14:38 AM | pruned_62pc_base_capsnet_cifar10_model best accuracy=75.390 saved at: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/code_repository/results/train/cifar10/8Caps12Dim/Trained_pruned_62pc_base_capsnet_cifar10_model_Epoch6_of_30.pt

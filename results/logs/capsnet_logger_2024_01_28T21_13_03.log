@@ -1,0 +1,12 @@
+01/28 09:14:15 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:23:00 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:25:21 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:26:13 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:29:18 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:29:29 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:33:52 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:46:45 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:46:56 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:53:17 PM | best_trained_pruned_25p_ml_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=84.375, Top 5 Acc=100.000
+01/28 09:58:50 PM | best_trained_multilayer_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=81.250, Top 5 Acc=96.875
+01/28 09:59:03 PM | best_trained_pruned_25p_ml_inter1_capsnet_cifar10_model - Iterations=1, Batch Size=32, Top 1 Acc=84.375, Top 5 Acc=100.000
