@@ -1,0 +1,1038 @@
+03/07 06:02:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(0/1563), Loss=3.6430, Top 1 Acc=100.00, Top 5 Acc=100.00
+03/07 06:02:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(32/1563), Loss=3.6431, Top 1 Acc=86.46, Top 5 Acc=99.15
+03/07 06:03:07 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(64/1563), Loss=3.6431, Top 1 Acc=84.42, Top 5 Acc=99.33
+03/07 06:03:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(96/1563), Loss=3.6431, Top 1 Acc=83.86, Top 5 Acc=99.29
+03/07 06:03:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(128/1563), Loss=3.6431, Top 1 Acc=83.28, Top 5 Acc=99.27
+03/07 06:03:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(160/1563), Loss=3.6430, Top 1 Acc=83.19, Top 5 Acc=99.26
+03/07 06:03:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(192/1563), Loss=3.6430, Top 1 Acc=82.79, Top 5 Acc=99.26
+03/07 06:04:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(224/1563), Loss=3.6430, Top 1 Acc=82.58, Top 5 Acc=99.24
+03/07 06:04:24 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(256/1563), Loss=3.6430, Top 1 Acc=82.25, Top 5 Acc=99.23
+03/07 06:04:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(288/1563), Loss=3.6430, Top 1 Acc=82.32, Top 5 Acc=99.23
+03/07 06:04:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(320/1563), Loss=3.6429, Top 1 Acc=82.41, Top 5 Acc=99.26
+03/07 06:05:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(352/1563), Loss=3.6429, Top 1 Acc=82.44, Top 5 Acc=99.26
+03/07 06:05:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(384/1563), Loss=3.6429, Top 1 Acc=82.22, Top 5 Acc=99.21
+03/07 06:05:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(416/1563), Loss=3.6429, Top 1 Acc=82.12, Top 5 Acc=99.17
+03/07 06:05:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(448/1563), Loss=3.6428, Top 1 Acc=82.00, Top 5 Acc=99.15
+03/07 06:05:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=16, Iteration=(480/1563), Loss=3.6428, Top 1 Acc=81.91, Top 5 Acc=99.14
+03/07 06:07:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(0/1563), Loss=0.8221, Top 1 Acc=9.38, Top 5 Acc=46.88
+03/07 06:07:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(32/1563), Loss=0.5672, Top 1 Acc=19.60, Top 5 Acc=66.48
+03/07 06:07:50 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(64/1563), Loss=0.5458, Top 1 Acc=22.16, Top 5 Acc=67.79
+03/07 06:08:03 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(96/1563), Loss=0.5306, Top 1 Acc=23.74, Top 5 Acc=70.17
+03/07 06:08:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(128/1563), Loss=0.5234, Top 1 Acc=24.59, Top 5 Acc=71.12
+03/07 06:08:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(160/1563), Loss=0.5090, Top 1 Acc=26.84, Top 5 Acc=72.77
+03/07 06:08:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(192/1563), Loss=0.5024, Top 1 Acc=27.53, Top 5 Acc=73.54
+03/07 06:08:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(224/1563), Loss=0.4928, Top 1 Acc=28.79, Top 5 Acc=74.74
+03/07 06:09:07 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(256/1563), Loss=0.4863, Top 1 Acc=29.47, Top 5 Acc=75.46
+03/07 06:09:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(288/1563), Loss=0.4778, Top 1 Acc=30.75, Top 5 Acc=76.46
+03/07 06:09:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(320/1563), Loss=0.4709, Top 1 Acc=31.74, Top 5 Acc=77.38
+03/07 06:09:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(352/1563), Loss=0.4648, Top 1 Acc=32.57, Top 5 Acc=78.25
+03/07 06:09:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(384/1563), Loss=0.4593, Top 1 Acc=33.60, Top 5 Acc=78.78
+03/07 06:10:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(416/1563), Loss=0.4550, Top 1 Acc=34.29, Top 5 Acc=79.35
+03/07 06:10:24 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(448/1563), Loss=0.4504, Top 1 Acc=34.99, Top 5 Acc=79.83
+03/07 06:10:37 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(480/1563), Loss=0.4460, Top 1 Acc=35.62, Top 5 Acc=80.35
+03/07 06:10:50 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(512/1563), Loss=0.4419, Top 1 Acc=36.21, Top 5 Acc=80.75
+03/07 06:11:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(544/1563), Loss=0.4381, Top 1 Acc=36.74, Top 5 Acc=81.16
+03/07 06:11:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(576/1563), Loss=0.4346, Top 1 Acc=37.27, Top 5 Acc=81.44
+03/07 06:11:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(608/1563), Loss=0.4308, Top 1 Acc=37.84, Top 5 Acc=81.85
+03/07 06:11:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(640/1563), Loss=0.4272, Top 1 Acc=38.48, Top 5 Acc=82.18
+03/07 06:11:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(672/1563), Loss=0.4236, Top 1 Acc=39.01, Top 5 Acc=82.54
+03/07 06:12:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(704/1563), Loss=0.4204, Top 1 Acc=39.45, Top 5 Acc=82.87
+03/07 06:12:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(736/1563), Loss=0.4172, Top 1 Acc=40.00, Top 5 Acc=83.14
+03/07 06:12:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(768/1563), Loss=0.4138, Top 1 Acc=40.52, Top 5 Acc=83.50
+03/07 06:12:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(800/1563), Loss=0.4111, Top 1 Acc=40.87, Top 5 Acc=83.84
+03/07 06:12:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(832/1563), Loss=0.4087, Top 1 Acc=41.24, Top 5 Acc=84.13
+03/07 06:13:10 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(864/1563), Loss=0.4062, Top 1 Acc=41.61, Top 5 Acc=84.36
+03/07 06:13:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(896/1563), Loss=0.4040, Top 1 Acc=41.94, Top 5 Acc=84.60
+03/07 06:13:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(928/1563), Loss=0.4018, Top 1 Acc=42.31, Top 5 Acc=84.83
+03/07 06:13:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(960/1563), Loss=0.3994, Top 1 Acc=42.72, Top 5 Acc=85.03
+03/07 06:14:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(992/1563), Loss=0.3970, Top 1 Acc=43.10, Top 5 Acc=85.22
+03/07 06:14:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1024/1563), Loss=0.3945, Top 1 Acc=43.44, Top 5 Acc=85.46
+03/07 06:14:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1056/1563), Loss=0.3922, Top 1 Acc=43.82, Top 5 Acc=85.64
+03/07 06:14:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1088/1563), Loss=0.3905, Top 1 Acc=44.11, Top 5 Acc=85.80
+03/07 06:14:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1120/1563), Loss=0.3884, Top 1 Acc=44.45, Top 5 Acc=86.00
+03/07 06:15:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1152/1563), Loss=0.3862, Top 1 Acc=44.80, Top 5 Acc=86.17
+03/07 06:15:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1184/1563), Loss=0.3845, Top 1 Acc=45.06, Top 5 Acc=86.33
+03/07 06:15:31 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1216/1563), Loss=0.3824, Top 1 Acc=45.33, Top 5 Acc=86.49
+03/07 06:15:44 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1248/1563), Loss=0.3806, Top 1 Acc=45.59, Top 5 Acc=86.64
+03/07 06:15:57 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1280/1563), Loss=0.3788, Top 1 Acc=45.88, Top 5 Acc=86.81
+03/07 06:16:10 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1312/1563), Loss=0.3767, Top 1 Acc=46.16, Top 5 Acc=86.94
+03/07 06:16:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1344/1563), Loss=0.3755, Top 1 Acc=46.35, Top 5 Acc=87.03
+03/07 06:16:35 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1376/1563), Loss=0.3737, Top 1 Acc=46.65, Top 5 Acc=87.16
+03/07 06:16:48 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1408/1563), Loss=0.3718, Top 1 Acc=46.97, Top 5 Acc=87.28
+03/07 06:17:01 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1440/1563), Loss=0.3699, Top 1 Acc=47.25, Top 5 Acc=87.41
+03/07 06:17:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1472/1563), Loss=0.3684, Top 1 Acc=47.49, Top 5 Acc=87.54
+03/07 06:17:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1504/1563), Loss=0.3668, Top 1 Acc=47.71, Top 5 Acc=87.67
+03/07 06:17:39 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=1, Iteration=(1536/1563), Loss=0.3655, Top 1 Acc=47.91, Top 5 Acc=87.78
+03/07 06:18:13 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=1, Loss=0.2918, Top 1 Acc=58.390, Top 5 Acc=94.010
+03/07 06:18:13 PM | Epoch 1 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch1_of_20.pt
+03/07 06:18:13 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(0/1563), Loss=0.2545, Top 1 Acc=68.75, Top 5 Acc=93.75
+03/07 06:18:26 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(32/1563), Loss=0.2742, Top 1 Acc=62.50, Top 5 Acc=94.51
+03/07 06:18:39 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(64/1563), Loss=0.2748, Top 1 Acc=61.35, Top 5 Acc=94.09
+03/07 06:18:52 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(96/1563), Loss=0.2702, Top 1 Acc=62.56, Top 5 Acc=94.23
+03/07 06:19:05 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(128/1563), Loss=0.2709, Top 1 Acc=62.16, Top 5 Acc=94.26
+03/07 06:19:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(160/1563), Loss=0.2709, Top 1 Acc=61.78, Top 5 Acc=94.37
+03/07 06:19:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(192/1563), Loss=0.2678, Top 1 Acc=62.44, Top 5 Acc=94.38
+03/07 06:19:43 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(224/1563), Loss=0.2678, Top 1 Acc=62.44, Top 5 Acc=94.29
+03/07 06:19:56 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(256/1563), Loss=0.2683, Top 1 Acc=62.51, Top 5 Acc=94.21
+03/07 06:20:09 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(288/1563), Loss=0.2683, Top 1 Acc=62.58, Top 5 Acc=94.18
+03/07 06:20:22 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(320/1563), Loss=0.2680, Top 1 Acc=62.60, Top 5 Acc=94.17
+03/07 06:20:34 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(352/1563), Loss=0.2674, Top 1 Acc=62.78, Top 5 Acc=94.25
+03/07 06:20:47 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(384/1563), Loss=0.2671, Top 1 Acc=62.94, Top 5 Acc=94.20
+03/07 06:21:00 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(416/1563), Loss=0.2675, Top 1 Acc=62.85, Top 5 Acc=94.08
+03/07 06:21:13 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(448/1563), Loss=0.2680, Top 1 Acc=62.74, Top 5 Acc=94.06
+03/07 06:21:26 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(480/1563), Loss=0.2667, Top 1 Acc=62.94, Top 5 Acc=94.07
+03/07 06:21:39 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(512/1563), Loss=0.2665, Top 1 Acc=63.01, Top 5 Acc=94.11
+03/07 06:21:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(544/1563), Loss=0.2653, Top 1 Acc=63.21, Top 5 Acc=94.18
+03/07 06:22:04 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(576/1563), Loss=0.2651, Top 1 Acc=63.24, Top 5 Acc=94.19
+03/07 06:22:17 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(608/1563), Loss=0.2644, Top 1 Acc=63.32, Top 5 Acc=94.30
+03/07 06:22:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(640/1563), Loss=0.2643, Top 1 Acc=63.26, Top 5 Acc=94.34
+03/07 06:22:43 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(672/1563), Loss=0.2644, Top 1 Acc=63.23, Top 5 Acc=94.30
+03/07 06:22:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(704/1563), Loss=0.2643, Top 1 Acc=63.25, Top 5 Acc=94.28
+03/07 06:23:08 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(736/1563), Loss=0.2638, Top 1 Acc=63.33, Top 5 Acc=94.27
+03/07 06:23:21 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(768/1563), Loss=0.2631, Top 1 Acc=63.43, Top 5 Acc=94.31
+03/07 06:23:34 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(800/1563), Loss=0.2623, Top 1 Acc=63.56, Top 5 Acc=94.34
+03/07 06:23:47 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(832/1563), Loss=0.2617, Top 1 Acc=63.69, Top 5 Acc=94.39
+03/07 06:23:59 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(864/1563), Loss=0.2612, Top 1 Acc=63.76, Top 5 Acc=94.41
+03/07 06:24:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(896/1563), Loss=0.2611, Top 1 Acc=63.76, Top 5 Acc=94.45
+03/07 06:24:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(928/1563), Loss=0.2612, Top 1 Acc=63.74, Top 5 Acc=94.48
+03/07 06:24:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(960/1563), Loss=0.2608, Top 1 Acc=63.77, Top 5 Acc=94.52
+03/07 06:24:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(992/1563), Loss=0.2597, Top 1 Acc=63.97, Top 5 Acc=94.57
+03/07 06:25:03 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1024/1563), Loss=0.2589, Top 1 Acc=64.04, Top 5 Acc=94.59
+03/07 06:25:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1056/1563), Loss=0.2584, Top 1 Acc=64.11, Top 5 Acc=94.61
+03/07 06:25:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1088/1563), Loss=0.2585, Top 1 Acc=64.05, Top 5 Acc=94.63
+03/07 06:25:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1120/1563), Loss=0.2582, Top 1 Acc=64.07, Top 5 Acc=94.66
+03/07 06:25:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1152/1563), Loss=0.2580, Top 1 Acc=64.11, Top 5 Acc=94.65
+03/07 06:26:08 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1184/1563), Loss=0.2575, Top 1 Acc=64.18, Top 5 Acc=94.64
+03/07 06:26:21 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1216/1563), Loss=0.2571, Top 1 Acc=64.23, Top 5 Acc=94.65
+03/07 06:26:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1248/1563), Loss=0.2565, Top 1 Acc=64.31, Top 5 Acc=94.68
+03/07 06:26:46 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1280/1563), Loss=0.2562, Top 1 Acc=64.34, Top 5 Acc=94.69
+03/07 06:26:59 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1312/1563), Loss=0.2557, Top 1 Acc=64.40, Top 5 Acc=94.72
+03/07 06:27:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1344/1563), Loss=0.2556, Top 1 Acc=64.42, Top 5 Acc=94.71
+03/07 06:27:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1376/1563), Loss=0.2553, Top 1 Acc=64.47, Top 5 Acc=94.75
+03/07 06:27:37 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1408/1563), Loss=0.2549, Top 1 Acc=64.53, Top 5 Acc=94.78
+03/07 06:27:50 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1440/1563), Loss=0.2544, Top 1 Acc=64.61, Top 5 Acc=94.80
+03/07 06:28:03 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1472/1563), Loss=0.2541, Top 1 Acc=64.65, Top 5 Acc=94.80
+03/07 06:28:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1504/1563), Loss=0.2535, Top 1 Acc=64.77, Top 5 Acc=94.81
+03/07 06:28:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=2, Iteration=(1536/1563), Loss=0.2529, Top 1 Acc=64.87, Top 5 Acc=94.85
+03/07 06:29:02 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=2, Loss=0.2355, Top 1 Acc=67.080, Top 5 Acc=95.410
+03/07 06:29:02 PM | Epoch 2 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch2_of_20.pt
+03/07 06:29:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(0/1563), Loss=0.2499, Top 1 Acc=65.62, Top 5 Acc=96.88
+03/07 06:29:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(32/1563), Loss=0.2238, Top 1 Acc=69.13, Top 5 Acc=96.59
+03/07 06:29:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(64/1563), Loss=0.2143, Top 1 Acc=70.77, Top 5 Acc=96.54
+03/07 06:29:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(96/1563), Loss=0.2125, Top 1 Acc=71.23, Top 5 Acc=96.59
+03/07 06:29:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(128/1563), Loss=0.2078, Top 1 Acc=72.24, Top 5 Acc=96.78
+03/07 06:30:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(160/1563), Loss=0.2044, Top 1 Acc=72.50, Top 5 Acc=96.86
+03/07 06:30:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(192/1563), Loss=0.2031, Top 1 Acc=72.62, Top 5 Acc=96.91
+03/07 06:30:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(224/1563), Loss=0.2035, Top 1 Acc=72.44, Top 5 Acc=96.92
+03/07 06:30:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(256/1563), Loss=0.2040, Top 1 Acc=72.40, Top 5 Acc=96.96
+03/07 06:30:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(288/1563), Loss=0.2033, Top 1 Acc=72.42, Top 5 Acc=96.98
+03/07 06:31:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(320/1563), Loss=0.2028, Top 1 Acc=72.58, Top 5 Acc=97.01
+03/07 06:31:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(352/1563), Loss=0.2022, Top 1 Acc=72.71, Top 5 Acc=97.03
+03/07 06:31:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(384/1563), Loss=0.2037, Top 1 Acc=72.53, Top 5 Acc=96.97
+03/07 06:31:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(416/1563), Loss=0.2040, Top 1 Acc=72.42, Top 5 Acc=96.96
+03/07 06:32:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(448/1563), Loss=0.2033, Top 1 Acc=72.50, Top 5 Acc=97.02
+03/07 06:32:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(480/1563), Loss=0.2034, Top 1 Acc=72.46, Top 5 Acc=96.99
+03/07 06:32:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(512/1563), Loss=0.2037, Top 1 Acc=72.42, Top 5 Acc=96.97
+03/07 06:32:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(544/1563), Loss=0.2030, Top 1 Acc=72.45, Top 5 Acc=97.02
+03/07 06:32:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(576/1563), Loss=0.2027, Top 1 Acc=72.56, Top 5 Acc=97.00
+03/07 06:33:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(608/1563), Loss=0.2020, Top 1 Acc=72.65, Top 5 Acc=97.04
+03/07 06:33:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(640/1563), Loss=0.2023, Top 1 Acc=72.59, Top 5 Acc=97.03
+03/07 06:33:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(672/1563), Loss=0.2016, Top 1 Acc=72.69, Top 5 Acc=97.08
+03/07 06:33:44 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(704/1563), Loss=0.2019, Top 1 Acc=72.65, Top 5 Acc=97.08
+03/07 06:33:57 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(736/1563), Loss=0.2025, Top 1 Acc=72.54, Top 5 Acc=97.03
+03/07 06:34:10 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(768/1563), Loss=0.2023, Top 1 Acc=72.57, Top 5 Acc=97.01
+03/07 06:34:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(800/1563), Loss=0.2019, Top 1 Acc=72.62, Top 5 Acc=96.99
+03/07 06:34:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(832/1563), Loss=0.2024, Top 1 Acc=72.49, Top 5 Acc=96.98
+03/07 06:34:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(864/1563), Loss=0.2027, Top 1 Acc=72.47, Top 5 Acc=96.94
+03/07 06:35:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(896/1563), Loss=0.2027, Top 1 Acc=72.51, Top 5 Acc=96.94
+03/07 06:35:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(928/1563), Loss=0.2022, Top 1 Acc=72.54, Top 5 Acc=96.98
+03/07 06:35:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(960/1563), Loss=0.2022, Top 1 Acc=72.55, Top 5 Acc=96.96
+03/07 06:35:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(992/1563), Loss=0.2019, Top 1 Acc=72.61, Top 5 Acc=96.96
+03/07 06:35:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1024/1563), Loss=0.2019, Top 1 Acc=72.57, Top 5 Acc=96.95
+03/07 06:36:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1056/1563), Loss=0.2020, Top 1 Acc=72.56, Top 5 Acc=96.96
+03/07 06:36:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1088/1563), Loss=0.2019, Top 1 Acc=72.57, Top 5 Acc=96.93
+03/07 06:36:31 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1120/1563), Loss=0.2012, Top 1 Acc=72.64, Top 5 Acc=96.97
+03/07 06:36:44 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1152/1563), Loss=0.2010, Top 1 Acc=72.69, Top 5 Acc=96.98
+03/07 06:36:57 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1184/1563), Loss=0.2009, Top 1 Acc=72.69, Top 5 Acc=96.98
+03/07 06:37:09 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1216/1563), Loss=0.2010, Top 1 Acc=72.67, Top 5 Acc=96.97
+03/07 06:37:22 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1248/1563), Loss=0.2008, Top 1 Acc=72.72, Top 5 Acc=96.98
+03/07 06:37:35 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1280/1563), Loss=0.2005, Top 1 Acc=72.77, Top 5 Acc=96.98
+03/07 06:37:48 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1312/1563), Loss=0.2002, Top 1 Acc=72.81, Top 5 Acc=96.98
+03/07 06:38:01 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1344/1563), Loss=0.2004, Top 1 Acc=72.78, Top 5 Acc=96.97
+03/07 06:38:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1376/1563), Loss=0.2001, Top 1 Acc=72.79, Top 5 Acc=96.98
+03/07 06:38:26 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1408/1563), Loss=0.1997, Top 1 Acc=72.82, Top 5 Acc=96.98
+03/07 06:38:39 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1440/1563), Loss=0.1996, Top 1 Acc=72.81, Top 5 Acc=96.97
+03/07 06:38:52 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1472/1563), Loss=0.1991, Top 1 Acc=72.89, Top 5 Acc=96.99
+03/07 06:39:05 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1504/1563), Loss=0.1989, Top 1 Acc=72.94, Top 5 Acc=96.99
+03/07 06:39:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=3, Iteration=(1536/1563), Loss=0.1988, Top 1 Acc=72.95, Top 5 Acc=97.00
+03/07 06:39:51 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=3, Loss=0.1991, Top 1 Acc=72.680, Top 5 Acc=96.580
+03/07 06:39:51 PM | Epoch 3 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch3_of_20.pt
+03/07 06:39:52 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(0/1563), Loss=0.1462, Top 1 Acc=84.38, Top 5 Acc=93.75
+03/07 06:40:05 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(32/1563), Loss=0.1635, Top 1 Acc=77.27, Top 5 Acc=97.63
+03/07 06:40:17 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(64/1563), Loss=0.1635, Top 1 Acc=77.84, Top 5 Acc=97.98
+03/07 06:40:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(96/1563), Loss=0.1585, Top 1 Acc=78.48, Top 5 Acc=98.29
+03/07 06:40:43 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(128/1563), Loss=0.1589, Top 1 Acc=78.32, Top 5 Acc=98.33
+03/07 06:40:56 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(160/1563), Loss=0.1578, Top 1 Acc=78.55, Top 5 Acc=98.41
+03/07 06:41:09 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(192/1563), Loss=0.1583, Top 1 Acc=78.72, Top 5 Acc=98.27
+03/07 06:41:21 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(224/1563), Loss=0.1598, Top 1 Acc=78.68, Top 5 Acc=98.21
+03/07 06:41:34 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(256/1563), Loss=0.1601, Top 1 Acc=78.65, Top 5 Acc=98.20
+03/07 06:41:47 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(288/1563), Loss=0.1609, Top 1 Acc=78.51, Top 5 Acc=98.17
+03/07 06:42:00 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(320/1563), Loss=0.1623, Top 1 Acc=78.33, Top 5 Acc=98.15
+03/07 06:42:13 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(352/1563), Loss=0.1636, Top 1 Acc=77.95, Top 5 Acc=98.20
+03/07 06:42:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(384/1563), Loss=0.1640, Top 1 Acc=77.82, Top 5 Acc=98.19
+03/07 06:42:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(416/1563), Loss=0.1643, Top 1 Acc=77.76, Top 5 Acc=98.23
+03/07 06:42:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(448/1563), Loss=0.1648, Top 1 Acc=77.67, Top 5 Acc=98.11
+03/07 06:43:04 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(480/1563), Loss=0.1651, Top 1 Acc=77.70, Top 5 Acc=98.08
+03/07 06:43:17 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(512/1563), Loss=0.1646, Top 1 Acc=77.78, Top 5 Acc=98.09
+03/07 06:43:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(544/1563), Loss=0.1655, Top 1 Acc=77.65, Top 5 Acc=98.02
+03/07 06:43:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(576/1563), Loss=0.1653, Top 1 Acc=77.72, Top 5 Acc=98.04
+03/07 06:43:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(608/1563), Loss=0.1649, Top 1 Acc=77.80, Top 5 Acc=98.06
+03/07 06:44:08 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(640/1563), Loss=0.1646, Top 1 Acc=77.84, Top 5 Acc=98.05
+03/07 06:44:21 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(672/1563), Loss=0.1645, Top 1 Acc=77.84, Top 5 Acc=98.05
+03/07 06:44:34 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(704/1563), Loss=0.1649, Top 1 Acc=77.74, Top 5 Acc=98.07
+03/07 06:44:47 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(736/1563), Loss=0.1643, Top 1 Acc=77.81, Top 5 Acc=98.10
+03/07 06:45:00 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(768/1563), Loss=0.1637, Top 1 Acc=77.89, Top 5 Acc=98.13
+03/07 06:45:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(800/1563), Loss=0.1632, Top 1 Acc=77.99, Top 5 Acc=98.14
+03/07 06:45:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(832/1563), Loss=0.1634, Top 1 Acc=77.93, Top 5 Acc=98.13
+03/07 06:45:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(864/1563), Loss=0.1633, Top 1 Acc=77.94, Top 5 Acc=98.15
+03/07 06:45:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(896/1563), Loss=0.1630, Top 1 Acc=77.99, Top 5 Acc=98.15
+03/07 06:46:04 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(928/1563), Loss=0.1630, Top 1 Acc=77.93, Top 5 Acc=98.15
+03/07 06:46:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(960/1563), Loss=0.1632, Top 1 Acc=77.91, Top 5 Acc=98.16
+03/07 06:46:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(992/1563), Loss=0.1631, Top 1 Acc=77.94, Top 5 Acc=98.17
+03/07 06:46:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1024/1563), Loss=0.1634, Top 1 Acc=77.88, Top 5 Acc=98.16
+03/07 06:46:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1056/1563), Loss=0.1635, Top 1 Acc=77.86, Top 5 Acc=98.15
+03/07 06:47:08 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1088/1563), Loss=0.1637, Top 1 Acc=77.83, Top 5 Acc=98.14
+03/07 06:47:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1120/1563), Loss=0.1639, Top 1 Acc=77.80, Top 5 Acc=98.13
+03/07 06:47:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1152/1563), Loss=0.1643, Top 1 Acc=77.73, Top 5 Acc=98.12
+03/07 06:47:46 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1184/1563), Loss=0.1646, Top 1 Acc=77.74, Top 5 Acc=98.10
+03/07 06:47:59 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1216/1563), Loss=0.1647, Top 1 Acc=77.71, Top 5 Acc=98.09
+03/07 06:48:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1248/1563), Loss=0.1644, Top 1 Acc=77.78, Top 5 Acc=98.09
+03/07 06:48:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1280/1563), Loss=0.1648, Top 1 Acc=77.72, Top 5 Acc=98.08
+03/07 06:48:37 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1312/1563), Loss=0.1646, Top 1 Acc=77.76, Top 5 Acc=98.07
+03/07 06:48:50 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1344/1563), Loss=0.1645, Top 1 Acc=77.78, Top 5 Acc=98.06
+03/07 06:49:03 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1376/1563), Loss=0.1644, Top 1 Acc=77.82, Top 5 Acc=98.07
+03/07 06:49:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1408/1563), Loss=0.1645, Top 1 Acc=77.80, Top 5 Acc=98.05
+03/07 06:49:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1440/1563), Loss=0.1643, Top 1 Acc=77.86, Top 5 Acc=98.05
+03/07 06:49:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1472/1563), Loss=0.1640, Top 1 Acc=77.91, Top 5 Acc=98.06
+03/07 06:49:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1504/1563), Loss=0.1639, Top 1 Acc=77.93, Top 5 Acc=98.06
+03/07 06:50:07 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=4, Iteration=(1536/1563), Loss=0.1639, Top 1 Acc=77.95, Top 5 Acc=98.05
+03/07 06:50:40 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=4, Loss=0.1913, Top 1 Acc=73.840, Top 5 Acc=96.590
+03/07 06:50:41 PM | Epoch 4 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch4_of_20.pt
+03/07 06:50:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(0/1563), Loss=0.1708, Top 1 Acc=81.25, Top 5 Acc=93.75
+03/07 06:50:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(32/1563), Loss=0.1410, Top 1 Acc=81.44, Top 5 Acc=98.48
+03/07 06:51:07 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(64/1563), Loss=0.1277, Top 1 Acc=82.69, Top 5 Acc=98.99
+03/07 06:51:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(96/1563), Loss=0.1268, Top 1 Acc=83.09, Top 5 Acc=99.00
+03/07 06:51:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(128/1563), Loss=0.1266, Top 1 Acc=83.19, Top 5 Acc=98.98
+03/07 06:51:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(160/1563), Loss=0.1279, Top 1 Acc=83.19, Top 5 Acc=99.05
+03/07 06:51:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(192/1563), Loss=0.1276, Top 1 Acc=83.24, Top 5 Acc=99.11
+03/07 06:52:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(224/1563), Loss=0.1264, Top 1 Acc=83.38, Top 5 Acc=99.12
+03/07 06:52:24 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(256/1563), Loss=0.1254, Top 1 Acc=83.63, Top 5 Acc=99.12
+03/07 06:52:37 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(288/1563), Loss=0.1282, Top 1 Acc=83.07, Top 5 Acc=99.05
+03/07 06:52:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(320/1563), Loss=0.1289, Top 1 Acc=83.00, Top 5 Acc=99.03
+03/07 06:53:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(352/1563), Loss=0.1295, Top 1 Acc=82.91, Top 5 Acc=99.02
+03/07 06:53:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(384/1563), Loss=0.1300, Top 1 Acc=82.88, Top 5 Acc=98.98
+03/07 06:53:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(416/1563), Loss=0.1298, Top 1 Acc=82.91, Top 5 Acc=98.98
+03/07 06:53:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(448/1563), Loss=0.1289, Top 1 Acc=83.09, Top 5 Acc=99.01
+03/07 06:53:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(480/1563), Loss=0.1291, Top 1 Acc=82.97, Top 5 Acc=99.03
+03/07 06:54:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(512/1563), Loss=0.1292, Top 1 Acc=82.83, Top 5 Acc=99.03
+03/07 06:54:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(544/1563), Loss=0.1296, Top 1 Acc=82.73, Top 5 Acc=99.07
+03/07 06:54:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(576/1563), Loss=0.1295, Top 1 Acc=82.78, Top 5 Acc=99.02
+03/07 06:54:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(608/1563), Loss=0.1298, Top 1 Acc=82.68, Top 5 Acc=99.01
+03/07 06:54:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(640/1563), Loss=0.1294, Top 1 Acc=82.71, Top 5 Acc=99.01
+03/07 06:55:10 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(672/1563), Loss=0.1295, Top 1 Acc=82.66, Top 5 Acc=99.02
+03/07 06:55:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(704/1563), Loss=0.1301, Top 1 Acc=82.57, Top 5 Acc=99.00
+03/07 06:55:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(736/1563), Loss=0.1303, Top 1 Acc=82.59, Top 5 Acc=99.02
+03/07 06:55:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(768/1563), Loss=0.1305, Top 1 Acc=82.60, Top 5 Acc=98.98
+03/07 06:56:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(800/1563), Loss=0.1308, Top 1 Acc=82.52, Top 5 Acc=98.97
+03/07 06:56:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(832/1563), Loss=0.1313, Top 1 Acc=82.44, Top 5 Acc=98.95
+03/07 06:56:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(864/1563), Loss=0.1311, Top 1 Acc=82.47, Top 5 Acc=98.96
+03/07 06:56:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(896/1563), Loss=0.1315, Top 1 Acc=82.39, Top 5 Acc=98.96
+03/07 06:56:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(928/1563), Loss=0.1320, Top 1 Acc=82.34, Top 5 Acc=98.93
+03/07 06:57:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(960/1563), Loss=0.1320, Top 1 Acc=82.33, Top 5 Acc=98.94
+03/07 06:57:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(992/1563), Loss=0.1322, Top 1 Acc=82.28, Top 5 Acc=98.91
+03/07 06:57:31 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1024/1563), Loss=0.1320, Top 1 Acc=82.29, Top 5 Acc=98.91
+03/07 06:57:44 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1056/1563), Loss=0.1323, Top 1 Acc=82.25, Top 5 Acc=98.89
+03/07 06:57:57 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1088/1563), Loss=0.1320, Top 1 Acc=82.31, Top 5 Acc=98.89
+03/07 06:58:10 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1120/1563), Loss=0.1323, Top 1 Acc=82.27, Top 5 Acc=98.87
+03/07 06:58:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1152/1563), Loss=0.1324, Top 1 Acc=82.25, Top 5 Acc=98.86
+03/07 06:58:35 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1184/1563), Loss=0.1323, Top 1 Acc=82.27, Top 5 Acc=98.86
+03/07 06:58:48 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1216/1563), Loss=0.1326, Top 1 Acc=82.23, Top 5 Acc=98.84
+03/07 06:59:01 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1248/1563), Loss=0.1326, Top 1 Acc=82.22, Top 5 Acc=98.83
+03/07 06:59:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1280/1563), Loss=0.1330, Top 1 Acc=82.15, Top 5 Acc=98.82
+03/07 06:59:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1312/1563), Loss=0.1332, Top 1 Acc=82.13, Top 5 Acc=98.80
+03/07 06:59:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1344/1563), Loss=0.1335, Top 1 Acc=82.09, Top 5 Acc=98.78
+03/07 06:59:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1376/1563), Loss=0.1336, Top 1 Acc=82.08, Top 5 Acc=98.79
+03/07 07:00:05 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1408/1563), Loss=0.1338, Top 1 Acc=82.06, Top 5 Acc=98.77
+03/07 07:00:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1440/1563), Loss=0.1340, Top 1 Acc=82.02, Top 5 Acc=98.77
+03/07 07:00:31 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1472/1563), Loss=0.1340, Top 1 Acc=82.01, Top 5 Acc=98.78
+03/07 07:00:44 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1504/1563), Loss=0.1340, Top 1 Acc=81.99, Top 5 Acc=98.77
+03/07 07:00:57 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=5, Iteration=(1536/1563), Loss=0.1340, Top 1 Acc=81.99, Top 5 Acc=98.77
+03/07 07:01:30 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=5, Loss=0.1841, Top 1 Acc=75.140, Top 5 Acc=96.460
+03/07 07:01:30 PM | Epoch 5 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch5_of_20.pt
+03/07 07:01:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(0/1563), Loss=0.1338, Top 1 Acc=81.25, Top 5 Acc=96.88
+03/07 07:01:43 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(32/1563), Loss=0.1141, Top 1 Acc=84.09, Top 5 Acc=99.15
+03/07 07:01:56 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(64/1563), Loss=0.1048, Top 1 Acc=86.35, Top 5 Acc=99.42
+03/07 07:02:09 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(96/1563), Loss=0.1016, Top 1 Acc=86.98, Top 5 Acc=99.48
+03/07 07:02:22 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(128/1563), Loss=0.0982, Top 1 Acc=87.50, Top 5 Acc=99.61
+03/07 07:02:35 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(160/1563), Loss=0.0975, Top 1 Acc=87.64, Top 5 Acc=99.63
+03/07 07:02:47 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(192/1563), Loss=0.0971, Top 1 Acc=87.87, Top 5 Acc=99.58
+03/07 07:03:00 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(224/1563), Loss=0.0980, Top 1 Acc=87.57, Top 5 Acc=99.57
+03/07 07:03:13 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(256/1563), Loss=0.0985, Top 1 Acc=87.60, Top 5 Acc=99.59
+03/07 07:03:26 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(288/1563), Loss=0.0971, Top 1 Acc=87.86, Top 5 Acc=99.60
+03/07 07:03:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(320/1563), Loss=0.0972, Top 1 Acc=87.81, Top 5 Acc=99.60
+03/07 07:03:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(352/1563), Loss=0.0976, Top 1 Acc=87.72, Top 5 Acc=99.58
+03/07 07:04:04 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(384/1563), Loss=0.0980, Top 1 Acc=87.67, Top 5 Acc=99.57
+03/07 07:04:17 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(416/1563), Loss=0.0984, Top 1 Acc=87.57, Top 5 Acc=99.57
+03/07 07:04:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(448/1563), Loss=0.0993, Top 1 Acc=87.39, Top 5 Acc=99.55
+03/07 07:04:43 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(480/1563), Loss=0.0996, Top 1 Acc=87.32, Top 5 Acc=99.55
+03/07 07:04:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(512/1563), Loss=0.0998, Top 1 Acc=87.32, Top 5 Acc=99.54
+03/07 07:05:08 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(544/1563), Loss=0.0996, Top 1 Acc=87.29, Top 5 Acc=99.54
+03/07 07:05:21 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(576/1563), Loss=0.1002, Top 1 Acc=87.22, Top 5 Acc=99.53
+03/07 07:05:34 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(608/1563), Loss=0.1012, Top 1 Acc=87.09, Top 5 Acc=99.54
+03/07 07:05:47 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(640/1563), Loss=0.1018, Top 1 Acc=87.02, Top 5 Acc=99.52
+03/07 07:05:59 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(672/1563), Loss=0.1025, Top 1 Acc=86.95, Top 5 Acc=99.51
+03/07 07:06:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(704/1563), Loss=0.1029, Top 1 Acc=86.88, Top 5 Acc=99.50
+03/07 07:06:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(736/1563), Loss=0.1031, Top 1 Acc=86.84, Top 5 Acc=99.47
+03/07 07:06:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(768/1563), Loss=0.1034, Top 1 Acc=86.79, Top 5 Acc=99.47
+03/07 07:06:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(800/1563), Loss=0.1037, Top 1 Acc=86.76, Top 5 Acc=99.45
+03/07 07:07:03 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(832/1563), Loss=0.1037, Top 1 Acc=86.74, Top 5 Acc=99.44
+03/07 07:07:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(864/1563), Loss=0.1043, Top 1 Acc=86.65, Top 5 Acc=99.44
+03/07 07:07:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(896/1563), Loss=0.1044, Top 1 Acc=86.65, Top 5 Acc=99.43
+03/07 07:07:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(928/1563), Loss=0.1049, Top 1 Acc=86.56, Top 5 Acc=99.41
+03/07 07:07:55 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(960/1563), Loss=0.1052, Top 1 Acc=86.53, Top 5 Acc=99.41
+03/07 07:08:08 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(992/1563), Loss=0.1053, Top 1 Acc=86.50, Top 5 Acc=99.41
+03/07 07:08:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1024/1563), Loss=0.1056, Top 1 Acc=86.46, Top 5 Acc=99.40
+03/07 07:08:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1056/1563), Loss=0.1061, Top 1 Acc=86.35, Top 5 Acc=99.40
+03/07 07:08:46 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1088/1563), Loss=0.1062, Top 1 Acc=86.35, Top 5 Acc=99.39
+03/07 07:08:59 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1120/1563), Loss=0.1062, Top 1 Acc=86.34, Top 5 Acc=99.39
+03/07 07:09:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1152/1563), Loss=0.1064, Top 1 Acc=86.29, Top 5 Acc=99.38
+03/07 07:09:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1184/1563), Loss=0.1065, Top 1 Acc=86.29, Top 5 Acc=99.38
+03/07 07:09:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1216/1563), Loss=0.1067, Top 1 Acc=86.25, Top 5 Acc=99.37
+03/07 07:09:50 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1248/1563), Loss=0.1068, Top 1 Acc=86.24, Top 5 Acc=99.37
+03/07 07:10:03 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1280/1563), Loss=0.1072, Top 1 Acc=86.17, Top 5 Acc=99.36
+03/07 07:10:16 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1312/1563), Loss=0.1074, Top 1 Acc=86.14, Top 5 Acc=99.36
+03/07 07:10:29 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1344/1563), Loss=0.1074, Top 1 Acc=86.14, Top 5 Acc=99.35
+03/07 07:10:42 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1376/1563), Loss=0.1075, Top 1 Acc=86.14, Top 5 Acc=99.34
+03/07 07:10:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1408/1563), Loss=0.1075, Top 1 Acc=86.14, Top 5 Acc=99.33
+03/07 07:11:07 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1440/1563), Loss=0.1076, Top 1 Acc=86.13, Top 5 Acc=99.32
+03/07 07:11:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1472/1563), Loss=0.1078, Top 1 Acc=86.09, Top 5 Acc=99.31
+03/07 07:11:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1504/1563), Loss=0.1078, Top 1 Acc=86.09, Top 5 Acc=99.30
+03/07 07:11:46 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=6, Iteration=(1536/1563), Loss=0.1078, Top 1 Acc=86.09, Top 5 Acc=99.30
+03/07 07:12:19 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=6, Loss=0.1627, Top 1 Acc=78.030, Top 5 Acc=97.020
+03/07 07:12:19 PM | Epoch 6 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch6_of_20.pt
+03/07 07:12:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(0/1563), Loss=0.0844, Top 1 Acc=90.62, Top 5 Acc=100.00
+03/07 07:12:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(32/1563), Loss=0.0727, Top 1 Acc=91.38, Top 5 Acc=100.00
+03/07 07:12:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(64/1563), Loss=0.0731, Top 1 Acc=91.06, Top 5 Acc=99.90
+03/07 07:12:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(96/1563), Loss=0.0725, Top 1 Acc=91.37, Top 5 Acc=99.90
+03/07 07:13:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(128/1563), Loss=0.0696, Top 1 Acc=91.84, Top 5 Acc=99.85
+03/07 07:13:24 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(160/1563), Loss=0.0697, Top 1 Acc=91.89, Top 5 Acc=99.88
+03/07 07:13:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(192/1563), Loss=0.0704, Top 1 Acc=91.76, Top 5 Acc=99.90
+03/07 07:13:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(224/1563), Loss=0.0709, Top 1 Acc=91.78, Top 5 Acc=99.90
+03/07 07:14:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(256/1563), Loss=0.0712, Top 1 Acc=91.78, Top 5 Acc=99.85
+03/07 07:14:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(288/1563), Loss=0.0709, Top 1 Acc=91.83, Top 5 Acc=99.87
+03/07 07:14:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(320/1563), Loss=0.0715, Top 1 Acc=91.78, Top 5 Acc=99.87
+03/07 07:14:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(352/1563), Loss=0.0728, Top 1 Acc=91.58, Top 5 Acc=99.85
+03/07 07:14:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(384/1563), Loss=0.0734, Top 1 Acc=91.39, Top 5 Acc=99.85
+03/07 07:15:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(416/1563), Loss=0.0739, Top 1 Acc=91.28, Top 5 Acc=99.84
+03/07 07:15:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(448/1563), Loss=0.0735, Top 1 Acc=91.33, Top 5 Acc=99.83
+03/07 07:15:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(480/1563), Loss=0.0733, Top 1 Acc=91.35, Top 5 Acc=99.84
+03/07 07:15:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(512/1563), Loss=0.0733, Top 1 Acc=91.28, Top 5 Acc=99.83
+03/07 07:15:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(544/1563), Loss=0.0748, Top 1 Acc=91.06, Top 5 Acc=99.79
+03/07 07:16:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(576/1563), Loss=0.0755, Top 1 Acc=90.93, Top 5 Acc=99.78
+03/07 07:16:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(608/1563), Loss=0.0763, Top 1 Acc=90.89, Top 5 Acc=99.76
+03/07 07:16:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(640/1563), Loss=0.0766, Top 1 Acc=90.91, Top 5 Acc=99.74
+03/07 07:16:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(672/1563), Loss=0.0773, Top 1 Acc=90.76, Top 5 Acc=99.75
+03/07 07:17:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(704/1563), Loss=0.0777, Top 1 Acc=90.73, Top 5 Acc=99.75
+03/07 07:17:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(736/1563), Loss=0.0782, Top 1 Acc=90.68, Top 5 Acc=99.74
+03/07 07:17:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(768/1563), Loss=0.0782, Top 1 Acc=90.64, Top 5 Acc=99.75
+03/07 07:17:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(800/1563), Loss=0.0788, Top 1 Acc=90.55, Top 5 Acc=99.73
+03/07 07:17:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(832/1563), Loss=0.0792, Top 1 Acc=90.47, Top 5 Acc=99.73
+03/07 07:18:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(864/1563), Loss=0.0795, Top 1 Acc=90.41, Top 5 Acc=99.71
+03/07 07:18:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(896/1563), Loss=0.0793, Top 1 Acc=90.46, Top 5 Acc=99.71
+03/07 07:18:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(928/1563), Loss=0.0798, Top 1 Acc=90.39, Top 5 Acc=99.70
+03/07 07:18:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(960/1563), Loss=0.0802, Top 1 Acc=90.32, Top 5 Acc=99.70
+03/07 07:18:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(992/1563), Loss=0.0805, Top 1 Acc=90.26, Top 5 Acc=99.70
+03/07 07:19:10 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1024/1563), Loss=0.0809, Top 1 Acc=90.16, Top 5 Acc=99.69
+03/07 07:19:23 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1056/1563), Loss=0.0813, Top 1 Acc=90.11, Top 5 Acc=99.69
+03/07 07:19:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1088/1563), Loss=0.0820, Top 1 Acc=89.95, Top 5 Acc=99.68
+03/07 07:19:49 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1120/1563), Loss=0.0824, Top 1 Acc=89.89, Top 5 Acc=99.66
+03/07 07:20:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1152/1563), Loss=0.0826, Top 1 Acc=89.86, Top 5 Acc=99.66
+03/07 07:20:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1184/1563), Loss=0.0828, Top 1 Acc=89.84, Top 5 Acc=99.65
+03/07 07:20:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1216/1563), Loss=0.0828, Top 1 Acc=89.85, Top 5 Acc=99.64
+03/07 07:20:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1248/1563), Loss=0.0830, Top 1 Acc=89.80, Top 5 Acc=99.64
+03/07 07:20:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1280/1563), Loss=0.0830, Top 1 Acc=89.81, Top 5 Acc=99.64
+03/07 07:21:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1312/1563), Loss=0.0834, Top 1 Acc=89.76, Top 5 Acc=99.63
+03/07 07:21:19 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1344/1563), Loss=0.0835, Top 1 Acc=89.71, Top 5 Acc=99.62
+03/07 07:21:32 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1376/1563), Loss=0.0838, Top 1 Acc=89.67, Top 5 Acc=99.62
+03/07 07:21:45 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1408/1563), Loss=0.0842, Top 1 Acc=89.61, Top 5 Acc=99.62
+03/07 07:21:58 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1440/1563), Loss=0.0843, Top 1 Acc=89.58, Top 5 Acc=99.62
+03/07 07:22:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1472/1563), Loss=0.0848, Top 1 Acc=89.50, Top 5 Acc=99.62
+03/07 07:22:24 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1504/1563), Loss=0.0849, Top 1 Acc=89.49, Top 5 Acc=99.61
+03/07 07:22:36 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=7, Iteration=(1536/1563), Loss=0.0852, Top 1 Acc=89.44, Top 5 Acc=99.61
+03/07 07:23:10 PM | multilayer_inter8_capsnet_cifar10_model Validation - Epoch=7, Loss=0.1687, Top 1 Acc=77.090, Top 5 Acc=96.990
+03/07 07:23:10 PM | Epoch 7 complete. Saved Checkpoint: /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/Trained_multilayer_inter8_capsnet_cifar10_model_Epoch7_of_20.pt
+03/07 07:23:11 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(0/1563), Loss=0.0758, Top 1 Acc=90.62, Top 5 Acc=96.88
+03/07 07:23:24 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(32/1563), Loss=0.0631, Top 1 Acc=92.14, Top 5 Acc=99.43
+03/07 07:23:37 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(64/1563), Loss=0.0565, Top 1 Acc=93.56, Top 5 Acc=99.71
+03/07 07:23:50 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(96/1563), Loss=0.0569, Top 1 Acc=93.52, Top 5 Acc=99.77
+03/07 07:24:02 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(128/1563), Loss=0.0577, Top 1 Acc=93.34, Top 5 Acc=99.78
+03/07 07:24:15 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(160/1563), Loss=0.0577, Top 1 Acc=93.42, Top 5 Acc=99.79
+03/07 07:24:28 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(192/1563), Loss=0.0578, Top 1 Acc=93.44, Top 5 Acc=99.82
+03/07 07:24:41 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(224/1563), Loss=0.0575, Top 1 Acc=93.47, Top 5 Acc=99.82
+03/07 07:24:54 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(256/1563), Loss=0.0571, Top 1 Acc=93.36, Top 5 Acc=99.82
+03/07 07:25:07 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(288/1563), Loss=0.0559, Top 1 Acc=93.61, Top 5 Acc=99.83
+03/07 07:25:20 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(320/1563), Loss=0.0559, Top 1 Acc=93.56, Top 5 Acc=99.83
+03/07 07:25:33 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(352/1563), Loss=0.0562, Top 1 Acc=93.52, Top 5 Acc=99.82
+03/07 07:25:46 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(384/1563), Loss=0.0569, Top 1 Acc=93.38, Top 5 Acc=99.84
+03/07 07:25:59 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(416/1563), Loss=0.0564, Top 1 Acc=93.40, Top 5 Acc=99.84
+03/07 07:26:12 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(448/1563), Loss=0.0571, Top 1 Acc=93.30, Top 5 Acc=99.84
+03/07 07:26:25 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(480/1563), Loss=0.0573, Top 1 Acc=93.28, Top 5 Acc=99.84
+03/07 07:26:38 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(512/1563), Loss=0.0572, Top 1 Acc=93.30, Top 5 Acc=99.84
+03/07 07:26:51 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(544/1563), Loss=0.0577, Top 1 Acc=93.26, Top 5 Acc=99.82
+03/07 07:27:04 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(576/1563), Loss=0.0579, Top 1 Acc=93.22, Top 5 Acc=99.82
+03/07 07:27:17 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(608/1563), Loss=0.0587, Top 1 Acc=93.15, Top 5 Acc=99.82
+03/07 07:27:30 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(640/1563), Loss=0.0592, Top 1 Acc=93.03, Top 5 Acc=99.82
+03/07 07:27:43 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(672/1563), Loss=0.0596, Top 1 Acc=92.99, Top 5 Acc=99.82
+03/07 07:27:56 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(704/1563), Loss=0.0598, Top 1 Acc=92.94, Top 5 Acc=99.82
+03/07 07:28:09 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(736/1563), Loss=0.0600, Top 1 Acc=92.92, Top 5 Acc=99.82
+03/07 07:28:22 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(768/1563), Loss=0.0601, Top 1 Acc=92.89, Top 5 Acc=99.83
+03/07 07:28:35 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(800/1563), Loss=0.0603, Top 1 Acc=92.86, Top 5 Acc=99.82
+03/07 07:28:48 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(832/1563), Loss=0.0603, Top 1 Acc=92.89, Top 5 Acc=99.82
+03/07 07:29:01 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(864/1563), Loss=0.0606, Top 1 Acc=92.84, Top 5 Acc=99.82
+03/07 07:29:14 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(896/1563), Loss=0.0605, Top 1 Acc=92.83, Top 5 Acc=99.82
+03/07 07:29:27 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(928/1563), Loss=0.0609, Top 1 Acc=92.75, Top 5 Acc=99.83
+03/07 07:29:40 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(960/1563), Loss=0.0611, Top 1 Acc=92.72, Top 5 Acc=99.82
+03/07 07:29:53 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(992/1563), Loss=0.0613, Top 1 Acc=92.69, Top 5 Acc=99.81
+03/07 07:30:06 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(1024/1563), Loss=0.0615, Top 1 Acc=92.68, Top 5 Acc=99.80
+03/07 07:30:18 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(1056/1563), Loss=0.0616, Top 1 Acc=92.69, Top 5 Acc=99.80
+03/07 07:30:31 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(1088/1563), Loss=0.0619, Top 1 Acc=92.61, Top 5 Acc=99.80
+03/07 07:30:44 PM | multilayer_inter8_capsnet_cifar10_model Training - Epoch=8, Iteration=(1120/1563), Loss=0.0623, Top 1 Acc=92.55, Top 5 Acc=99.79
+03/07 07:37:32 PM | multilayer_inter10_capsnet_cifar10_model Training - Epoch=1, Iteration=(0/1563), Loss=0.8215, Top 1 Acc=9.38, Top 5 Acc=59.38
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=1/313, Batch Size=32, Top 1 Acc=75.000, Top 5 Acc=100.000
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=2/313, Batch Size=32, Top 1 Acc=67.188, Top 5 Acc=98.438
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=3/313, Batch Size=32, Top 1 Acc=69.792, Top 5 Acc=97.917
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=4/313, Batch Size=32, Top 1 Acc=71.094, Top 5 Acc=98.438
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=5/313, Batch Size=32, Top 1 Acc=70.625, Top 5 Acc=98.125
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=6/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=98.438
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=7/313, Batch Size=32, Top 1 Acc=70.982, Top 5 Acc=98.661
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=8/313, Batch Size=32, Top 1 Acc=69.922, Top 5 Acc=98.438
+03/07 07:45:30 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=9/313, Batch Size=32, Top 1 Acc=69.792, Top 5 Acc=98.264
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=10/313, Batch Size=32, Top 1 Acc=70.938, Top 5 Acc=98.125
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=11/313, Batch Size=32, Top 1 Acc=71.591, Top 5 Acc=98.295
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=12/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=98.438
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=13/313, Batch Size=32, Top 1 Acc=71.154, Top 5 Acc=98.317
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=14/313, Batch Size=32, Top 1 Acc=71.205, Top 5 Acc=98.438
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=15/313, Batch Size=32, Top 1 Acc=70.833, Top 5 Acc=98.333
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=16/313, Batch Size=32, Top 1 Acc=72.070, Top 5 Acc=98.438
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=17/313, Batch Size=32, Top 1 Acc=72.059, Top 5 Acc=98.529
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=18/313, Batch Size=32, Top 1 Acc=72.049, Top 5 Acc=98.611
+03/07 07:45:31 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=19/313, Batch Size=32, Top 1 Acc=73.026, Top 5 Acc=98.684
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=20/313, Batch Size=32, Top 1 Acc=73.125, Top 5 Acc=98.750
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=21/313, Batch Size=32, Top 1 Acc=73.512, Top 5 Acc=98.810
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=22/313, Batch Size=32, Top 1 Acc=72.869, Top 5 Acc=98.722
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=23/313, Batch Size=32, Top 1 Acc=72.690, Top 5 Acc=98.777
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=24/313, Batch Size=32, Top 1 Acc=72.786, Top 5 Acc=98.568
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=25/313, Batch Size=32, Top 1 Acc=72.625, Top 5 Acc=98.375
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=26/313, Batch Size=32, Top 1 Acc=72.356, Top 5 Acc=98.317
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=27/313, Batch Size=32, Top 1 Acc=72.338, Top 5 Acc=98.380
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=28/313, Batch Size=32, Top 1 Acc=72.545, Top 5 Acc=98.326
+03/07 07:45:32 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=29/313, Batch Size=32, Top 1 Acc=72.522, Top 5 Acc=98.384
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=30/313, Batch Size=32, Top 1 Acc=72.708, Top 5 Acc=98.333
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=31/313, Batch Size=32, Top 1 Acc=72.681, Top 5 Acc=98.387
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=32/313, Batch Size=32, Top 1 Acc=73.242, Top 5 Acc=98.438
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=33/313, Batch Size=32, Top 1 Acc=73.201, Top 5 Acc=98.485
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=34/313, Batch Size=32, Top 1 Acc=73.438, Top 5 Acc=98.529
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=35/313, Batch Size=32, Top 1 Acc=73.839, Top 5 Acc=98.571
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=36/313, Batch Size=32, Top 1 Acc=73.698, Top 5 Acc=98.611
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=37/313, Batch Size=32, Top 1 Acc=73.818, Top 5 Acc=98.564
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=38/313, Batch Size=32, Top 1 Acc=73.849, Top 5 Acc=98.520
+03/07 07:45:33 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=39/313, Batch Size=32, Top 1 Acc=73.718, Top 5 Acc=98.558
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=40/313, Batch Size=32, Top 1 Acc=73.594, Top 5 Acc=98.438
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=41/313, Batch Size=32, Top 1 Acc=73.628, Top 5 Acc=98.476
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=42/313, Batch Size=32, Top 1 Acc=73.438, Top 5 Acc=98.438
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=43/313, Batch Size=32, Top 1 Acc=73.619, Top 5 Acc=98.474
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=44/313, Batch Size=32, Top 1 Acc=73.438, Top 5 Acc=98.438
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=45/313, Batch Size=32, Top 1 Acc=73.611, Top 5 Acc=98.403
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=46/313, Batch Size=32, Top 1 Acc=73.573, Top 5 Acc=98.438
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=47/313, Batch Size=32, Top 1 Acc=73.404, Top 5 Acc=98.205
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=48/313, Batch Size=32, Top 1 Acc=73.568, Top 5 Acc=98.242
+03/07 07:45:34 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=49/313, Batch Size=32, Top 1 Acc=73.724, Top 5 Acc=98.278
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=50/313, Batch Size=32, Top 1 Acc=73.625, Top 5 Acc=98.250
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=51/313, Batch Size=32, Top 1 Acc=73.346, Top 5 Acc=98.162
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=52/313, Batch Size=32, Top 1 Acc=73.317, Top 5 Acc=98.137
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=53/313, Batch Size=32, Top 1 Acc=73.349, Top 5 Acc=98.054
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=54/313, Batch Size=32, Top 1 Acc=73.380, Top 5 Acc=98.032
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=55/313, Batch Size=32, Top 1 Acc=73.295, Top 5 Acc=97.955
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=56/313, Batch Size=32, Top 1 Acc=73.214, Top 5 Acc=97.935
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=57/313, Batch Size=32, Top 1 Acc=73.191, Top 5 Acc=97.807
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=58/313, Batch Size=32, Top 1 Acc=73.330, Top 5 Acc=97.737
+03/07 07:45:35 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=59/313, Batch Size=32, Top 1 Acc=73.358, Top 5 Acc=97.775
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=60/313, Batch Size=32, Top 1 Acc=73.542, Top 5 Acc=97.812
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=61/313, Batch Size=32, Top 1 Acc=73.412, Top 5 Acc=97.695
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=62/313, Batch Size=32, Top 1 Acc=73.387, Top 5 Acc=97.732
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=63/313, Batch Size=32, Top 1 Acc=73.512, Top 5 Acc=97.768
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=64/313, Batch Size=32, Top 1 Acc=73.535, Top 5 Acc=97.803
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=65/313, Batch Size=32, Top 1 Acc=73.462, Top 5 Acc=97.788
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=66/313, Batch Size=32, Top 1 Acc=73.390, Top 5 Acc=97.775
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=67/313, Batch Size=32, Top 1 Acc=73.461, Top 5 Acc=97.715
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=68/313, Batch Size=32, Top 1 Acc=73.254, Top 5 Acc=97.702
+03/07 07:45:36 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=69/313, Batch Size=32, Top 1 Acc=73.324, Top 5 Acc=97.690
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=70/313, Batch Size=32, Top 1 Acc=73.438, Top 5 Acc=97.679
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=71/313, Batch Size=32, Top 1 Acc=73.460, Top 5 Acc=97.711
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=72/313, Batch Size=32, Top 1 Acc=73.351, Top 5 Acc=97.656
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=73/313, Batch Size=32, Top 1 Acc=73.245, Top 5 Acc=97.603
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=74/313, Batch Size=32, Top 1 Acc=73.226, Top 5 Acc=97.635
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=75/313, Batch Size=32, Top 1 Acc=73.208, Top 5 Acc=97.667
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=76/313, Batch Size=32, Top 1 Acc=73.109, Top 5 Acc=97.656
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=77/313, Batch Size=32, Top 1 Acc=73.011, Top 5 Acc=97.646
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=78/313, Batch Size=32, Top 1 Acc=72.997, Top 5 Acc=97.676
+03/07 07:45:37 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=79/313, Batch Size=32, Top 1 Acc=72.824, Top 5 Acc=97.587
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=80/313, Batch Size=32, Top 1 Acc=72.812, Top 5 Acc=97.539
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=81/313, Batch Size=32, Top 1 Acc=72.878, Top 5 Acc=97.569
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=82/313, Batch Size=32, Top 1 Acc=72.828, Top 5 Acc=97.599
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=83/313, Batch Size=32, Top 1 Acc=72.929, Top 5 Acc=97.590
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=84/313, Batch Size=32, Top 1 Acc=72.991, Top 5 Acc=97.582
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=85/313, Batch Size=32, Top 1 Acc=72.904, Top 5 Acc=97.610
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=86/313, Batch Size=32, Top 1 Acc=72.965, Top 5 Acc=97.602
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=87/313, Batch Size=32, Top 1 Acc=72.881, Top 5 Acc=97.593
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=88/313, Batch Size=32, Top 1 Acc=73.011, Top 5 Acc=97.585
+03/07 07:45:38 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=89/313, Batch Size=32, Top 1 Acc=72.963, Top 5 Acc=97.577
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=90/313, Batch Size=32, Top 1 Acc=73.056, Top 5 Acc=97.569
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=91/313, Batch Size=32, Top 1 Acc=73.111, Top 5 Acc=97.527
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=92/313, Batch Size=32, Top 1 Acc=73.098, Top 5 Acc=97.520
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=93/313, Batch Size=32, Top 1 Acc=73.152, Top 5 Acc=97.547
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=94/313, Batch Size=32, Top 1 Acc=73.138, Top 5 Acc=97.540
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=95/313, Batch Size=32, Top 1 Acc=73.158, Top 5 Acc=97.566
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=96/313, Batch Size=32, Top 1 Acc=73.145, Top 5 Acc=97.526
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=97/313, Batch Size=32, Top 1 Acc=73.131, Top 5 Acc=97.552
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=98/313, Batch Size=32, Top 1 Acc=73.246, Top 5 Acc=97.577
+03/07 07:45:39 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=99/313, Batch Size=32, Top 1 Acc=73.232, Top 5 Acc=97.601
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=100/313, Batch Size=32, Top 1 Acc=73.156, Top 5 Acc=97.562
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=101/313, Batch Size=32, Top 1 Acc=73.144, Top 5 Acc=97.587
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=102/313, Batch Size=32, Top 1 Acc=73.100, Top 5 Acc=97.549
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=103/313, Batch Size=32, Top 1 Acc=73.180, Top 5 Acc=97.512
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=104/313, Batch Size=32, Top 1 Acc=73.077, Top 5 Acc=97.416
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=105/313, Batch Size=32, Top 1 Acc=73.065, Top 5 Acc=97.411
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=106/313, Batch Size=32, Top 1 Acc=73.113, Top 5 Acc=97.406
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=107/313, Batch Size=32, Top 1 Acc=73.189, Top 5 Acc=97.371
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=108/313, Batch Size=32, Top 1 Acc=73.148, Top 5 Acc=97.396
+03/07 07:45:40 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=109/313, Batch Size=32, Top 1 Acc=73.194, Top 5 Acc=97.420
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=110/313, Batch Size=32, Top 1 Acc=73.153, Top 5 Acc=97.415
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=111/313, Batch Size=32, Top 1 Acc=73.170, Top 5 Acc=97.438
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=112/313, Batch Size=32, Top 1 Acc=73.242, Top 5 Acc=97.433
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=113/313, Batch Size=32, Top 1 Acc=73.258, Top 5 Acc=97.400
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=114/313, Batch Size=32, Top 1 Acc=73.300, Top 5 Acc=97.396
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=115/313, Batch Size=32, Top 1 Acc=73.288, Top 5 Acc=97.391
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=116/313, Batch Size=32, Top 1 Acc=73.357, Top 5 Acc=97.387
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=117/313, Batch Size=32, Top 1 Acc=73.291, Top 5 Acc=97.382
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=118/313, Batch Size=32, Top 1 Acc=73.332, Top 5 Acc=97.378
+03/07 07:45:41 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=119/313, Batch Size=32, Top 1 Acc=73.319, Top 5 Acc=97.400
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=120/313, Batch Size=32, Top 1 Acc=73.359, Top 5 Acc=97.396
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=121/313, Batch Size=32, Top 1 Acc=73.399, Top 5 Acc=97.417
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=122/313, Batch Size=32, Top 1 Acc=73.386, Top 5 Acc=97.413
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=123/313, Batch Size=32, Top 1 Acc=73.349, Top 5 Acc=97.409
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=124/313, Batch Size=32, Top 1 Acc=73.337, Top 5 Acc=97.429
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=125/313, Batch Size=32, Top 1 Acc=73.325, Top 5 Acc=97.400
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=126/313, Batch Size=32, Top 1 Acc=73.388, Top 5 Acc=97.396
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=127/313, Batch Size=32, Top 1 Acc=73.401, Top 5 Acc=97.367
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=128/313, Batch Size=32, Top 1 Acc=73.486, Top 5 Acc=97.363
+03/07 07:45:42 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=129/313, Batch Size=32, Top 1 Acc=73.498, Top 5 Acc=97.359
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=130/313, Batch Size=32, Top 1 Acc=73.510, Top 5 Acc=97.332
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=131/313, Batch Size=32, Top 1 Acc=73.616, Top 5 Acc=97.352
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=132/313, Batch Size=32, Top 1 Acc=73.627, Top 5 Acc=97.372
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=133/313, Batch Size=32, Top 1 Acc=73.661, Top 5 Acc=97.368
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=134/313, Batch Size=32, Top 1 Acc=73.694, Top 5 Acc=97.388
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=135/313, Batch Size=32, Top 1 Acc=73.704, Top 5 Acc=97.361
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=136/313, Batch Size=32, Top 1 Acc=73.759, Top 5 Acc=97.358
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=137/313, Batch Size=32, Top 1 Acc=73.791, Top 5 Acc=97.354
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=138/313, Batch Size=32, Top 1 Acc=73.845, Top 5 Acc=97.351
+03/07 07:45:43 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=139/313, Batch Size=32, Top 1 Acc=73.831, Top 5 Acc=97.370
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=140/313, Batch Size=32, Top 1 Acc=73.795, Top 5 Acc=97.366
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=141/313, Batch Size=32, Top 1 Acc=73.803, Top 5 Acc=97.385
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=142/313, Batch Size=32, Top 1 Acc=73.878, Top 5 Acc=97.403
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=143/313, Batch Size=32, Top 1 Acc=73.798, Top 5 Acc=97.334
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=144/313, Batch Size=32, Top 1 Acc=73.806, Top 5 Acc=97.331
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=145/313, Batch Size=32, Top 1 Acc=73.793, Top 5 Acc=97.306
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=146/313, Batch Size=32, Top 1 Acc=73.844, Top 5 Acc=97.282
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=147/313, Batch Size=32, Top 1 Acc=73.916, Top 5 Acc=97.279
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=148/313, Batch Size=32, Top 1 Acc=73.881, Top 5 Acc=97.276
+03/07 07:45:44 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=149/313, Batch Size=32, Top 1 Acc=73.867, Top 5 Acc=97.273
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=150/313, Batch Size=32, Top 1 Acc=73.917, Top 5 Acc=97.271
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=151/313, Batch Size=32, Top 1 Acc=73.882, Top 5 Acc=97.289
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=152/313, Batch Size=32, Top 1 Acc=73.890, Top 5 Acc=97.286
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=153/313, Batch Size=32, Top 1 Acc=73.877, Top 5 Acc=97.263
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=154/313, Batch Size=32, Top 1 Acc=73.925, Top 5 Acc=97.281
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=155/313, Batch Size=32, Top 1 Acc=73.911, Top 5 Acc=97.278
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=156/313, Batch Size=32, Top 1 Acc=73.898, Top 5 Acc=97.256
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=157/313, Batch Size=32, Top 1 Acc=73.905, Top 5 Acc=97.233
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=158/313, Batch Size=32, Top 1 Acc=73.912, Top 5 Acc=97.251
+03/07 07:45:45 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=159/313, Batch Size=32, Top 1 Acc=73.919, Top 5 Acc=97.248
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=160/313, Batch Size=32, Top 1 Acc=73.945, Top 5 Acc=97.246
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=161/313, Batch Size=32, Top 1 Acc=73.991, Top 5 Acc=97.244
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=162/313, Batch Size=32, Top 1 Acc=73.997, Top 5 Acc=97.242
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=163/313, Batch Size=32, Top 1 Acc=73.946, Top 5 Acc=97.258
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=164/313, Batch Size=32, Top 1 Acc=73.952, Top 5 Acc=97.275
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=165/313, Batch Size=32, Top 1 Acc=74.053, Top 5 Acc=97.292
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=166/313, Batch Size=32, Top 1 Acc=74.153, Top 5 Acc=97.308
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=167/313, Batch Size=32, Top 1 Acc=74.139, Top 5 Acc=97.305
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=168/313, Batch Size=32, Top 1 Acc=74.107, Top 5 Acc=97.321
+03/07 07:45:46 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=169/313, Batch Size=32, Top 1 Acc=74.020, Top 5 Acc=97.319
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=170/313, Batch Size=32, Top 1 Acc=73.971, Top 5 Acc=97.316
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=171/313, Batch Size=32, Top 1 Acc=73.958, Top 5 Acc=97.332
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=172/313, Batch Size=32, Top 1 Acc=73.983, Top 5 Acc=97.347
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=173/313, Batch Size=32, Top 1 Acc=73.988, Top 5 Acc=97.363
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=174/313, Batch Size=32, Top 1 Acc=73.976, Top 5 Acc=97.360
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=175/313, Batch Size=32, Top 1 Acc=74.000, Top 5 Acc=97.375
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=176/313, Batch Size=32, Top 1 Acc=74.023, Top 5 Acc=97.354
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=177/313, Batch Size=32, Top 1 Acc=73.958, Top 5 Acc=97.334
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=178/313, Batch Size=32, Top 1 Acc=73.982, Top 5 Acc=97.331
+03/07 07:45:47 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=179/313, Batch Size=32, Top 1 Acc=74.005, Top 5 Acc=97.346
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=180/313, Batch Size=32, Top 1 Acc=74.045, Top 5 Acc=97.361
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=181/313, Batch Size=32, Top 1 Acc=74.154, Top 5 Acc=97.376
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=182/313, Batch Size=32, Top 1 Acc=74.124, Top 5 Acc=97.373
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=183/313, Batch Size=32, Top 1 Acc=74.044, Top 5 Acc=97.336
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=184/313, Batch Size=32, Top 1 Acc=73.981, Top 5 Acc=97.317
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=185/313, Batch Size=32, Top 1 Acc=73.953, Top 5 Acc=97.314
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=186/313, Batch Size=32, Top 1 Acc=73.942, Top 5 Acc=97.312
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=187/313, Batch Size=32, Top 1 Acc=73.981, Top 5 Acc=97.326
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=188/313, Batch Size=32, Top 1 Acc=73.969, Top 5 Acc=97.340
+03/07 07:45:48 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=189/313, Batch Size=32, Top 1 Acc=73.975, Top 5 Acc=97.354
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=190/313, Batch Size=32, Top 1 Acc=73.882, Top 5 Acc=97.352
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=191/313, Batch Size=32, Top 1 Acc=73.953, Top 5 Acc=97.366
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=192/313, Batch Size=32, Top 1 Acc=73.893, Top 5 Acc=97.380
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=193/313, Batch Size=32, Top 1 Acc=73.883, Top 5 Acc=97.377
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=194/313, Batch Size=32, Top 1 Acc=73.872, Top 5 Acc=97.374
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=195/313, Batch Size=32, Top 1 Acc=73.878, Top 5 Acc=97.388
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=196/313, Batch Size=32, Top 1 Acc=73.900, Top 5 Acc=97.401
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=197/313, Batch Size=32, Top 1 Acc=73.890, Top 5 Acc=97.414
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=198/313, Batch Size=32, Top 1 Acc=73.927, Top 5 Acc=97.427
+03/07 07:45:49 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=199/313, Batch Size=32, Top 1 Acc=73.964, Top 5 Acc=97.440
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=200/313, Batch Size=32, Top 1 Acc=73.922, Top 5 Acc=97.453
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=201/313, Batch Size=32, Top 1 Acc=73.850, Top 5 Acc=97.435
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=202/313, Batch Size=32, Top 1 Acc=73.855, Top 5 Acc=97.432
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=203/313, Batch Size=32, Top 1 Acc=73.876, Top 5 Acc=97.429
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=204/313, Batch Size=32, Top 1 Acc=73.851, Top 5 Acc=97.426
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=205/313, Batch Size=32, Top 1 Acc=73.872, Top 5 Acc=97.409
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=206/313, Batch Size=32, Top 1 Acc=73.893, Top 5 Acc=97.406
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=207/313, Batch Size=32, Top 1 Acc=73.928, Top 5 Acc=97.418
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=208/313, Batch Size=32, Top 1 Acc=73.903, Top 5 Acc=97.431
+03/07 07:45:50 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=209/313, Batch Size=32, Top 1 Acc=73.879, Top 5 Acc=97.443
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=210/313, Batch Size=32, Top 1 Acc=73.869, Top 5 Acc=97.411
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=211/313, Batch Size=32, Top 1 Acc=73.815, Top 5 Acc=97.393
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=212/313, Batch Size=32, Top 1 Acc=73.747, Top 5 Acc=97.391
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=213/313, Batch Size=32, Top 1 Acc=73.782, Top 5 Acc=97.403
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=214/313, Batch Size=32, Top 1 Acc=73.832, Top 5 Acc=97.415
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=215/313, Batch Size=32, Top 1 Acc=73.750, Top 5 Acc=97.369
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=216/313, Batch Size=32, Top 1 Acc=73.770, Top 5 Acc=97.367
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=217/313, Batch Size=32, Top 1 Acc=73.762, Top 5 Acc=97.379
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=218/313, Batch Size=32, Top 1 Acc=73.753, Top 5 Acc=97.377
+03/07 07:45:51 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=219/313, Batch Size=32, Top 1 Acc=73.701, Top 5 Acc=97.374
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=220/313, Batch Size=32, Top 1 Acc=73.707, Top 5 Acc=97.344
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=221/313, Batch Size=32, Top 1 Acc=73.742, Top 5 Acc=97.342
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=222/313, Batch Size=32, Top 1 Acc=73.733, Top 5 Acc=97.354
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=223/313, Batch Size=32, Top 1 Acc=73.725, Top 5 Acc=97.337
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=224/313, Batch Size=32, Top 1 Acc=73.758, Top 5 Acc=97.349
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=225/313, Batch Size=32, Top 1 Acc=73.764, Top 5 Acc=97.361
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=226/313, Batch Size=32, Top 1 Acc=73.756, Top 5 Acc=97.345
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=227/313, Batch Size=32, Top 1 Acc=73.775, Top 5 Acc=97.357
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=228/313, Batch Size=32, Top 1 Acc=73.739, Top 5 Acc=97.327
+03/07 07:45:52 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=229/313, Batch Size=32, Top 1 Acc=73.785, Top 5 Acc=97.339
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=230/313, Batch Size=32, Top 1 Acc=73.859, Top 5 Acc=97.351
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=231/313, Batch Size=32, Top 1 Acc=73.877, Top 5 Acc=97.362
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=232/313, Batch Size=32, Top 1 Acc=73.869, Top 5 Acc=97.333
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=233/313, Batch Size=32, Top 1 Acc=73.833, Top 5 Acc=97.331
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=234/313, Batch Size=32, Top 1 Acc=73.878, Top 5 Acc=97.329
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=235/313, Batch Size=32, Top 1 Acc=73.843, Top 5 Acc=97.340
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=236/313, Batch Size=32, Top 1 Acc=73.888, Top 5 Acc=97.338
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=237/313, Batch Size=32, Top 1 Acc=73.866, Top 5 Acc=97.336
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=238/313, Batch Size=32, Top 1 Acc=73.831, Top 5 Acc=97.321
+03/07 07:45:53 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=239/313, Batch Size=32, Top 1 Acc=73.771, Top 5 Acc=97.333
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=240/313, Batch Size=32, Top 1 Acc=73.776, Top 5 Acc=97.331
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=241/313, Batch Size=32, Top 1 Acc=73.794, Top 5 Acc=97.342
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=242/313, Batch Size=32, Top 1 Acc=73.812, Top 5 Acc=97.353
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=243/313, Batch Size=32, Top 1 Acc=73.817, Top 5 Acc=97.351
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=244/313, Batch Size=32, Top 1 Acc=73.796, Top 5 Acc=97.362
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=245/313, Batch Size=32, Top 1 Acc=73.724, Top 5 Acc=97.360
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=246/313, Batch Size=32, Top 1 Acc=73.730, Top 5 Acc=97.358
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=247/313, Batch Size=32, Top 1 Acc=73.697, Top 5 Acc=97.343
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=248/313, Batch Size=32, Top 1 Acc=73.639, Top 5 Acc=97.354
+03/07 07:45:54 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=249/313, Batch Size=32, Top 1 Acc=73.645, Top 5 Acc=97.364
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=250/313, Batch Size=32, Top 1 Acc=73.650, Top 5 Acc=97.362
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=251/313, Batch Size=32, Top 1 Acc=73.618, Top 5 Acc=97.348
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=252/313, Batch Size=32, Top 1 Acc=73.661, Top 5 Acc=97.346
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=253/313, Batch Size=32, Top 1 Acc=73.641, Top 5 Acc=97.332
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=254/313, Batch Size=32, Top 1 Acc=73.634, Top 5 Acc=97.343
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=255/313, Batch Size=32, Top 1 Acc=73.603, Top 5 Acc=97.341
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=256/313, Batch Size=32, Top 1 Acc=73.572, Top 5 Acc=97.339
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=257/313, Batch Size=32, Top 1 Acc=73.553, Top 5 Acc=97.349
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=258/313, Batch Size=32, Top 1 Acc=73.559, Top 5 Acc=97.359
+03/07 07:45:55 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=259/313, Batch Size=32, Top 1 Acc=73.576, Top 5 Acc=97.358
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=260/313, Batch Size=32, Top 1 Acc=73.558, Top 5 Acc=97.368
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=261/313, Batch Size=32, Top 1 Acc=73.551, Top 5 Acc=97.366
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=262/313, Batch Size=32, Top 1 Acc=73.545, Top 5 Acc=97.364
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=263/313, Batch Size=32, Top 1 Acc=73.562, Top 5 Acc=97.374
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=264/313, Batch Size=32, Top 1 Acc=73.544, Top 5 Acc=97.372
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=265/313, Batch Size=32, Top 1 Acc=73.491, Top 5 Acc=97.358
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=266/313, Batch Size=32, Top 1 Acc=73.496, Top 5 Acc=97.357
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=267/313, Batch Size=32, Top 1 Acc=73.490, Top 5 Acc=97.367
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=268/313, Batch Size=32, Top 1 Acc=73.519, Top 5 Acc=97.365
+03/07 07:45:56 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=269/313, Batch Size=32, Top 1 Acc=73.548, Top 5 Acc=97.363
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=270/313, Batch Size=32, Top 1 Acc=73.542, Top 5 Acc=97.373
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=271/313, Batch Size=32, Top 1 Acc=73.478, Top 5 Acc=97.382
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=272/313, Batch Size=32, Top 1 Acc=73.483, Top 5 Acc=97.392
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=273/313, Batch Size=32, Top 1 Acc=73.466, Top 5 Acc=97.390
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=274/313, Batch Size=32, Top 1 Acc=73.449, Top 5 Acc=97.365
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=275/313, Batch Size=32, Top 1 Acc=73.500, Top 5 Acc=97.375
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=276/313, Batch Size=32, Top 1 Acc=73.494, Top 5 Acc=97.373
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=277/313, Batch Size=32, Top 1 Acc=73.511, Top 5 Acc=97.360
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=278/313, Batch Size=32, Top 1 Acc=73.550, Top 5 Acc=97.370
+03/07 07:45:57 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=279/313, Batch Size=32, Top 1 Acc=73.566, Top 5 Acc=97.368
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=280/313, Batch Size=32, Top 1 Acc=73.527, Top 5 Acc=97.366
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=281/313, Batch Size=32, Top 1 Acc=73.521, Top 5 Acc=97.375
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=282/313, Batch Size=32, Top 1 Acc=73.515, Top 5 Acc=97.352
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=283/313, Batch Size=32, Top 1 Acc=73.498, Top 5 Acc=97.350
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=284/313, Batch Size=32, Top 1 Acc=73.471, Top 5 Acc=97.359
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=285/313, Batch Size=32, Top 1 Acc=73.498, Top 5 Acc=97.368
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=286/313, Batch Size=32, Top 1 Acc=73.536, Top 5 Acc=97.367
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=287/313, Batch Size=32, Top 1 Acc=73.574, Top 5 Acc=97.376
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=288/313, Batch Size=32, Top 1 Acc=73.600, Top 5 Acc=97.385
+03/07 07:45:58 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=289/313, Batch Size=32, Top 1 Acc=73.605, Top 5 Acc=97.362
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=290/313, Batch Size=32, Top 1 Acc=73.610, Top 5 Acc=97.360
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=291/313, Batch Size=32, Top 1 Acc=73.593, Top 5 Acc=97.348
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=292/313, Batch Size=32, Top 1 Acc=73.587, Top 5 Acc=97.346
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=293/313, Batch Size=32, Top 1 Acc=73.571, Top 5 Acc=97.355
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=294/313, Batch Size=32, Top 1 Acc=73.629, Top 5 Acc=97.364
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=295/313, Batch Size=32, Top 1 Acc=73.644, Top 5 Acc=97.352
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=296/313, Batch Size=32, Top 1 Acc=73.617, Top 5 Acc=97.329
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=297/313, Batch Size=32, Top 1 Acc=73.632, Top 5 Acc=97.317
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=298/313, Batch Size=32, Top 1 Acc=73.616, Top 5 Acc=97.326
+03/07 07:45:59 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=299/313, Batch Size=32, Top 1 Acc=73.610, Top 5 Acc=97.324
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=300/313, Batch Size=32, Top 1 Acc=73.635, Top 5 Acc=97.333
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=301/313, Batch Size=32, Top 1 Acc=73.630, Top 5 Acc=97.321
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=302/313, Batch Size=32, Top 1 Acc=73.655, Top 5 Acc=97.310
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=303/313, Batch Size=32, Top 1 Acc=73.670, Top 5 Acc=97.308
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=304/313, Batch Size=32, Top 1 Acc=73.684, Top 5 Acc=97.307
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=305/313, Batch Size=32, Top 1 Acc=73.678, Top 5 Acc=97.305
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=306/313, Batch Size=32, Top 1 Acc=73.662, Top 5 Acc=97.314
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=307/313, Batch Size=32, Top 1 Acc=73.646, Top 5 Acc=97.313
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=308/313, Batch Size=32, Top 1 Acc=73.610, Top 5 Acc=97.321
+03/07 07:46:00 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=309/313, Batch Size=32, Top 1 Acc=73.584, Top 5 Acc=97.310
+03/07 07:46:01 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=310/313, Batch Size=32, Top 1 Acc=73.609, Top 5 Acc=97.298
+03/07 07:46:01 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=311/313, Batch Size=32, Top 1 Acc=73.593, Top 5 Acc=97.287
+03/07 07:46:01 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=312/313, Batch Size=32, Top 1 Acc=73.568, Top 5 Acc=97.286
+03/07 07:46:01 PM | best_multilayer_inter10_capsnet_cifar10_model - Iterations=313/313, Batch Size=16, Top 1 Acc=73.570, Top 5 Acc=97.290
+03/07 07:46:01 PM | best_multilayer_inter10_capsnet_cifar10_model ConvCaps Activations saved to /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/best_multilayer_inter10_capsnet_cifar10_model_convcaps_activations.pth
+03/07 07:49:52 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=1/313, Batch Size=32, Top 1 Acc=75.000, Top 5 Acc=100.000
+03/07 07:49:52 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=2/313, Batch Size=32, Top 1 Acc=67.188, Top 5 Acc=95.312
+03/07 07:49:52 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=3/313, Batch Size=32, Top 1 Acc=70.833, Top 5 Acc=96.875
+03/07 07:49:52 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=4/313, Batch Size=32, Top 1 Acc=70.312, Top 5 Acc=97.656
+03/07 07:49:52 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=5/313, Batch Size=32, Top 1 Acc=68.750, Top 5 Acc=96.250
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=6/313, Batch Size=32, Top 1 Acc=69.271, Top 5 Acc=96.875
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=7/313, Batch Size=32, Top 1 Acc=68.304, Top 5 Acc=96.875
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=8/313, Batch Size=32, Top 1 Acc=68.750, Top 5 Acc=96.875
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=9/313, Batch Size=32, Top 1 Acc=69.444, Top 5 Acc=96.875
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=10/313, Batch Size=32, Top 1 Acc=70.625, Top 5 Acc=97.188
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=11/313, Batch Size=32, Top 1 Acc=70.739, Top 5 Acc=97.443
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=12/313, Batch Size=32, Top 1 Acc=69.792, Top 5 Acc=97.135
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=13/313, Batch Size=32, Top 1 Acc=70.192, Top 5 Acc=97.115
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=14/313, Batch Size=32, Top 1 Acc=70.089, Top 5 Acc=97.321
+03/07 07:49:53 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=15/313, Batch Size=32, Top 1 Acc=68.958, Top 5 Acc=97.083
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=16/313, Batch Size=32, Top 1 Acc=69.922, Top 5 Acc=97.070
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=17/313, Batch Size=32, Top 1 Acc=70.404, Top 5 Acc=97.243
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=18/313, Batch Size=32, Top 1 Acc=70.833, Top 5 Acc=97.396
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=19/313, Batch Size=32, Top 1 Acc=71.546, Top 5 Acc=97.368
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=20/313, Batch Size=32, Top 1 Acc=71.250, Top 5 Acc=97.500
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=21/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=97.619
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=22/313, Batch Size=32, Top 1 Acc=71.591, Top 5 Acc=97.443
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=23/313, Batch Size=32, Top 1 Acc=71.467, Top 5 Acc=97.554
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=24/313, Batch Size=32, Top 1 Acc=71.354, Top 5 Acc=97.526
+03/07 07:49:54 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=25/313, Batch Size=32, Top 1 Acc=71.375, Top 5 Acc=97.500
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=26/313, Batch Size=32, Top 1 Acc=71.034, Top 5 Acc=97.476
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=27/313, Batch Size=32, Top 1 Acc=71.181, Top 5 Acc=97.338
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=28/313, Batch Size=32, Top 1 Acc=71.429, Top 5 Acc=97.210
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=29/313, Batch Size=32, Top 1 Acc=71.444, Top 5 Acc=97.091
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=30/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=97.083
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=31/313, Batch Size=32, Top 1 Acc=72.177, Top 5 Acc=97.177
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=32/313, Batch Size=32, Top 1 Acc=72.559, Top 5 Acc=97.070
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=33/313, Batch Size=32, Top 1 Acc=72.254, Top 5 Acc=96.970
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=34/313, Batch Size=32, Top 1 Acc=72.610, Top 5 Acc=97.059
+03/07 07:49:55 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=35/313, Batch Size=32, Top 1 Acc=72.946, Top 5 Acc=97.054
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=36/313, Batch Size=32, Top 1 Acc=72.483, Top 5 Acc=97.049
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=37/313, Batch Size=32, Top 1 Acc=72.720, Top 5 Acc=96.959
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=38/313, Batch Size=32, Top 1 Acc=72.862, Top 5 Acc=96.957
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=39/313, Batch Size=32, Top 1 Acc=72.276, Top 5 Acc=97.035
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=40/313, Batch Size=32, Top 1 Acc=72.266, Top 5 Acc=97.109
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=41/313, Batch Size=32, Top 1 Acc=72.027, Top 5 Acc=97.180
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=42/313, Batch Size=32, Top 1 Acc=72.024, Top 5 Acc=97.247
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=43/313, Batch Size=32, Top 1 Acc=72.238, Top 5 Acc=97.311
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=44/313, Batch Size=32, Top 1 Acc=72.017, Top 5 Acc=97.301
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=45/313, Batch Size=32, Top 1 Acc=72.083, Top 5 Acc=97.292
+03/07 07:49:56 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=46/313, Batch Size=32, Top 1 Acc=72.215, Top 5 Acc=97.351
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=47/313, Batch Size=32, Top 1 Acc=72.141, Top 5 Acc=97.340
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=48/313, Batch Size=32, Top 1 Acc=72.266, Top 5 Acc=97.396
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=49/313, Batch Size=32, Top 1 Acc=72.385, Top 5 Acc=97.449
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=50/313, Batch Size=32, Top 1 Acc=72.188, Top 5 Acc=97.500
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=51/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=97.549
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=52/313, Batch Size=32, Top 1 Acc=71.815, Top 5 Acc=97.476
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=53/313, Batch Size=32, Top 1 Acc=71.757, Top 5 Acc=97.406
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=54/313, Batch Size=32, Top 1 Acc=71.412, Top 5 Acc=97.396
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=55/313, Batch Size=32, Top 1 Acc=71.364, Top 5 Acc=97.386
+03/07 07:49:57 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=56/313, Batch Size=32, Top 1 Acc=71.205, Top 5 Acc=97.433
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=57/313, Batch Size=32, Top 1 Acc=71.107, Top 5 Acc=97.368
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=58/313, Batch Size=32, Top 1 Acc=71.282, Top 5 Acc=97.306
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=59/313, Batch Size=32, Top 1 Acc=71.345, Top 5 Acc=97.299
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=60/313, Batch Size=32, Top 1 Acc=71.458, Top 5 Acc=97.240
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=61/313, Batch Size=32, Top 1 Acc=71.311, Top 5 Acc=97.131
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=62/313, Batch Size=32, Top 1 Acc=71.472, Top 5 Acc=97.077
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=63/313, Batch Size=32, Top 1 Acc=71.379, Top 5 Acc=97.073
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=64/313, Batch Size=32, Top 1 Acc=71.240, Top 5 Acc=97.021
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=65/313, Batch Size=32, Top 1 Acc=71.154, Top 5 Acc=97.019
+03/07 07:49:58 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=66/313, Batch Size=32, Top 1 Acc=71.259, Top 5 Acc=97.064
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=67/313, Batch Size=32, Top 1 Acc=71.222, Top 5 Acc=97.062
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=68/313, Batch Size=32, Top 1 Acc=71.094, Top 5 Acc=97.059
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=69/313, Batch Size=32, Top 1 Acc=71.196, Top 5 Acc=97.056
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=70/313, Batch Size=32, Top 1 Acc=71.250, Top 5 Acc=97.098
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=71/313, Batch Size=32, Top 1 Acc=71.127, Top 5 Acc=97.139
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=72/313, Batch Size=32, Top 1 Acc=71.050, Top 5 Acc=97.092
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=73/313, Batch Size=32, Top 1 Acc=71.019, Top 5 Acc=97.089
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=74/313, Batch Size=32, Top 1 Acc=71.115, Top 5 Acc=97.086
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=75/313, Batch Size=32, Top 1 Acc=71.083, Top 5 Acc=97.083
+03/07 07:49:59 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=76/313, Batch Size=32, Top 1 Acc=71.053, Top 5 Acc=97.122
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=77/313, Batch Size=32, Top 1 Acc=70.982, Top 5 Acc=97.159
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=78/313, Batch Size=32, Top 1 Acc=70.994, Top 5 Acc=97.155
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=79/313, Batch Size=32, Top 1 Acc=70.807, Top 5 Acc=97.112
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=80/313, Batch Size=32, Top 1 Acc=70.703, Top 5 Acc=97.070
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=81/313, Batch Size=32, Top 1 Acc=70.679, Top 5 Acc=97.106
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=82/313, Batch Size=32, Top 1 Acc=70.655, Top 5 Acc=97.142
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=83/313, Batch Size=32, Top 1 Acc=70.783, Top 5 Acc=97.139
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=84/313, Batch Size=32, Top 1 Acc=70.833, Top 5 Acc=97.173
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=85/313, Batch Size=32, Top 1 Acc=70.735, Top 5 Acc=97.169
+03/07 07:50:00 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=86/313, Batch Size=32, Top 1 Acc=70.821, Top 5 Acc=97.129
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=87/313, Batch Size=32, Top 1 Acc=70.797, Top 5 Acc=97.162
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=88/313, Batch Size=32, Top 1 Acc=71.023, Top 5 Acc=97.195
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=89/313, Batch Size=32, Top 1 Acc=70.962, Top 5 Acc=97.191
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=90/313, Batch Size=32, Top 1 Acc=70.972, Top 5 Acc=97.153
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=91/313, Batch Size=32, Top 1 Acc=71.051, Top 5 Acc=97.115
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=92/313, Batch Size=32, Top 1 Acc=71.196, Top 5 Acc=97.147
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=93/313, Batch Size=32, Top 1 Acc=71.203, Top 5 Acc=97.110
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=94/313, Batch Size=32, Top 1 Acc=71.177, Top 5 Acc=97.141
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=95/313, Batch Size=32, Top 1 Acc=71.151, Top 5 Acc=97.138
+03/07 07:50:01 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=96/313, Batch Size=32, Top 1 Acc=71.094, Top 5 Acc=97.070
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=97/313, Batch Size=32, Top 1 Acc=71.198, Top 5 Acc=97.101
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=98/313, Batch Size=32, Top 1 Acc=71.142, Top 5 Acc=97.098
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=99/313, Batch Size=32, Top 1 Acc=71.244, Top 5 Acc=97.096
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=100/313, Batch Size=32, Top 1 Acc=71.219, Top 5 Acc=97.031
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=101/313, Batch Size=32, Top 1 Acc=71.194, Top 5 Acc=97.030
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=102/313, Batch Size=32, Top 1 Acc=71.140, Top 5 Acc=96.998
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=103/313, Batch Size=32, Top 1 Acc=71.299, Top 5 Acc=96.996
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=104/313, Batch Size=32, Top 1 Acc=71.244, Top 5 Acc=96.965
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=105/313, Batch Size=32, Top 1 Acc=71.250, Top 5 Acc=96.935
+03/07 07:50:02 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=106/313, Batch Size=32, Top 1 Acc=71.315, Top 5 Acc=96.934
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=107/313, Batch Size=32, Top 1 Acc=71.232, Top 5 Acc=96.933
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=108/313, Batch Size=32, Top 1 Acc=71.094, Top 5 Acc=96.933
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=109/313, Batch Size=32, Top 1 Acc=71.187, Top 5 Acc=96.961
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=110/313, Batch Size=32, Top 1 Acc=71.080, Top 5 Acc=96.903
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=111/313, Batch Size=32, Top 1 Acc=71.143, Top 5 Acc=96.931
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=112/313, Batch Size=32, Top 1 Acc=71.150, Top 5 Acc=96.931
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=113/313, Batch Size=32, Top 1 Acc=71.211, Top 5 Acc=96.903
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=114/313, Batch Size=32, Top 1 Acc=71.190, Top 5 Acc=96.902
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=115/313, Batch Size=32, Top 1 Acc=71.250, Top 5 Acc=96.875
+03/07 07:50:03 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=116/313, Batch Size=32, Top 1 Acc=71.202, Top 5 Acc=96.902
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=117/313, Batch Size=32, Top 1 Acc=71.074, Top 5 Acc=96.902
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=118/313, Batch Size=32, Top 1 Acc=71.028, Top 5 Acc=96.901
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=119/313, Batch Size=32, Top 1 Acc=71.008, Top 5 Acc=96.901
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=120/313, Batch Size=32, Top 1 Acc=71.068, Top 5 Acc=96.901
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=121/313, Batch Size=32, Top 1 Acc=71.100, Top 5 Acc=96.927
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=122/313, Batch Size=32, Top 1 Acc=71.132, Top 5 Acc=96.926
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=123/313, Batch Size=32, Top 1 Acc=71.164, Top 5 Acc=96.926
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=124/313, Batch Size=32, Top 1 Acc=71.220, Top 5 Acc=96.951
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=125/313, Batch Size=32, Top 1 Acc=71.250, Top 5 Acc=96.925
+03/07 07:50:04 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=126/313, Batch Size=32, Top 1 Acc=71.181, Top 5 Acc=96.900
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=127/313, Batch Size=32, Top 1 Acc=71.211, Top 5 Acc=96.875
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=128/313, Batch Size=32, Top 1 Acc=71.313, Top 5 Acc=96.875
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=129/313, Batch Size=32, Top 1 Acc=71.366, Top 5 Acc=96.875
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=130/313, Batch Size=32, Top 1 Acc=71.418, Top 5 Acc=96.875
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=131/313, Batch Size=32, Top 1 Acc=71.565, Top 5 Acc=96.899
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=132/313, Batch Size=32, Top 1 Acc=71.591, Top 5 Acc=96.922
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=133/313, Batch Size=32, Top 1 Acc=71.617, Top 5 Acc=96.922
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=134/313, Batch Size=32, Top 1 Acc=71.595, Top 5 Acc=96.945
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=135/313, Batch Size=32, Top 1 Acc=71.574, Top 5 Acc=96.875
+03/07 07:50:05 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=136/313, Batch Size=32, Top 1 Acc=71.622, Top 5 Acc=96.875
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=137/313, Batch Size=32, Top 1 Acc=71.693, Top 5 Acc=96.898
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=138/313, Batch Size=32, Top 1 Acc=71.649, Top 5 Acc=96.875
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=139/313, Batch Size=32, Top 1 Acc=71.650, Top 5 Acc=96.875
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=140/313, Batch Size=32, Top 1 Acc=71.652, Top 5 Acc=96.853
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=141/313, Batch Size=32, Top 1 Acc=71.676, Top 5 Acc=96.875
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=142/313, Batch Size=32, Top 1 Acc=71.677, Top 5 Acc=96.897
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=143/313, Batch Size=32, Top 1 Acc=71.613, Top 5 Acc=96.875
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=144/313, Batch Size=32, Top 1 Acc=71.658, Top 5 Acc=96.853
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=145/313, Batch Size=32, Top 1 Acc=71.659, Top 5 Acc=96.875
+03/07 07:50:06 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=146/313, Batch Size=32, Top 1 Acc=71.747, Top 5 Acc=96.875
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=147/313, Batch Size=32, Top 1 Acc=71.747, Top 5 Acc=96.875
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=148/313, Batch Size=32, Top 1 Acc=71.727, Top 5 Acc=96.896
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=149/313, Batch Size=32, Top 1 Acc=71.665, Top 5 Acc=96.854
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=150/313, Batch Size=32, Top 1 Acc=71.708, Top 5 Acc=96.854
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=151/313, Batch Size=32, Top 1 Acc=71.689, Top 5 Acc=96.875
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=152/313, Batch Size=32, Top 1 Acc=71.752, Top 5 Acc=96.875
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=153/313, Batch Size=32, Top 1 Acc=71.773, Top 5 Acc=96.895
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=154/313, Batch Size=32, Top 1 Acc=71.774, Top 5 Acc=96.916
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=155/313, Batch Size=32, Top 1 Acc=71.774, Top 5 Acc=96.895
+03/07 07:50:07 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=156/313, Batch Size=32, Top 1 Acc=71.735, Top 5 Acc=96.915
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=157/313, Batch Size=32, Top 1 Acc=71.775, Top 5 Acc=96.935
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=158/313, Batch Size=32, Top 1 Acc=71.796, Top 5 Acc=96.934
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=159/313, Batch Size=32, Top 1 Acc=71.737, Top 5 Acc=96.934
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=160/313, Batch Size=32, Top 1 Acc=71.738, Top 5 Acc=96.953
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=161/313, Batch Size=32, Top 1 Acc=71.797, Top 5 Acc=96.933
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=162/313, Batch Size=32, Top 1 Acc=71.836, Top 5 Acc=96.914
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=163/313, Batch Size=32, Top 1 Acc=71.856, Top 5 Acc=96.913
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=164/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=96.932
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=165/313, Batch Size=32, Top 1 Acc=71.970, Top 5 Acc=96.951
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=166/313, Batch Size=32, Top 1 Acc=72.026, Top 5 Acc=96.969
+03/07 07:50:08 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=167/313, Batch Size=32, Top 1 Acc=72.006, Top 5 Acc=96.950
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=168/313, Batch Size=32, Top 1 Acc=71.987, Top 5 Acc=96.949
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=169/313, Batch Size=32, Top 1 Acc=71.930, Top 5 Acc=96.967
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=170/313, Batch Size=32, Top 1 Acc=71.893, Top 5 Acc=96.949
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=171/313, Batch Size=32, Top 1 Acc=71.893, Top 5 Acc=96.966
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=172/313, Batch Size=32, Top 1 Acc=71.948, Top 5 Acc=96.984
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=173/313, Batch Size=32, Top 1 Acc=71.947, Top 5 Acc=97.001
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=174/313, Batch Size=32, Top 1 Acc=71.857, Top 5 Acc=97.019
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=175/313, Batch Size=32, Top 1 Acc=71.893, Top 5 Acc=97.036
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=176/313, Batch Size=32, Top 1 Acc=71.928, Top 5 Acc=97.053
+03/07 07:50:09 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=177/313, Batch Size=32, Top 1 Acc=71.840, Top 5 Acc=97.016
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=178/313, Batch Size=32, Top 1 Acc=71.840, Top 5 Acc=97.033
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=179/313, Batch Size=32, Top 1 Acc=71.945, Top 5 Acc=97.032
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=180/313, Batch Size=32, Top 1 Acc=71.962, Top 5 Acc=97.031
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=181/313, Batch Size=32, Top 1 Acc=72.030, Top 5 Acc=97.048
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=182/313, Batch Size=32, Top 1 Acc=71.978, Top 5 Acc=97.047
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=183/313, Batch Size=32, Top 1 Acc=71.909, Top 5 Acc=97.029
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=184/313, Batch Size=32, Top 1 Acc=71.909, Top 5 Acc=97.045
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=185/313, Batch Size=32, Top 1 Acc=71.892, Top 5 Acc=97.027
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=186/313, Batch Size=32, Top 1 Acc=71.841, Top 5 Acc=97.043
+03/07 07:50:10 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=187/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=97.059
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=188/313, Batch Size=32, Top 1 Acc=71.858, Top 5 Acc=97.058
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=189/313, Batch Size=32, Top 1 Acc=71.842, Top 5 Acc=97.073
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=190/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=97.072
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=191/313, Batch Size=32, Top 1 Acc=71.940, Top 5 Acc=97.088
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=192/313, Batch Size=32, Top 1 Acc=71.924, Top 5 Acc=97.087
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=193/313, Batch Size=32, Top 1 Acc=71.940, Top 5 Acc=97.102
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=194/313, Batch Size=32, Top 1 Acc=71.907, Top 5 Acc=97.117
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=195/313, Batch Size=32, Top 1 Acc=71.891, Top 5 Acc=97.131
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=196/313, Batch Size=32, Top 1 Acc=71.859, Top 5 Acc=97.146
+03/07 07:50:11 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=197/313, Batch Size=32, Top 1 Acc=71.859, Top 5 Acc=97.161
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=198/313, Batch Size=32, Top 1 Acc=71.875, Top 5 Acc=97.159
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=199/313, Batch Size=32, Top 1 Acc=71.891, Top 5 Acc=97.142
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=200/313, Batch Size=32, Top 1 Acc=71.797, Top 5 Acc=97.156
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=201/313, Batch Size=32, Top 1 Acc=71.735, Top 5 Acc=97.155
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=202/313, Batch Size=32, Top 1 Acc=71.782, Top 5 Acc=97.169
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=203/313, Batch Size=32, Top 1 Acc=71.767, Top 5 Acc=97.167
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=204/313, Batch Size=32, Top 1 Acc=71.737, Top 5 Acc=97.166
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=205/313, Batch Size=32, Top 1 Acc=71.784, Top 5 Acc=97.165
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=206/313, Batch Size=32, Top 1 Acc=71.814, Top 5 Acc=97.163
+03/07 07:50:12 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=207/313, Batch Size=32, Top 1 Acc=71.830, Top 5 Acc=97.177
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=208/313, Batch Size=32, Top 1 Acc=71.815, Top 5 Acc=97.191
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=209/313, Batch Size=32, Top 1 Acc=71.800, Top 5 Acc=97.174
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=210/313, Batch Size=32, Top 1 Acc=71.801, Top 5 Acc=97.158
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=211/313, Batch Size=32, Top 1 Acc=71.757, Top 5 Acc=97.156
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=212/313, Batch Size=32, Top 1 Acc=71.713, Top 5 Acc=97.170
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=213/313, Batch Size=32, Top 1 Acc=71.758, Top 5 Acc=97.154
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=214/313, Batch Size=32, Top 1 Acc=71.802, Top 5 Acc=97.152
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=215/313, Batch Size=32, Top 1 Acc=71.759, Top 5 Acc=97.122
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=216/313, Batch Size=32, Top 1 Acc=71.817, Top 5 Acc=97.135
+03/07 07:50:13 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=217/313, Batch Size=32, Top 1 Acc=71.803, Top 5 Acc=97.134
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=218/313, Batch Size=32, Top 1 Acc=71.818, Top 5 Acc=97.147
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=219/313, Batch Size=32, Top 1 Acc=71.761, Top 5 Acc=97.160
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=220/313, Batch Size=32, Top 1 Acc=71.761, Top 5 Acc=97.145
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=221/313, Batch Size=32, Top 1 Acc=71.776, Top 5 Acc=97.144
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=222/313, Batch Size=32, Top 1 Acc=71.791, Top 5 Acc=97.142
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=223/313, Batch Size=32, Top 1 Acc=71.791, Top 5 Acc=97.141
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=224/313, Batch Size=32, Top 1 Acc=71.791, Top 5 Acc=97.140
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=225/313, Batch Size=32, Top 1 Acc=71.778, Top 5 Acc=97.153
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=226/313, Batch Size=32, Top 1 Acc=71.764, Top 5 Acc=97.152
+03/07 07:50:14 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=227/313, Batch Size=32, Top 1 Acc=71.779, Top 5 Acc=97.164
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=228/313, Batch Size=32, Top 1 Acc=71.724, Top 5 Acc=97.177
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=229/313, Batch Size=32, Top 1 Acc=71.766, Top 5 Acc=97.175
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=230/313, Batch Size=32, Top 1 Acc=71.861, Top 5 Acc=97.188
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=231/313, Batch Size=32, Top 1 Acc=71.834, Top 5 Acc=97.200
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=232/313, Batch Size=32, Top 1 Acc=71.767, Top 5 Acc=97.212
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=233/313, Batch Size=32, Top 1 Acc=71.768, Top 5 Acc=97.197
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=234/313, Batch Size=32, Top 1 Acc=71.808, Top 5 Acc=97.209
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=235/313, Batch Size=32, Top 1 Acc=71.809, Top 5 Acc=97.221
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=236/313, Batch Size=32, Top 1 Acc=71.849, Top 5 Acc=97.219
+03/07 07:50:15 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=237/313, Batch Size=32, Top 1 Acc=71.756, Top 5 Acc=97.231
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=238/313, Batch Size=32, Top 1 Acc=71.731, Top 5 Acc=97.243
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=239/313, Batch Size=32, Top 1 Acc=71.744, Top 5 Acc=97.241
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=240/313, Batch Size=32, Top 1 Acc=71.719, Top 5 Acc=97.227
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=241/313, Batch Size=32, Top 1 Acc=71.758, Top 5 Acc=97.225
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=242/313, Batch Size=32, Top 1 Acc=71.836, Top 5 Acc=97.237
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=243/313, Batch Size=32, Top 1 Acc=71.849, Top 5 Acc=97.222
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=244/313, Batch Size=32, Top 1 Acc=71.837, Top 5 Acc=97.234
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=245/313, Batch Size=32, Top 1 Acc=71.798, Top 5 Acc=97.232
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=246/313, Batch Size=32, Top 1 Acc=71.811, Top 5 Acc=97.231
+03/07 07:50:16 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=247/313, Batch Size=32, Top 1 Acc=71.812, Top 5 Acc=97.242
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=248/313, Batch Size=32, Top 1 Acc=71.736, Top 5 Acc=97.240
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=249/313, Batch Size=32, Top 1 Acc=71.712, Top 5 Acc=97.239
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=250/313, Batch Size=32, Top 1 Acc=71.700, Top 5 Acc=97.225
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=251/313, Batch Size=32, Top 1 Acc=71.688, Top 5 Acc=97.224
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=252/313, Batch Size=32, Top 1 Acc=71.726, Top 5 Acc=97.197
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=253/313, Batch Size=32, Top 1 Acc=71.690, Top 5 Acc=97.208
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=254/313, Batch Size=32, Top 1 Acc=71.678, Top 5 Acc=97.219
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=255/313, Batch Size=32, Top 1 Acc=71.667, Top 5 Acc=97.218
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=256/313, Batch Size=32, Top 1 Acc=71.692, Top 5 Acc=97.217
+03/07 07:50:17 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=257/313, Batch Size=32, Top 1 Acc=71.705, Top 5 Acc=97.215
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=258/313, Batch Size=32, Top 1 Acc=71.681, Top 5 Acc=97.202
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=259/313, Batch Size=32, Top 1 Acc=71.670, Top 5 Acc=97.201
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=260/313, Batch Size=32, Top 1 Acc=71.635, Top 5 Acc=97.188
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=261/313, Batch Size=32, Top 1 Acc=71.636, Top 5 Acc=97.186
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=262/313, Batch Size=32, Top 1 Acc=71.636, Top 5 Acc=97.185
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=263/313, Batch Size=32, Top 1 Acc=71.625, Top 5 Acc=97.196
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=264/313, Batch Size=32, Top 1 Acc=71.603, Top 5 Acc=97.206
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=265/313, Batch Size=32, Top 1 Acc=71.557, Top 5 Acc=97.193
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=266/313, Batch Size=32, Top 1 Acc=71.570, Top 5 Acc=97.204
+03/07 07:50:18 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=267/313, Batch Size=32, Top 1 Acc=71.559, Top 5 Acc=97.214
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=268/313, Batch Size=32, Top 1 Acc=71.607, Top 5 Acc=97.213
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=269/313, Batch Size=32, Top 1 Acc=71.631, Top 5 Acc=97.200
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=270/313, Batch Size=32, Top 1 Acc=71.597, Top 5 Acc=97.199
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=271/313, Batch Size=32, Top 1 Acc=71.621, Top 5 Acc=97.198
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=272/313, Batch Size=32, Top 1 Acc=71.588, Top 5 Acc=97.197
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=273/313, Batch Size=32, Top 1 Acc=71.543, Top 5 Acc=97.173
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=274/313, Batch Size=32, Top 1 Acc=71.544, Top 5 Acc=97.160
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=275/313, Batch Size=32, Top 1 Acc=71.568, Top 5 Acc=97.170
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=276/313, Batch Size=32, Top 1 Acc=71.535, Top 5 Acc=97.135
+03/07 07:50:19 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=277/313, Batch Size=32, Top 1 Acc=71.548, Top 5 Acc=97.134
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=278/313, Batch Size=32, Top 1 Acc=71.583, Top 5 Acc=97.145
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=279/313, Batch Size=32, Top 1 Acc=71.617, Top 5 Acc=97.144
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=280/313, Batch Size=32, Top 1 Acc=71.629, Top 5 Acc=97.132
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=281/313, Batch Size=32, Top 1 Acc=71.664, Top 5 Acc=97.131
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=282/313, Batch Size=32, Top 1 Acc=71.676, Top 5 Acc=97.119
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=283/313, Batch Size=32, Top 1 Acc=71.698, Top 5 Acc=97.118
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=284/313, Batch Size=32, Top 1 Acc=71.666, Top 5 Acc=97.117
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=285/313, Batch Size=32, Top 1 Acc=71.678, Top 5 Acc=97.116
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=286/313, Batch Size=32, Top 1 Acc=71.646, Top 5 Acc=97.115
+03/07 07:50:20 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=287/313, Batch Size=32, Top 1 Acc=71.668, Top 5 Acc=97.115
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=288/313, Batch Size=32, Top 1 Acc=71.680, Top 5 Acc=97.125
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=289/313, Batch Size=32, Top 1 Acc=71.637, Top 5 Acc=97.135
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=290/313, Batch Size=32, Top 1 Acc=71.616, Top 5 Acc=97.134
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=291/313, Batch Size=32, Top 1 Acc=71.585, Top 5 Acc=97.122
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=292/313, Batch Size=32, Top 1 Acc=71.597, Top 5 Acc=97.132
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=293/313, Batch Size=32, Top 1 Acc=71.555, Top 5 Acc=97.120
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=294/313, Batch Size=32, Top 1 Acc=71.567, Top 5 Acc=97.130
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=295/313, Batch Size=32, Top 1 Acc=71.578, Top 5 Acc=97.129
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=296/313, Batch Size=32, Top 1 Acc=71.548, Top 5 Acc=97.118
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=297/313, Batch Size=32, Top 1 Acc=71.559, Top 5 Acc=97.117
+03/07 07:50:21 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=298/313, Batch Size=32, Top 1 Acc=71.571, Top 5 Acc=97.127
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=299/313, Batch Size=32, Top 1 Acc=71.572, Top 5 Acc=97.126
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=300/313, Batch Size=32, Top 1 Acc=71.625, Top 5 Acc=97.135
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=301/313, Batch Size=32, Top 1 Acc=71.584, Top 5 Acc=97.135
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=302/313, Batch Size=32, Top 1 Acc=71.585, Top 5 Acc=97.134
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=303/313, Batch Size=32, Top 1 Acc=71.566, Top 5 Acc=97.143
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=304/313, Batch Size=32, Top 1 Acc=71.556, Top 5 Acc=97.132
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=305/313, Batch Size=32, Top 1 Acc=71.537, Top 5 Acc=97.131
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=306/313, Batch Size=32, Top 1 Acc=71.528, Top 5 Acc=97.130
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=307/313, Batch Size=32, Top 1 Acc=71.498, Top 5 Acc=97.129
+03/07 07:50:22 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=308/313, Batch Size=32, Top 1 Acc=71.469, Top 5 Acc=97.139
+03/07 07:50:23 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=309/313, Batch Size=32, Top 1 Acc=71.450, Top 5 Acc=97.138
+03/07 07:50:23 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=310/313, Batch Size=32, Top 1 Acc=71.482, Top 5 Acc=97.127
+03/07 07:50:23 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=311/313, Batch Size=32, Top 1 Acc=71.483, Top 5 Acc=97.126
+03/07 07:50:23 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=312/313, Batch Size=32, Top 1 Acc=71.464, Top 5 Acc=97.105
+03/07 07:50:23 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 - Iterations=313/313, Batch Size=16, Top 1 Acc=71.460, Top 5 Acc=97.110
+03/07 07:50:23 PM | trained_multilayer_inter10_capsnet_cifar10_model_epoch30 ConvCaps Activations saved to /content/drive/MyDrive/MSc_AI/Course/OCOM5300M-AI_Project/leeds_msc_ocom5300m_project/results/train/cifar10/16Caps12Dim/trained_multilayer_inter10_capsnet_cifar10_model_epoch30_convcaps_activations.pth
