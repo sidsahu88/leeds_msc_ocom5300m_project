@@ -1,2 +1,0 @@
-03/03 04:02:36 AM | multilayer_inter11_capsnet_cifar10_model Training - Epoch=1, Iteration=(0/782), Loss=0.7992, Top 1 Acc=7.81, Top 5 Acc=59.38
-03/03 04:03:15 AM | multilayer_inter11_capsnet_cifar10_model Training - Epoch=1, Iteration=(64/782), Loss=0.4801, Top 1 Acc=28.22, Top 5 Acc=75.14
